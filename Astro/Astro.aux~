@@ -1,5 +1,5 @@
 <!DOCTYPE SceneVersion>
-<SceneVersion Modified="2023-09-11 19:43:12" VersionName="Astro" ID="1">
+<SceneVersion VersionName="Astro" ID="1" Modified="2023-09-11 00:04:31">
  <Element Name="Cabeza" ID="1" Folder="Cabeza">
   <Drawing Name="1" Key="" Version="1"/>
  </Element>
@@ -19,18 +19,6 @@
   <Drawing Name="1" Key="" Version="1"/>
  </Element>
  <Element Name="PiernaIzquierda" ID="7" Folder="PiernaIzquierda">
-  <Drawing Name="1" Key="" Version="1"/>
- </Element>
- <Element Name="ManoDerecha" ID="8" Folder="ManoDerecha">
-  <Drawing Name="1" Key="" Version="1"/>
- </Element>
- <Element Name="ManoIzquierda" ID="9" Folder="ManoIzquierda">
-  <Drawing Name="1" Key="" Version="1"/>
- </Element>
- <Element Name="PieDerecho" ID="10" Folder="PieDerecho">
-  <Drawing Name="1" Key="" Version="1"/>
- </Element>
- <Element Name="PieIzquierdo" ID="11" Folder="PieIzquierdo">
   <Drawing Name="1" Key="" Version="1"/>
  </Element>
 </SceneVersion>
