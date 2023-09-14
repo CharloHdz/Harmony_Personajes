@@ -7,4 +7,8 @@
  <element id="5" elementName="BrazoIzquierdo" elementFolder="BrazoIzquierdo" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="6" elementName="PiernaDerecha" elementFolder="PiernaDerecha" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="7" elementName="PiernaIzquierda" elementFolder="PiernaIzquierda" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="8" elementName="ManoDerecha" elementFolder="ManoDerecha" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="9" elementName="ManoIzquierda" elementFolder="ManoIzquierda" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="10" elementName="PieDerecho" elementFolder="PieDerecho" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="11" elementName="PieIzquierdo" elementFolder="PieIzquierdo" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
 </elements>
