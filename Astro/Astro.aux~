@@ -1,24 +1,36 @@
 <!DOCTYPE SceneVersion>
-<SceneVersion Modified="2023-09-14 13:46:22" ID="1" VersionName="Astro">
- <Element Name="Cabeza" ID="1" Folder="Cabeza">
+<SceneVersion Modified="2023-09-14 15:55:04" VersionName="Astro" ID="1">
+ <Element Folder="Cabeza" Name="Cabeza" ID="1">
   <Drawing Name="1" Version="1" Key=""/>
  </Element>
- <Element Name="SmartSelect_20230910_231236_Infinite_Painter" ID="2" Folder="SmartSelect_20230910_231236_Infinite_Painter">
+ <Element Folder="SmartSelect_20230910_231236_Infinite_Painter" Name="SmartSelect_20230910_231236_Infinite_Painter" ID="2">
   <Drawing Name="1" Version="1" Key=""/>
  </Element>
- <Element Name="Pecho" ID="3" Folder="Pecho">
+ <Element Folder="Pecho" Name="Pecho" ID="3">
   <Drawing Name="1" Version="1" Key=""/>
  </Element>
- <Element Name="BrazoDerecho" ID="4" Folder="BrazoDerecho">
+ <Element Folder="BrazoDerecho" Name="BrazoDerecho" ID="4">
   <Drawing Name="1" Version="1" Key=""/>
  </Element>
- <Element Name="BrazoIzquierdo" ID="5" Folder="BrazoIzquierdo">
+ <Element Folder="BrazoIzquierdo" Name="BrazoIzquierdo" ID="5">
   <Drawing Name="1" Version="1" Key=""/>
  </Element>
- <Element Name="PiernaDerecha" ID="6" Folder="PiernaDerecha">
+ <Element Folder="PiernaDerecha" Name="PiernaDerecha" ID="6">
   <Drawing Name="1" Version="1" Key=""/>
  </Element>
- <Element Name="PiernaIzquierda" ID="7" Folder="PiernaIzquierda">
+ <Element Folder="PiernaIzquierda" Name="PiernaIzquierda" ID="7">
+  <Drawing Name="1" Version="1" Key=""/>
+ </Element>
+ <Element Folder="ManoDerecha" Name="ManoDerecha" ID="8">
+  <Drawing Name="1" Version="1" Key=""/>
+ </Element>
+ <Element Folder="ManoIzquierda" Name="ManoIzquierda" ID="9">
+  <Drawing Name="1" Version="1" Key=""/>
+ </Element>
+ <Element Folder="PieDerecho" Name="PieDerecho" ID="10">
+  <Drawing Name="1" Version="1" Key=""/>
+ </Element>
+ <Element Folder="PieIzquierdo" Name="PieIzquierdo" ID="11">
   <Drawing Name="1" Version="1" Key=""/>
  </Element>
 </SceneVersion>
