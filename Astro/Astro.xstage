@@ -78,7 +78,7 @@
     <column type="0" name="Cabeza" displayOrder="0" width="100" anonymous="true" id="1">
      <elementSeq exposures="1" val="1" id="1"/>
     </column>
-    <column type="0" name="ATV-0BCAD51B6DF01668" display="false" displayOrder="0" width="100" anonymous="true" id="2">
+    <column type="0" name="ATV-0BCAD51B6DF01668" displayOrder="0" width="100" anonymous="true" id="2">
      <elementSeq exposures="1-60" val="1" id="2"/>
     </column>
     <column type="0" name="ATV-0BCAD51B6DF05263" displayOrder="0" width="100" anonymous="true" id="3">
@@ -96,7 +96,7 @@
     <column type="0" name="ATV-0BCAD51B6DF08FCE" displayOrder="0" width="100" anonymous="true" id="7">
      <elementSeq exposures="1" val="1" id="7"/>
     </column>
-    <column type="0" name="ATV-0BCB004DD3201D63" display="false" displayOrder="0" width="100" anonymous="true" id="8">
+    <column type="0" name="ATV-0BCB004DD3201D63" displayOrder="0" width="100" anonymous="true" id="8">
      <elementSeq exposures="1" val="1" id="8"/>
     </column>
     <column type="0" name="ATV-0BCB004DD320212D" displayOrder="0" width="100" anonymous="true" id="9">
@@ -110,24 +110,28 @@
     </column>
     <column type="3" name="ATV-0BCB004DD3204FE6" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="1" yLocal="0.19327689821877403" y="0.19327689821877403"/>
      </points>
     </column>
     <column type="3" name="ATV-0BCB004DD3205FDB" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1" yLocal="-9.7323786422416276" y="-9.7323786422416276"/>
+      <pt constSeg="false" x="1" yLocal="-9.4132241051676786" y="-9.4132241051676786"/>
      </points>
     </column>
     <column type="3" name="ATV-0BCB004DD3205FDC" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="1" yLocal="-0.027777710681184287" y="-0.027777710681184287"/>
      </points>
     </column>
     <column type="3" name="ATV-0BCB004DD3206098" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="1" yLocal="-1.0053073743219687" y="-1.0053073743219687"/>
      </points>
@@ -142,8 +146,9 @@
        <pt val="1.4988010832439613e-15,4.9960036108132044e-15,0" lockedInTime="1"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0BCB004DD3206450" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0BCBD592B4F012C6" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
+      <noFrames/>
       <points version="2">
        <pt constSeg="false" x="1" yLocal="0" y="0"/>
       </points>
@@ -151,26 +156,137 @@
     </column>
     <column type="3" name="ATV-0BCB004DD3206451" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="1" yLocal="0.99999999999999545" y="0.99999999999999545"/>
      </points>
     </column>
     <column type="3" name="ATV-0BCB004DD3206452" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="1" yLocal="0.99999999999999922" y="0.99999999999999922"/>
      </points>
     </column>
     <column type="3" name="ATV-0BCB004DD3206453" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="1" yLocal="9.3308987340051015" y="9.3308987340051015"/>
      </points>
     </column>
     <column type="3" name="ATV-0BCB004DD3206454" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="1" yLocal="3.6576378836830473e-14" y="3.6576378836830473e-14"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-0BCBD592B4F03B0F" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1" yLocal="-0.026104922053891588" y="-0.026104922053891588"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-0BCBD592B4F03B10" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1" yLocal="0.0057190689414882145" y="0.0057190689414882145"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-0BCBD592B4F03B11" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1" yLocal="-0.026104922053891588" y="-0.026104922053891588"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-0BCBD592B4F03B12" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1" yLocal="0.0057190689414882145" y="0.0057190689414882145"/>
+     </points>
+    </column>
+    <column type="2" name="ATV-0BCBD592B4F05A11" anonymous="true" displayOrder="0">
+     <infoX width="100"/>
+     <infoY width="100"/>
+     <infoZ width="100"/>
+     <infoVelocity width="100"/>
+     <path3D useVeloX="true" useVeloY="true" useVeloZ="true" constantZ="false">
+      <points>
+       <pt val="0.25582467706057116,-0.0078308625818035715,0" lockedInTime="1"/>
+      </points>
+     </path3D>
+     <velocity type="3" name="ATV-0BCBD592B4F05A12" displayOrder="0" width="100" anonymous="true">
+      <step val="1" start="1" stop="1"/>
+      <points version="2">
+       <pt constSeg="false" x="1" yLocal="0" y="0"/>
+      </points>
+     </velocity>
+    </column>
+    <column type="3" name="ATV-0BCBD592B4F05A13" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1" yLocal="0.999999999999998" y="0.999999999999998"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-0BCBD592B4F05A14" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1" yLocal="1.0000000000000024" y="1.0000000000000024"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-0BCBD592B4F05A15" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1" yLocal="375.93793566423744" y="375.93793566423744"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-0BCBD592B4F05A16" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1" yLocal="3.8166656177562113e-14" y="3.8166656177562113e-14"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-0BCBD592B4F05B93" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1" yLocal="9.9920072216264089e-16" y="9.9920072216264089e-16"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-0BCBD592B4F05B94" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1" yLocal="-2.2898349882893854e-16" y="-2.2898349882893854e-16"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-0BCBD592B4F05B95" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1" yLocal="0" y="0"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-0BCBD592B4F05B96" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1" yLocal="0.99999999999999911" y="0.99999999999999911"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-0BCBD592B4F05B97" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1" yLocal="1.000000000000004" y="1.000000000000004"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-0BCBD592B4F05B98" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1" yLocal="-8.5912559972998146" y="-8.5912559972998146"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-0BCBD592B4F05B99" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1" yLocal="9.0645808421709876e-14" y="9.0645808421709876e-14"/>
      </points>
     </column>
    </columns>
@@ -182,7 +298,7 @@
      <collapsed val="false"/>
     </options>
     <nodeslist>
-     <module type="COMPOSITE" name="Composite" pos="15,-11,9" publishUnderTab="Composite">
+     <module type="COMPOSITE" name="Composite" pos="15,-11,13" publishUnderTab="Composite">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -201,13 +317,13 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="DISPLAY" name="Display" pos="50,50,19" publishUnderTab="Display">
+     <module type="DISPLAY" name="Display" pos="50,50,23" publishUnderTab="Display">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
      </module>
-     <module type="WRITE" name="Write" pos="-50,50,20" publishUnderTab="Write">
+     <module type="WRITE" name="Write" pos="-50,50,24" publishUnderTab="Write">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -244,7 +360,7 @@
        <cleanUpPartitionFolders val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Cabeza-P" pos="397,-165,6" publishUnderTab="Cabeza-P">
+     <module type="PEG" name="Cabeza-P" pos="397,-165,10" publishUnderTab="Cabeza-P">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -255,6 +371,7 @@
        <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
        <position>
         <separate val="false"/>
+        <attr3dpath col="ATV-0BCBD592B4F05A11"/>
         <x val="0" defaultValue="0"/>
         <y val="0" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
@@ -263,26 +380,26 @@
         <separate val="true"/>
         <inFields val="false"/>
         <xy val="1" defaultValue="1"/>
-        <x val="1" defaultValue="1"/>
-        <y val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1" col="ATV-0BCBD592B4F05A13"/>
+        <y val="1" defaultValue="1" col="ATV-0BCBD592B4F05A14"/>
         <z val="1" defaultValue="1"/>
        </scale>
        <rotation>
         <separate val="false"/>
         <anglex val="0" defaultValue="0"/>
         <angley val="0" defaultValue="0"/>
-        <anglez val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0" col="ATV-0BCBD592B4F05A15"/>
        </rotation>
-       <angle val="0" defaultValue="0"/>
-       <skew val="0" defaultValue="0"/>
+       <angle val="0" defaultValue="0" col="ATV-0BCBD592B4F05A15"/>
+       <skew val="0" defaultValue="0" col="ATV-0BCBD592B4F05A16"/>
        <pivot>
-        <x val="0" defaultValue="0"/>
-        <y val="0" defaultValue="0"/>
+        <x val="-0.55588268835721266" defaultValue="0"/>
+        <y val="-0.098644297929107463" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
        </pivot>
        <splineOffset>
-        <x val="0" defaultValue="0"/>
-        <y val="0" defaultValue="0"/>
+        <x val="-0.25582467706057394" defaultValue="0"/>
+        <y val="0.0078308625817863492" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
        </splineOffset>
        <ignoreParentPegScaling val="false"/>
@@ -306,7 +423,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="Cabeza" pos="381,-103,7" publishUnderTab="Drawing">
+     <module type="READ" name="Cabeza" pos="381,-103,11" publishUnderTab="Drawing">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -317,29 +434,29 @@
        <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
        <offset>
         <separate val="true"/>
-        <x val="0" defaultValue="0"/>
-        <y val="0" defaultValue="0"/>
-        <z val="0" defaultValue="0"/>
+        <x val="0" defaultValue="0" col="ATV-0BCBD592B4F05B93"/>
+        <y val="0" defaultValue="0" col="ATV-0BCBD592B4F05B94"/>
+        <z val="0" defaultValue="0" col="ATV-0BCBD592B4F05B95"/>
        </offset>
        <scale>
         <separate val="true"/>
         <inFields val="false"/>
         <xy val="1" defaultValue="1"/>
-        <x val="1" defaultValue="1"/>
-        <y val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1" col="ATV-0BCBD592B4F05B96"/>
+        <y val="1" defaultValue="1" col="ATV-0BCBD592B4F05B97"/>
         <z val="1" defaultValue="1"/>
        </scale>
        <rotation>
         <separate val="false"/>
         <anglex val="0" defaultValue="0"/>
         <angley val="0" defaultValue="0"/>
-        <anglez val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0" col="ATV-0BCBD592B4F05B98"/>
        </rotation>
-       <angle val="0" defaultValue="0"/>
-       <skew val="0" defaultValue="0"/>
+       <angle val="0" defaultValue="0" col="ATV-0BCBD592B4F05B98"/>
+       <skew val="0" defaultValue="0" col="ATV-0BCBD592B4F05B99"/>
        <pivot>
-        <x val="0" defaultValue="0"/>
-        <y val="0" defaultValue="0"/>
+        <x val="-0.60437816942643241" defaultValue="0"/>
+        <y val="-0.070311267160289057" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
        </pivot>
        <splineOffset>
@@ -418,7 +535,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="SmartSelect_20230910_231236_Infinite_Painter" pos="416,-72,11" publishUnderTab="SmartSelect_20230910_231236_Infinite_Painter">
+     <module type="READ" name="SmartSelect_20230910_231236_Infinite_Painter" pos="416,-72,15" publishUnderTab="SmartSelect_20230910_231236_Infinite_Painter">
       <options>
        <disabled val="true"/>
        <collapsed val="true"/>
@@ -531,7 +648,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="Pecho-P" pos="0,0,5" publishUnderTab="Pecho-P">
+     <module type="PEG" name="Pecho-P" pos="318,-196,4" publishUnderTab="Pecho-P">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -593,7 +710,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="Pecho" pos="303,-134,10" publishUnderTab="Pecho">
+     <module type="READ" name="Pecho" pos="303,-134,14" publishUnderTab="Pecho">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -705,9 +822,9 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="BrazoDerecho-P" pos="200,-220,4" publishUnderTab="BrazoDerecho-P">
+     <module type="PEG" name="BrazoDerecho-P" pos="200,-220,9" publishUnderTab="BrazoDerecho-P">
       <options>
-       <collapsed val="true"/>
+       <collapsed val="false"/>
        <version val="1"/>
       </options>
       <attrs>
@@ -716,7 +833,7 @@
        <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
        <position>
         <separate val="false"/>
-        <x val="2.999992798272745" defaultValue="0"/>
+        <x val="2.919992990318808" defaultValue="0"/>
         <y val="0" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
        </position>
@@ -737,12 +854,12 @@
        <angle val="0" defaultValue="0"/>
        <skew val="0" defaultValue="0"/>
        <pivot>
-        <x val="-1.4999963991363725" defaultValue="0"/>
-        <y val="-1.2888857948134755" defaultValue="0"/>
+        <x val="-1.459996495159404" defaultValue="0"/>
+        <y val="-1.1999971193090984" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
        </pivot>
        <splineOffset>
-        <x val="-2.999992798272745" defaultValue="0"/>
+        <x val="-2.919992990318808" defaultValue="0"/>
         <y val="0" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
        </splineOffset>
@@ -767,7 +884,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="BrazoDerecho" pos="185,-165,18" publishUnderTab="BrazoDerecho">
+     <module type="READ" name="BrazoDerecho" pos="185,-165,22" publishUnderTab="BrazoDerecho">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -778,7 +895,7 @@
        <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
        <offset>
         <separate val="true"/>
-        <x val="3.0666593049010284" defaultValue="0"/>
+        <x val="-2.8533264836905192" defaultValue="0"/>
         <y val="0" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
        </offset>
@@ -799,12 +916,12 @@
        <angle val="0" defaultValue="0"/>
        <skew val="0" defaultValue="0"/>
        <pivot>
-        <x val="-1.5333296524505142" defaultValue="0"/>
-        <y val="-1.5111074835744196" defaultValue="0"/>
+        <x val="1.4266632418452594" defaultValue="0"/>
+        <y val="-1.2444414570612867" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
        </pivot>
        <splineOffset>
-        <x val="-3.0666593049010284" defaultValue="0"/>
+        <x val="2.8533264836905192" defaultValue="0"/>
         <y val="0" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
        </splineOffset>
@@ -879,7 +996,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="ManoIzquierda-P" pos="-128,-255,1" publishUnderTab="ManoIzquierda-P">
+     <module type="PEG" name="ManoIzquierda-P" pos="-128,-255,6" publishUnderTab="ManoIzquierda-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -911,8 +1028,8 @@
        <angle val="0" defaultValue="0"/>
        <skew val="0" defaultValue="0"/>
        <pivot>
-        <x val="-5.4791534318662771" defaultValue="0"/>
-        <y val="-2.7777710681197854" defaultValue="0"/>
+        <x val="-5.411393252586457" defaultValue="0"/>
+        <y val="-2.6665031577643203" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
        </pivot>
        <splineOffset>
@@ -941,7 +1058,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="ManoIzquierda" pos="-143,-196,13" publishUnderTab="ManoIzquierda">
+     <module type="READ" name="ManoIzquierda" pos="-143,-196,17" publishUnderTab="ManoIzquierda">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -952,8 +1069,8 @@
        <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
        <offset>
         <separate val="true"/>
-        <x val="0" defaultValue="0"/>
-        <y val="0" defaultValue="0"/>
+        <x val="0" defaultValue="0" col="ATV-0BCBD592B4F03B0F"/>
+        <y val="0" defaultValue="0" col="ATV-0BCBD592B4F03B10"/>
         <z val="0" defaultValue="0"/>
        </offset>
        <scale>
@@ -973,8 +1090,8 @@
        <angle val="0" defaultValue="0"/>
        <skew val="0" defaultValue="0"/>
        <pivot>
-        <x val="0" defaultValue="0"/>
-        <y val="0" defaultValue="0"/>
+        <x val="-5.3967649024024" defaultValue="0"/>
+        <y val="-2.6965747365596999" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
        </pivot>
        <splineOffset>
@@ -1053,9 +1170,9 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="BrazoIzquierdo-P" pos="-17,-281,2" publishUnderTab="BrazoIzquierdo-P">
+     <module type="PEG" name="BrazoIzquierdo-P" pos="-17,-281,7" publishUnderTab="BrazoIzquierdo-P">
       <options>
-       <collapsed val="true"/>
+       <collapsed val="false"/>
        <version val="1"/>
       </options>
       <attrs>
@@ -1116,7 +1233,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="BrazoIzquierdo" pos="-33,-227,17" publishUnderTab="BrazoIzquierdo">
+     <module type="READ" name="BrazoIzquierdo" pos="-33,-227,21" publishUnderTab="BrazoIzquierdo">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -1127,8 +1244,8 @@
        <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
        <offset>
         <separate val="true"/>
-        <x val="0" defaultValue="0"/>
-        <y val="0" defaultValue="0"/>
+        <x val="0" defaultValue="0" col="ATV-0BCBD592B4F03B11"/>
+        <y val="0" defaultValue="0" col="ATV-0BCBD592B4F03B12"/>
         <z val="0" defaultValue="0"/>
        </offset>
        <scale>
@@ -1148,8 +1265,8 @@
        <angle val="0" defaultValue="0"/>
        <skew val="0" defaultValue="0"/>
        <pivot>
-        <x val="0" defaultValue="0"/>
-        <y val="0" defaultValue="0"/>
+        <x val="-2.1465984291109743" defaultValue="0"/>
+        <y val="-1.1025585898833881" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
        </pivot>
        <splineOffset>
@@ -1228,7 +1345,69 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="PiernaDerecha" pos="-252,-165,12" publishUnderTab="PiernaDerecha">
+     <module type="PEG" name="PiernaDerecha-P" pos="-236,-227,3" publishUnderTab="PiernaDerecha-P">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <position>
+        <separate val="false"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </position>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1"/>
+        <y val="1" defaultValue="1"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0"/>
+       </rotation>
+       <angle val="0" defaultValue="0"/>
+       <skew val="0" defaultValue="0"/>
+       <pivot>
+        <x val="0.714283999588749" defaultValue="0"/>
+        <y val="-5.8906384163615311" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <groupAtNetworkBuilding val="false"/>
+       <addCompositeToGroup val="true"/>
+      </attrs>
+     </module>
+     <module type="READ" name="PiernaDerecha" pos="-252,-165,16" publishUnderTab="PiernaDerecha">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -1260,8 +1439,8 @@
        <angle val="0" defaultValue="0"/>
        <skew val="0" defaultValue="0"/>
        <pivot>
-        <x val="0" defaultValue="0"/>
-        <y val="0" defaultValue="0"/>
+        <x val="0.72499825958257924" defaultValue="0"/>
+        <y val="-5.9222080054791535" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
        </pivot>
        <splineOffset>
@@ -1340,7 +1519,69 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="PiernaIzquierda" pos="-465,-103,16" publishUnderTab="PiernaIzquierda">
+     <module type="PEG" name="PiernaIzquierda-P" pos="-450,-157,5" publishUnderTab="PiernaIzquierda-P">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <position>
+        <separate val="false"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </position>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1"/>
+        <y val="1" defaultValue="1"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0"/>
+       </rotation>
+       <angle val="0" defaultValue="0"/>
+       <skew val="0" defaultValue="0"/>
+       <pivot>
+        <x val="-1.3666633635281085" defaultValue="0"/>
+        <y val="-6.0222076677364278" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <groupAtNetworkBuilding val="false"/>
+       <addCompositeToGroup val="true"/>
+      </attrs>
+     </module>
+     <module type="READ" name="PiernaIzquierda" pos="-465,-103,20" publishUnderTab="PiernaIzquierda">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -1372,8 +1613,8 @@
        <angle val="0" defaultValue="0"/>
        <skew val="0" defaultValue="0"/>
        <pivot>
-        <x val="0" defaultValue="0"/>
-        <y val="0" defaultValue="0"/>
+        <x val="-1.3666633858798041" defaultValue="0"/>
+        <y val="-6.177762947554239" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
        </pivot>
        <splineOffset>
@@ -1452,7 +1693,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="ManoDerecha-P" pos="95,-247,3" publishUnderTab="ManoDerecha-P">
+     <module type="PEG" name="ManoDerecha-P" pos="95,-247,8" publishUnderTab="ManoDerecha-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1484,8 +1725,8 @@
        <angle val="0" defaultValue="0"/>
        <skew val="0" defaultValue="0"/>
        <pivot>
-        <x val="-4.8716548271967017" defaultValue="0"/>
-        <y val="-3.5233248740630101" defaultValue="0"/>
+        <x val="-4.7249885126144795" defaultValue="0"/>
+        <y val="-3.3811029932560048" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
        </pivot>
        <splineOffset>
@@ -1514,7 +1755,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="ManoDerecha" pos="79,-196,8" publishUnderTab="ManoDerecha">
+     <module type="READ" name="ManoDerecha" pos="79,-196,12" publishUnderTab="ManoDerecha">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -1546,12 +1787,12 @@
        <angle val="0" defaultValue="0"/>
        <skew val="0" defaultValue="0"/>
        <pivot>
-        <x val="4.8490571273354091" defaultValue="0"/>
-        <y val="-3.45554723125827" defaultValue="0"/>
+        <x val="4.6899022061693412" defaultValue="0"/>
+        <y val="-3.3844362908547678" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
        </pivot>
        <splineOffset>
-        <x val="6.649052756628639" defaultValue="0"/>
+        <x val="6.3298982195546918" defaultValue="0"/>
         <y val="0" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
        </splineOffset>
@@ -1626,7 +1867,69 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="PieDerecho" pos="-341,-134,14" publishUnderTab="PieDerecho">
+     <module type="PEG" name="PieDerecho-P" pos="-325,-196,2" publishUnderTab="PieDerecho-P">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <position>
+        <separate val="false"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </position>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1"/>
+        <y val="1" defaultValue="1"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0"/>
+       </rotation>
+       <angle val="0" defaultValue="0"/>
+       <skew val="0" defaultValue="0"/>
+       <pivot>
+        <x val="0.60416521818145386" defaultValue="0"/>
+        <y val="-9.6110880395317047" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <groupAtNetworkBuilding val="false"/>
+       <addCompositeToGroup val="true"/>
+      </attrs>
+     </module>
+     <module type="READ" name="PieDerecho" pos="-341,-134,18" publishUnderTab="PieDerecho">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -1658,8 +1961,8 @@
        <angle val="0" defaultValue="0"/>
        <skew val="0" defaultValue="0"/>
        <pivot>
-        <x val="0" defaultValue="0"/>
-        <y val="0" defaultValue="0"/>
+        <x val="0.59708189998956451" defaultValue="0"/>
+        <y val="-9.5571992793863032" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
        </pivot>
        <splineOffset>
@@ -1738,7 +2041,69 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="PieIzquierdo" pos="-559,-72,15" publishUnderTab="PieIzquierdo">
+     <module type="PEG" name="PieIzquierdo-P" pos="-544,-134,1" publishUnderTab="PieIzquierdo-P">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <position>
+        <separate val="false"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </position>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1"/>
+        <y val="1" defaultValue="1"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0"/>
+       </rotation>
+       <angle val="0" defaultValue="0"/>
+       <skew val="0" defaultValue="0"/>
+       <pivot>
+        <x val="-1.4770797874828974" defaultValue="0"/>
+        <y val="-9.286088819097948" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <groupAtNetworkBuilding val="false"/>
+       <addCompositeToGroup val="true"/>
+      </attrs>
+     </module>
+     <module type="READ" name="PieIzquierdo" pos="-559,-72,19" publishUnderTab="PieIzquierdo">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -1770,8 +2135,8 @@
        <angle val="0" defaultValue="0"/>
        <skew val="0" defaultValue="0"/>
        <pivot>
-        <x val="0" defaultValue="0"/>
-        <y val="0" defaultValue="0"/>
+        <x val="-1.4762464563052653" defaultValue="0"/>
+        <y val="-9.2699777470766982" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
        </pivot>
        <splineOffset>
@@ -1867,11 +2232,17 @@
      <link out="BrazoIzquierdo-P" in="BrazoIzquierdo" inport="0"/>
      <link out="BrazoIzquierdo-P" in="ManoIzquierda-P"/>
      <link out="BrazoIzquierdo" in="Composite" inport="5"/>
+     <link out="PiernaDerecha-P" in="PiernaDerecha" inport="0"/>
+     <link out="PiernaDerecha-P" in="PieDerecho-P"/>
      <link out="PiernaDerecha" in="Composite" inport="7"/>
+     <link out="PiernaIzquierda-P" in="PiernaIzquierda" inport="0"/>
+     <link out="PiernaIzquierda-P" in="PieIzquierdo-P"/>
      <link out="PiernaIzquierda" in="Composite" inport="9"/>
      <link out="ManoDerecha-P" in="ManoDerecha" inport="0"/>
      <link out="ManoDerecha" in="Composite" inport="4"/>
+     <link out="PieDerecho-P" in="PieDerecho" inport="0"/>
      <link out="PieDerecho" in="Composite" inport="8"/>
+     <link out="PieIzquierdo-P" in="PieIzquierdo" inport="0"/>
      <link out="PieIzquierdo" in="Composite" inport="10"/>
     </linkedlist>
    </rootgroup>

@@ -1,24 +1,24 @@
 <!DOCTYPE SceneVersion>
-<SceneVersion VersionName="Astro" ID="1" Modified="2023-09-11 00:04:31">
+<SceneVersion Modified="2023-09-14 13:46:22" ID="1" VersionName="Astro">
  <Element Name="Cabeza" ID="1" Folder="Cabeza">
-  <Drawing Name="1" Key="" Version="1"/>
+  <Drawing Name="1" Version="1" Key=""/>
  </Element>
  <Element Name="SmartSelect_20230910_231236_Infinite_Painter" ID="2" Folder="SmartSelect_20230910_231236_Infinite_Painter">
-  <Drawing Name="1" Key="" Version="1"/>
+  <Drawing Name="1" Version="1" Key=""/>
  </Element>
  <Element Name="Pecho" ID="3" Folder="Pecho">
-  <Drawing Name="1" Key="" Version="1"/>
+  <Drawing Name="1" Version="1" Key=""/>
  </Element>
  <Element Name="BrazoDerecho" ID="4" Folder="BrazoDerecho">
-  <Drawing Name="1" Key="" Version="1"/>
+  <Drawing Name="1" Version="1" Key=""/>
  </Element>
  <Element Name="BrazoIzquierdo" ID="5" Folder="BrazoIzquierdo">
-  <Drawing Name="1" Key="" Version="1"/>
+  <Drawing Name="1" Version="1" Key=""/>
  </Element>
  <Element Name="PiernaDerecha" ID="6" Folder="PiernaDerecha">
-  <Drawing Name="1" Key="" Version="1"/>
+  <Drawing Name="1" Version="1" Key=""/>
  </Element>
  <Element Name="PiernaIzquierda" ID="7" Folder="PiernaIzquierda">
-  <Drawing Name="1" Key="" Version="1"/>
+  <Drawing Name="1" Version="1" Key=""/>
  </Element>
 </SceneVersion>
