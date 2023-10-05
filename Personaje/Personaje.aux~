@@ -1,0 +1,6 @@
+<!DOCTYPE SceneVersion>
+<SceneVersion Modified="2023-10-02 19:53:31" VersionName="Personaje" ID="1">
+ <Element Folder="Drawing" Name="Drawing" ID="1">
+  <Drawing Name="1" Key="" Version="1"/>
+ </Element>
+</SceneVersion>
