@@ -289,6 +289,42 @@
       <pt constSeg="false" x="1" yLocal="9.0645808421709876e-14" y="9.0645808421709876e-14"/>
      </points>
     </column>
+    <column type="3" name="ATV-0BCBD592B4F07F3B" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1" yLocal="-5.7039819817095614" y="-5.7039819817095614"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-0BCBD592B4F07F3C" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1" yLocal="-0.88340423861912787" y="-0.88340423861912787"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-0BCBD592B4F07F3D" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1" yLocal="0.125" y="0.125"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-0BCBD592B4F07F3E" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1" yLocal="0" y="0"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-0BCBD592B4F07F3F" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1" yLocal="2.2643373865604937" y="2.2643373865604937"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-0BCBD592B4F07F40" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1" yLocal="-218.17367587603849" y="-218.17367587603849"/>
+     </points>
+    </column>
    </columns>
    <options>
     <defaultDisplay val="Display"/>
@@ -298,7 +334,7 @@
      <collapsed val="false"/>
     </options>
     <nodeslist>
-     <module type="COMPOSITE" name="Composite" pos="15,-11,13" publishUnderTab="Composite">
+     <module type="COMPOSITE" name="Composite" pos="15,-11,17" publishUnderTab="Composite">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -317,13 +353,13 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="DISPLAY" name="Display" pos="50,50,23" publishUnderTab="Display">
+     <module type="DISPLAY" name="Display" pos="50,50,27" publishUnderTab="Display">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
      </module>
-     <module type="WRITE" name="Write" pos="-50,50,24" publishUnderTab="Write">
+     <module type="WRITE" name="Write" pos="-50,50,28" publishUnderTab="Write">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -360,7 +396,7 @@
        <cleanUpPartitionFolders val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Cabeza-P" pos="397,-165,10" publishUnderTab="Cabeza-P">
+     <module type="PEG" name="Cabeza-P" pos="397,-165,14" publishUnderTab="Cabeza-P">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -423,7 +459,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="Cabeza" pos="381,-103,11" publishUnderTab="Drawing">
+     <module type="READ" name="Cabeza" pos="381,-103,15" publishUnderTab="Drawing">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -535,7 +571,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="SmartSelect_20230910_231236_Infinite_Painter" pos="416,-72,15" publishUnderTab="SmartSelect_20230910_231236_Infinite_Painter">
+     <module type="READ" name="SmartSelect_20230910_231236_Infinite_Painter" pos="416,-72,19" publishUnderTab="SmartSelect_20230910_231236_Infinite_Painter">
       <options>
        <disabled val="true"/>
        <collapsed val="true"/>
@@ -648,7 +684,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="Pecho-P" pos="318,-196,4" publishUnderTab="Pecho-P">
+     <module type="PEG" name="Pecho-P" pos="318,-196,8" publishUnderTab="Pecho-P">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -710,7 +746,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="Pecho" pos="303,-134,14" publishUnderTab="Pecho">
+     <module type="READ" name="Pecho" pos="303,-134,18" publishUnderTab="Pecho">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -822,9 +858,9 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="BrazoDerecho-P" pos="200,-220,9" publishUnderTab="BrazoDerecho-P">
+     <module type="PEG" name="BrazoDerecho-P" pos="200,-220,13" publishUnderTab="BrazoDerecho-P">
       <options>
-       <collapsed val="false"/>
+       <collapsed val="true"/>
        <version val="1"/>
       </options>
       <attrs>
@@ -884,7 +920,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="BrazoDerecho" pos="185,-165,22" publishUnderTab="BrazoDerecho">
+     <module type="READ" name="BrazoDerecho" pos="185,-165,26" publishUnderTab="BrazoDerecho">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -996,7 +1032,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="ManoIzquierda-P" pos="-128,-255,6" publishUnderTab="ManoIzquierda-P">
+     <module type="PEG" name="ManoIzquierda-P" pos="-128,-255,10" publishUnderTab="ManoIzquierda-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1058,7 +1094,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="ManoIzquierda" pos="-143,-196,17" publishUnderTab="ManoIzquierda">
+     <module type="READ" name="ManoIzquierda" pos="-143,-196,21" publishUnderTab="ManoIzquierda">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -1170,9 +1206,9 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="BrazoIzquierdo-P" pos="-17,-281,7" publishUnderTab="BrazoIzquierdo-P">
+     <module type="PEG" name="BrazoIzquierdo-P" pos="-17,-281,11" publishUnderTab="BrazoIzquierdo-P">
       <options>
-       <collapsed val="false"/>
+       <collapsed val="true"/>
        <version val="1"/>
       </options>
       <attrs>
@@ -1233,7 +1269,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="BrazoIzquierdo" pos="-33,-227,21" publishUnderTab="BrazoIzquierdo">
+     <module type="READ" name="BrazoIzquierdo" pos="-33,-227,25" publishUnderTab="BrazoIzquierdo">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -1345,9 +1381,9 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="PiernaDerecha-P" pos="-236,-227,3" publishUnderTab="PiernaDerecha-P">
+     <module type="PEG" name="PiernaDerecha-P" pos="-236,-227,7" publishUnderTab="PiernaDerecha-P">
       <options>
-       <collapsed val="false"/>
+       <collapsed val="true"/>
        <version val="1"/>
       </options>
       <attrs>
@@ -1407,7 +1443,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="PiernaDerecha" pos="-252,-165,16" publishUnderTab="PiernaDerecha">
+     <module type="READ" name="PiernaDerecha" pos="-252,-165,20" publishUnderTab="PiernaDerecha">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -1519,9 +1555,9 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="PiernaIzquierda-P" pos="-450,-157,5" publishUnderTab="PiernaIzquierda-P">
+     <module type="PEG" name="PiernaIzquierda-P" pos="-450,-157,9" publishUnderTab="PiernaIzquierda-P">
       <options>
-       <collapsed val="false"/>
+       <collapsed val="true"/>
        <version val="1"/>
       </options>
       <attrs>
@@ -1581,7 +1617,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="PiernaIzquierda" pos="-465,-103,20" publishUnderTab="PiernaIzquierda">
+     <module type="READ" name="PiernaIzquierda" pos="-465,-103,24" publishUnderTab="PiernaIzquierda">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -1693,7 +1729,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="ManoDerecha-P" pos="95,-247,8" publishUnderTab="ManoDerecha-P">
+     <module type="PEG" name="ManoDerecha-P" pos="95,-247,12" publishUnderTab="ManoDerecha-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1755,7 +1791,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="ManoDerecha" pos="79,-196,12" publishUnderTab="ManoDerecha">
+     <module type="READ" name="ManoDerecha" pos="79,-196,16" publishUnderTab="ManoDerecha">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -1867,7 +1903,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="PieDerecho-P" pos="-325,-196,2" publishUnderTab="PieDerecho-P">
+     <module type="PEG" name="PieDerecho-P" pos="-325,-196,6" publishUnderTab="PieDerecho-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1929,7 +1965,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="PieDerecho" pos="-341,-134,18" publishUnderTab="PieDerecho">
+     <module type="READ" name="PieDerecho" pos="-341,-134,22" publishUnderTab="PieDerecho">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -2041,7 +2077,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="PieIzquierdo-P" pos="-544,-134,1" publishUnderTab="PieIzquierdo-P">
+     <module type="PEG" name="PieIzquierdo-P" pos="-544,-134,5" publishUnderTab="PieIzquierdo-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2103,7 +2139,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="PieIzquierdo" pos="-559,-72,19" publishUnderTab="PieIzquierdo">
+     <module type="READ" name="PieIzquierdo" pos="-559,-72,23" publishUnderTab="PieIzquierdo">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -2215,6 +2251,414 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
+     <group name="Deformation-BrazoDerecho-P" pos="200,-170,4">
+      <options>
+       <collapsed val="false"/>
+       <subnodeCollapsed val="true"/>
+       <showsPublished val="true"/>
+      </options>
+      <attrs/>
+      <nodeslist>
+       <module type="MULTIPORT_OUT" name="no-name_1" pos="0,0,0">
+        <options>
+         <collapsed val="false"/>
+         <version val="1"/>
+        </options>
+        <ports>
+         <port type="PEG" idx="0"/>
+        </ports>
+       </module>
+       <module type="MULTIPORT_IN" name="no-name" pos="0,-650,0">
+        <options>
+         <collapsed val="false"/>
+         <version val="1"/>
+        </options>
+        <ports>
+         <port type="PEG" idx="0"/>
+        </ports>
+       </module>
+       <module type="OffsetModule" name="Offset" pos="0,-600,0" publishUnderTab="Offset">
+        <options>
+         <collapsed val="false"/>
+         <version val="2"/>
+        </options>
+        <attrs>
+         <localreferential val="false"/>
+         <restingoffset>
+          <x val="-1.4666247366102056" defaultValue="1"/>
+          <y val="-1.1555815884659335" defaultValue="0"/>
+         </restingoffset>
+         <restingorientation val="0" defaultValue="0"/>
+         <offset>
+          <separate val="true"/>
+          <x val="-1.4666247366102056" defaultValue="1"/>
+          <y val="-1.1555815884659335" defaultValue="0"/>
+         </offset>
+         <orientation val="0" defaultValue="0"/>
+        </attrs>
+       </module>
+       <module type="CurveModule" name="Curve" pos="0,-550,0" publishUnderTab="Curve">
+        <shapedROI>
+         <pt pointOn="-5,-5"/>
+         <pt pointOff="-2,-5"/>
+         <pt pointOff="-2,-5"/>
+         <pt pointOn="5,-5"/>
+         <pt pointOff="5,-2"/>
+         <pt pointOff="5,2"/>
+         <pt pointOn="5,5"/>
+         <pt pointOff="2,5"/>
+         <pt pointOff="-2,5"/>
+         <pt pointOn="-5,5"/>
+         <pt pointOff="-5,2"/>
+         <pt pointOff="-5,-2"/>
+         <pt pointOn="-5,-5"/>
+        </shapedROI>
+        <options>
+         <collapsed val="false"/>
+         <version val="2"/>
+        </options>
+        <attrs>
+         <localreferential val="false"/>
+         <influencetype val="INFINITE_INFLUENCE"/>
+         <influencefade val="0.5" defaultValue="0.5"/>
+         <symmetric val="true"/>
+         <transversalradius val="2" defaultValue="1"/>
+         <transversalradiusright val="2" defaultValue="1"/>
+         <longitudinalradiusbegin val="0.25" defaultValue="1"/>
+         <longitudinalradius val="0.25" defaultValue="1"/>
+         <closepath val="false"/>
+         <restlength0 val="0.125" defaultValue="2"/>
+         <restingorientation0 val="0" defaultValue="0"/>
+         <restingoffset>
+          <x val="-4.6457834638003126" defaultValue="6"/>
+          <y val="-3.4583539655316553" defaultValue="0"/>
+         </restingoffset>
+         <restlength1 val="1.0502628983995574" defaultValue="2"/>
+         <restingorientation1 val="-144.41828241691914" defaultValue="0"/>
+         <length0 val="0.125" defaultValue="2" col="ATV-0BCBD592B4F07F3D"/>
+         <orientation0 val="0" defaultValue="0" col="ATV-0BCBD592B4F07F3E"/>
+         <offset>
+          <separate val="true"/>
+          <x val="-4.6457834638003126" defaultValue="6" col="ATV-0BCBD592B4F07F3B"/>
+          <y val="-3.4583539655316553" defaultValue="0" col="ATV-0BCBD592B4F07F3C"/>
+         </offset>
+         <length1 val="1.0502628983995574" defaultValue="2" col="ATV-0BCBD592B4F07F3F"/>
+         <orientation1 val="-144.41828241691914" defaultValue="0" col="ATV-0BCBD592B4F07F40"/>
+        </attrs>
+       </module>
+      </nodeslist>
+      <linkedlist>
+       <link out="no-name" in="Offset"/>
+       <link out="Offset" in="Curve"/>
+       <link out="Curve" in="no-name_1"/>
+      </linkedlist>
+     </group>
+     <group name="Deformation-BrazoIzquierdo-P" pos="-17,-231,3">
+      <options>
+       <collapsed val="false"/>
+       <subnodeCollapsed val="true"/>
+       <showsPublished val="true"/>
+      </options>
+      <attrs/>
+      <nodeslist>
+       <module type="MULTIPORT_OUT" name="no-name_1" pos="0,0,0">
+        <options>
+         <collapsed val="false"/>
+         <version val="1"/>
+        </options>
+        <ports>
+         <port type="PEG" idx="0"/>
+        </ports>
+       </module>
+       <module type="MULTIPORT_IN" name="no-name" pos="0,-650,0">
+        <options>
+         <collapsed val="false"/>
+         <version val="1"/>
+        </options>
+        <ports>
+         <port type="PEG" idx="0"/>
+        </ports>
+       </module>
+       <module type="OffsetModule" name="Offset" pos="0,-600,0" publishUnderTab="Offset">
+        <options>
+         <collapsed val="false"/>
+         <version val="2"/>
+        </options>
+        <attrs>
+         <localreferential val="false"/>
+         <restingoffset>
+          <x val="-2.1751430116619481" defaultValue="1"/>
+          <y val="-1.037816310591835" defaultValue="0"/>
+         </restingoffset>
+         <restingorientation val="0" defaultValue="0"/>
+         <offset>
+          <separate val="true"/>
+          <x val="-2.1751430116619481" defaultValue="1"/>
+          <y val="-1.037816310591835" defaultValue="0"/>
+         </offset>
+         <orientation val="0" defaultValue="0"/>
+        </attrs>
+       </module>
+       <module type="CurveModule" name="Curve" pos="0,-550,0" publishUnderTab="Curve">
+        <shapedROI>
+         <pt pointOn="-5,-5"/>
+         <pt pointOff="-2,-5"/>
+         <pt pointOff="-2,-5"/>
+         <pt pointOn="5,-5"/>
+         <pt pointOff="5,-2"/>
+         <pt pointOff="5,2"/>
+         <pt pointOn="5,5"/>
+         <pt pointOff="2,5"/>
+         <pt pointOff="-2,5"/>
+         <pt pointOn="-5,5"/>
+         <pt pointOff="-5,2"/>
+         <pt pointOff="-5,-2"/>
+         <pt pointOn="-5,-5"/>
+        </shapedROI>
+        <options>
+         <collapsed val="false"/>
+         <version val="2"/>
+        </options>
+        <attrs>
+         <localreferential val="false"/>
+         <influencetype val="INFINITE_INFLUENCE"/>
+         <influencefade val="0.5" defaultValue="0.5"/>
+         <symmetric val="true"/>
+         <transversalradius val="2" defaultValue="1"/>
+         <transversalradiusright val="2" defaultValue="1"/>
+         <longitudinalradiusbegin val="0.25" defaultValue="1"/>
+         <longitudinalradius val="0.25" defaultValue="1"/>
+         <closepath val="false"/>
+         <restlength0 val="0.125" defaultValue="2"/>
+         <restingorientation0 val="0" defaultValue="0"/>
+         <restingoffset>
+          <x val="-5.381329194332257" defaultValue="6"/>
+          <y val="-2.7135321307350466" defaultValue="0"/>
+         </restingoffset>
+         <restlength1 val="1.8715138281697696" defaultValue="2"/>
+         <restingorientation1 val="-153.99503425977122" defaultValue="0"/>
+         <length0 val="0.125" defaultValue="2"/>
+         <orientation0 val="0" defaultValue="0"/>
+         <offset>
+          <separate val="true"/>
+          <x val="-5.381329194332257" defaultValue="6"/>
+          <y val="-2.7135321307350466" defaultValue="0"/>
+         </offset>
+         <length1 val="1.8715138281697696" defaultValue="2"/>
+         <orientation1 val="-153.99503425977122" defaultValue="0"/>
+        </attrs>
+       </module>
+      </nodeslist>
+      <linkedlist>
+       <link out="no-name" in="Offset"/>
+       <link out="Offset" in="Curve"/>
+       <link out="Curve" in="no-name_1"/>
+      </linkedlist>
+     </group>
+     <group name="Deformation-PiernaDerecha-P" pos="-236,-177,2">
+      <options>
+       <collapsed val="false"/>
+       <subnodeCollapsed val="true"/>
+       <showsPublished val="true"/>
+      </options>
+      <attrs/>
+      <nodeslist>
+       <module type="MULTIPORT_OUT" name="no-name_1" pos="0,0,0">
+        <options>
+         <collapsed val="false"/>
+         <version val="1"/>
+        </options>
+        <ports>
+         <port type="PEG" idx="0"/>
+        </ports>
+       </module>
+       <module type="MULTIPORT_IN" name="no-name" pos="0,-650,0">
+        <options>
+         <collapsed val="false"/>
+         <version val="1"/>
+        </options>
+        <ports>
+         <port type="PEG" idx="0"/>
+        </ports>
+       </module>
+       <module type="OffsetModule" name="Offset" pos="0,-600,0" publishUnderTab="Offset">
+        <options>
+         <collapsed val="false"/>
+         <version val="2"/>
+        </options>
+        <attrs>
+         <localreferential val="false"/>
+         <restingoffset>
+          <x val="0.69329325972211842" defaultValue="1"/>
+          <y val="-5.8844591252988181" defaultValue="0"/>
+         </restingoffset>
+         <restingorientation val="0" defaultValue="0"/>
+         <offset>
+          <separate val="true"/>
+          <x val="0.69329325972211842" defaultValue="1"/>
+          <y val="-5.8844591252988181" defaultValue="0"/>
+         </offset>
+         <orientation val="0" defaultValue="0"/>
+        </attrs>
+       </module>
+       <module type="CurveModule" name="Curve" pos="0,-550,0" publishUnderTab="Curve">
+        <shapedROI>
+         <pt pointOn="-5,-5"/>
+         <pt pointOff="-2,-5"/>
+         <pt pointOff="-2,-5"/>
+         <pt pointOn="5,-5"/>
+         <pt pointOff="5,-2"/>
+         <pt pointOff="5,2"/>
+         <pt pointOn="5,5"/>
+         <pt pointOff="2,5"/>
+         <pt pointOff="-2,5"/>
+         <pt pointOn="-5,5"/>
+         <pt pointOff="-5,2"/>
+         <pt pointOff="-5,-2"/>
+         <pt pointOn="-5,-5"/>
+        </shapedROI>
+        <options>
+         <collapsed val="false"/>
+         <version val="2"/>
+        </options>
+        <attrs>
+         <localreferential val="false"/>
+         <influencetype val="INFINITE_INFLUENCE"/>
+         <influencefade val="0.5" defaultValue="0.5"/>
+         <symmetric val="true"/>
+         <transversalradius val="2" defaultValue="1"/>
+         <transversalradiusright val="2" defaultValue="1"/>
+         <longitudinalradiusbegin val="0.25" defaultValue="1"/>
+         <longitudinalradius val="0.25" defaultValue="1"/>
+         <closepath val="false"/>
+         <restlength0 val="0.125" defaultValue="2"/>
+         <restingorientation0 val="0" defaultValue="0"/>
+         <restingoffset>
+          <x val="0.59996015044252293" defaultValue="6"/>
+          <y val="-9.706672171987055" defaultValue="0"/>
+         </restingoffset>
+         <restlength1 val="1.9915080755179932" defaultValue="2"/>
+         <restingorientation1 val="-91.150876478173387" defaultValue="0"/>
+         <length0 val="0.125" defaultValue="2"/>
+         <orientation0 val="0" defaultValue="0"/>
+         <offset>
+          <separate val="true"/>
+          <x val="0.59996015044252293" defaultValue="6"/>
+          <y val="-9.706672171987055" defaultValue="0"/>
+         </offset>
+         <length1 val="1.9915080755179932" defaultValue="2"/>
+         <orientation1 val="-91.150876478173387" defaultValue="0"/>
+        </attrs>
+       </module>
+      </nodeslist>
+      <linkedlist>
+       <link out="no-name" in="Offset"/>
+       <link out="Offset" in="Curve"/>
+       <link out="Curve" in="no-name_1"/>
+      </linkedlist>
+     </group>
+     <group name="Deformation-PiernaIzquierda-P" pos="-450,-107,1">
+      <options>
+       <collapsed val="false"/>
+       <subnodeCollapsed val="true"/>
+       <showsPublished val="true"/>
+      </options>
+      <attrs/>
+      <nodeslist>
+       <module type="MULTIPORT_OUT" name="no-name_1" pos="0,0,0">
+        <options>
+         <collapsed val="false"/>
+         <version val="1"/>
+        </options>
+        <ports>
+         <port type="PEG" idx="0"/>
+        </ports>
+       </module>
+       <module type="MULTIPORT_IN" name="no-name" pos="0,-650,0">
+        <options>
+         <collapsed val="false"/>
+         <version val="1"/>
+        </options>
+        <ports>
+         <port type="PEG" idx="0"/>
+        </ports>
+       </module>
+       <module type="OffsetModule" name="Offset" pos="0,-600,0" publishUnderTab="Offset">
+        <options>
+         <collapsed val="false"/>
+         <version val="2"/>
+        </options>
+        <attrs>
+         <localreferential val="false"/>
+         <restingoffset>
+          <x val="-1.4133683497316301" defaultValue="1"/>
+          <y val="-5.8844591252988181" defaultValue="0"/>
+         </restingoffset>
+         <restingorientation val="0" defaultValue="0"/>
+         <offset>
+          <separate val="true"/>
+          <x val="-1.4133683497316301" defaultValue="1"/>
+          <y val="-5.8844591252988181" defaultValue="0"/>
+         </offset>
+         <orientation val="0" defaultValue="0"/>
+        </attrs>
+       </module>
+       <module type="CurveModule" name="Curve" pos="0,-550,0" publishUnderTab="Curve">
+        <shapedROI>
+         <pt pointOn="-5,-5"/>
+         <pt pointOff="-2,-5"/>
+         <pt pointOff="-2,-5"/>
+         <pt pointOn="5,-5"/>
+         <pt pointOff="5,-2"/>
+         <pt pointOff="5,2"/>
+         <pt pointOn="5,5"/>
+         <pt pointOff="2,5"/>
+         <pt pointOff="-2,5"/>
+         <pt pointOn="-5,5"/>
+         <pt pointOff="-5,2"/>
+         <pt pointOff="-5,-2"/>
+         <pt pointOn="-5,-5"/>
+        </shapedROI>
+        <options>
+         <collapsed val="false"/>
+         <version val="2"/>
+        </options>
+        <attrs>
+         <localreferential val="false"/>
+         <influencetype val="INFINITE_INFLUENCE"/>
+         <influencefade val="0.5" defaultValue="0.5"/>
+         <symmetric val="true"/>
+         <transversalradius val="2" defaultValue="1"/>
+         <transversalradiusright val="2" defaultValue="1"/>
+         <longitudinalradiusbegin val="0.25" defaultValue="1"/>
+         <longitudinalradius val="0.25" defaultValue="1"/>
+         <closepath val="false"/>
+         <restlength0 val="0.125" defaultValue="2"/>
+         <restingorientation0 val="0" defaultValue="0"/>
+         <restingoffset>
+          <x val="-1.4933681576855697" defaultValue="6"/>
+          <y val="-9.528894820978298" defaultValue="0"/>
+         </restingoffset>
+         <restlength1 val="1.8846285900403978" defaultValue="2"/>
+         <restingorientation1 val="-90.810735219262355" defaultValue="0"/>
+         <length0 val="0.125" defaultValue="2"/>
+         <orientation0 val="0" defaultValue="0"/>
+         <offset>
+          <separate val="true"/>
+          <x val="-1.4933681576855697" defaultValue="6"/>
+          <y val="-9.528894820978298" defaultValue="0"/>
+         </offset>
+         <length1 val="1.8846285900403978" defaultValue="2"/>
+         <orientation1 val="-90.810735219262355" defaultValue="0"/>
+        </attrs>
+       </module>
+      </nodeslist>
+      <linkedlist>
+       <link out="no-name" in="Offset"/>
+       <link out="Offset" in="Curve"/>
+       <link out="Curve" in="no-name_1"/>
+      </linkedlist>
+     </group>
     </nodeslist>
     <linkedlist>
      <link out="Composite" in="Display"/>
@@ -2224,19 +2668,15 @@
      <link out="SmartSelect_20230910_231236_Infinite_Painter" in="Composite" inport="0"/>
      <link out="Pecho-P" in="Pecho" inport="0"/>
      <link out="Pecho" in="Composite" inport="2"/>
-     <link out="BrazoDerecho-P" in="BrazoDerecho" inport="0"/>
-     <link out="BrazoDerecho-P" in="ManoDerecha-P"/>
+     <link out="BrazoDerecho-P" in="Deformation-BrazoDerecho-P"/>
      <link out="BrazoDerecho" in="Composite" inport="3"/>
      <link out="ManoIzquierda-P" in="ManoIzquierda" inport="0"/>
      <link out="ManoIzquierda" in="Composite" inport="6"/>
-     <link out="BrazoIzquierdo-P" in="BrazoIzquierdo" inport="0"/>
-     <link out="BrazoIzquierdo-P" in="ManoIzquierda-P"/>
+     <link out="BrazoIzquierdo-P" in="Deformation-BrazoIzquierdo-P"/>
      <link out="BrazoIzquierdo" in="Composite" inport="5"/>
-     <link out="PiernaDerecha-P" in="PiernaDerecha" inport="0"/>
-     <link out="PiernaDerecha-P" in="PieDerecho-P"/>
+     <link out="PiernaDerecha-P" in="Deformation-PiernaDerecha-P"/>
      <link out="PiernaDerecha" in="Composite" inport="7"/>
-     <link out="PiernaIzquierda-P" in="PiernaIzquierda" inport="0"/>
-     <link out="PiernaIzquierda-P" in="PieIzquierdo-P"/>
+     <link out="PiernaIzquierda-P" in="Deformation-PiernaIzquierda-P"/>
      <link out="PiernaIzquierda" in="Composite" inport="9"/>
      <link out="ManoDerecha-P" in="ManoDerecha" inport="0"/>
      <link out="ManoDerecha" in="Composite" inport="4"/>
@@ -2244,6 +2684,14 @@
      <link out="PieDerecho" in="Composite" inport="8"/>
      <link out="PieIzquierdo-P" in="PieIzquierdo" inport="0"/>
      <link out="PieIzquierdo" in="Composite" inport="10"/>
+     <link out="Deformation-BrazoDerecho-P" in="BrazoDerecho" inport="0"/>
+     <link out="Deformation-BrazoDerecho-P" in="ManoDerecha-P"/>
+     <link out="Deformation-BrazoIzquierdo-P" in="BrazoIzquierdo" inport="0"/>
+     <link out="Deformation-BrazoIzquierdo-P" in="ManoIzquierda-P"/>
+     <link out="Deformation-PiernaDerecha-P" in="PiernaDerecha" inport="0"/>
+     <link out="Deformation-PiernaDerecha-P" in="PieDerecho-P"/>
+     <link out="Deformation-PiernaIzquierda-P" in="PiernaIzquierda" inport="0"/>
+     <link out="Deformation-PiernaIzquierda-P" in="PieIzquierdo-P"/>
     </linkedlist>
    </rootgroup>
    <unconnectedComposite>
