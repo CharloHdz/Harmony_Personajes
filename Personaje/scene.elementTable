@@ -7,4 +7,16 @@
  <element id="7" elementName="Right_Arm" elementFolder="Right_Arm" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="8" elementName="Left_UnderArm" elementFolder="Left_UnderArm" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="9" elementName="Left_Arm" elementFolder="Left_Arm" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="18" elementName="Right_Patita_1" elementFolder="Right_Patita_1" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="19" elementName="Right_Piernita_1" elementFolder="Right_Piernita_1" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="20" elementName="Right_Piernita_2" elementFolder="Right_Piernita_2" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="21" elementName="Right_Patita_2" elementFolder="Right_Patita_2" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="22" elementName="Right_Patita_3" elementFolder="Right_Patita_3" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="23" elementName="Right_Piernita_3" elementFolder="Right_Piernita_3" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="24" elementName="Left_Piernita_3" elementFolder="Left_Piernita_3" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="25" elementName="Left_Patita_3" elementFolder="Left_Patita_3" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="26" elementName="Left_Piernita_2" elementFolder="Left_Piernita_2" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="27" elementName="Left_Patita_2" elementFolder="Left_Patita_2" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="28" elementName="Left_Piernita_1" elementFolder="Left_Piernita_1" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="29" elementName="Left_Patita_1" elementFolder="Left_Patita_1" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
 </elements>
