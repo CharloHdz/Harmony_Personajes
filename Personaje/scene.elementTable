@@ -19,4 +19,6 @@
  <element id="27" elementName="Left_Patita_2" elementFolder="Left_Patita_2" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="28" elementName="Left_Piernita_1" elementFolder="Left_Piernita_1" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="29" elementName="Left_Patita_1" elementFolder="Left_Patita_1" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="30" elementName="Piso" elementFolder="Piso" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="31" elementName="depositphotos_40914419" elementFolder="depositphotos_40914419" pixmapFormat="11" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements"/>
 </elements>
