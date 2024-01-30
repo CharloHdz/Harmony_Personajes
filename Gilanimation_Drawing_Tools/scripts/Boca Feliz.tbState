@@ -1,0 +1,110 @@
+[TB_StateManager]
+State Count:12
+  [TB_State]
+  Name:"animatedState_1"
+  Frame:1
+  Node Count:1
+    [TB_NodeState]
+    Node:"~/Bocas_Linea"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="FR_H00"
+
+  [TB_State]
+  Name:"animatedState_2"
+  Frame:2
+  Node Count:1
+    [TB_NodeState]
+    Node:"~/Bocas_Linea"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="FR_H01"
+
+  [TB_State]
+  Name:"animatedState_3"
+  Frame:3
+  Node Count:1
+    [TB_NodeState]
+    Node:"~/Bocas_Linea"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="FR_H02"
+
+  [TB_State]
+  Name:"animatedState_4"
+  Frame:4
+  Node Count:1
+    [TB_NodeState]
+    Node:"~/Bocas_Linea"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="FR_H03"
+
+  [TB_State]
+  Name:"animatedState_5"
+  Frame:5
+  Node Count:1
+    [TB_NodeState]
+    Node:"~/Bocas_Linea"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="FR_H04"
+
+  [TB_State]
+  Name:"animatedState_6"
+  Frame:6
+  Node Count:1
+    [TB_NodeState]
+    Node:"~/Bocas_Linea"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="FR_H05"
+
+  [TB_State]
+  Name:"animatedState_7"
+  Frame:7
+  Node Count:1
+    [TB_NodeState]
+    Node:"~/Bocas_Linea"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="FR_H06"
+
+  [TB_State]
+  Name:"animatedState_8"
+  Frame:8
+  Node Count:1
+    [TB_NodeState]
+    Node:"~/Bocas_Linea"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="FR_H07"
+
+  [TB_State]
+  Name:"animatedState_9"
+  Frame:9
+  Node Count:1
+    [TB_NodeState]
+    Node:"~/Bocas_Linea"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="FR_H08"
+
+  [TB_State]
+  Name:"animatedState_10"
+  Frame:10
+  Node Count:1
+    [TB_NodeState]
+    Node:"~/Bocas_Linea"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="FR_H09"
+
+  [TB_State]
+  Name:"animatedState_11"
+  Frame:11
+  Node Count:1
+    [TB_NodeState]
+    Node:"~/Bocas_Linea"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="FR_H10"
+
+  [TB_State]
+  Name:"animatedState_12"
+  Frame:12
+  Node Count:1
+    [TB_NodeState]
+    Node:"~/Bocas_Linea"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="FR_H11"
+

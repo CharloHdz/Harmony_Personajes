@@ -1,0 +1,22 @@
+ToonBoomAnimationInc PaletteFile 2
+Solid    SH_L_main                  0x0934ca5093df8254  40  38  38 255
+Solid    SH_F_eyeWhite              0x0934ca5093df829a 224 224 224 255
+Solid    SH_F_skin                  0x0934ca5093df82e1 129 143 146 255
+Solid    SH_F_tummy                 0x0934ca5093df8329 183 197 200 255
+Solid    SH_F_nostrils              0x0934ca5093dfa989  49  66  72 255
+Solid    SH_F_pants_suspender       0x09a6e2eb51773a45  40  38  38 255
+Solid    SH_F_collar                0x0934cf29f3213ade 138  67  63 255
+Solid    SH_F_shirt                 0x0934cf29f3213ae0 165 100  94 255
+Solid    SH_F_skin_SH               0x0934cf29f3215031 105 116 118 255
+Solid    SH_F_eyewhite_SH           0x0934cf29f322d944 161 161 161 255
+Solid    SH_F_pants_suspender_SH    0x09a6e2eb51777d56  18  17  17 255
+Solid    SH_F_collar_SH             0x0936c686b2ebf05c 104  50  47 255
+Solid    SH_F_shirt_SH              0x0934cf29f322d948 124  74  71 255
+Solid    SH_F_skin_HL               0x0a14f267c455daf2 170 188 191 255
+Solid    SH_F_skin_HL               0x0a14f267c455db74 211 226 229 255
+Solid    SH_F_pants_suspender_HL    0x0a14f267c455dbf7  98  94  94 255
+Solid    SH_F_collar_HL             0x0a14f267c455dc7b 187  90  85 255
+Solid    SH_F_Sshirt_HL             0x0a14f267c455dd00 197 117 113 255
+Solid    SH_F_eyewhite_HL           0x0a14f267c4579e6d 245 245 245 255
+Solid    SH_F_mouth_IN              0x09a6e2eb517713ab  40  38  38 255
+Solid    SH_F_pupils_eyebrows       0x09a6e2eb517767cc  40  38  38 255

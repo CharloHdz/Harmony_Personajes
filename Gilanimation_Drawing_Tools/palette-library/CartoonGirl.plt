@@ -1,0 +1,25 @@
+ToonBoomAnimationInc PaletteFile 2
+Solid    Linea                      0x0ab04696d4890676   0   0   0 255
+Solid    Marcas                     0x0ab04696d4892df2 249   7   7 255
+Solid    Piel                       0x0ab0519a4d6092de 255 216 170 255
+Solid    Pelo                       0x0ab236666b3971e6 247   0  64 255
+Solid    Ojo                        0x0ab2c93294b46233 239 239 239 255
+Solid    Accesorios_Ropa            0x0ab2c93294bfa3a8 233 233 233 255
+Solid    Audifono                   0x0ab2df14c1325c8a 242 219  22 255
+Solid    Ropa                       0x0ab2c69c4d1c4574 240 129 160 255
+Solid    Accesorios_Ropa_Tono       0x0ab2ce2807e5d49d 174 174 174 255
+Solid    Ojo                        0x09d71e58593e846a 244 241 241 255
+Solid    Mascara                    0x0ab3d22afa9d9f86  71 243  66 255
+Solid    Controles                  0x0ab3d4f6c791ff6b 111 222 232 186
+Solid    Controles_2                0x0ab3d4f6c79d6f6d 160 152 152 124
+Solid    Controles_3                0x0ab43f09f6bd384b  27 247  27 124
+Solid    Controles_5                0x0ab43f09f6be4580 172   4 220 124
+Solid    Iris                       0x0ab4569af6605714  73 199 226 255
+Solid    Dientes                    0x0ab5c4ec9ad22dbd 244 241 241 255
+Solid    Boca_Fondo                 0x0ab5c4ec9ad23597  83   3   3 255
+Solid    Lengua                     0x0ab5c4ec9ad2c3e0 243  72  72 255
+Solid    Metal                      0x0ab9d56d0ee9b624 154 154 154 255
+Solid    SwordBody                  0x0ab9d56d0eea1688 233 233 233 255
+Solid    Lazer                      0x0ab9d56d0eeb07bb  10 214  20 255
+Solid    Lazer2                     0x0ab9d56d0eec2c4f  71 243  66 255
+Solid    Gem                        0x0ab9d56d0eef5798 172   4 220 255

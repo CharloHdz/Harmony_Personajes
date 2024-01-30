@@ -1,0 +1,30 @@
+ToonBoomAnimationInc PaletteFile 2
+Solid    Line                       0x09d944e2cf501d31   0   0   0 255
+Solid    skin                       0x09db802b7b105e7c  88 152 224 255
+Solid    jacket                     0x09db802b7b105f46 225  14  18 255
+Solid    short                      0x09db802b7b105fff 255 208   3 255
+Solid    stripe                     0x09db802b7b1060cb 255 255 255 255
+Solid    eye                        0x09db802b7b106730 255 255 255 255
+Solid    iris                       0x09db802b7b1067a3  74 190   8 255
+Solid    pupil                      0x09db802b7b106a97   0   0   0 255
+Solid    dots                       0x09db802b7b106b2a  63 123 191 255
+Solid    Ribbon                     0x09db802b7b10cb4d 255 255 255 255
+Solid    Buckle                     0x09db802b7b10cc4d 255 208   3 255
+Solid    Shoe-white                 0x09db802b7b10ce8e 255 255 255 255
+Solid    eyebrow                    0x09db802b7b10d435   0   0   0 255
+Solid    eyeBright                  0x09db802b7b10d61b 255 255 255 255
+Solid    sripeThing                 0x09db802b7b10dbcc 194 192 192 255
+Solid    Shoe                       0x0ad94ab27091cc14 225  14  18 255
+Solid    Mask                       0x0ad94ab27095202c  25 255   0 255
+Solid    Short_Inner                0x0ad95c27f88a153f 255 160   3 255
+Solid    Tounge                     0x0ad95072da8d40ab 248  46  50 255
+Solid    MouthInner                 0x0ad95072da8d770d  55   4   6 255
+Solid    Teeth                      0x0ad95072da8f22d6 244 244 244 255
+Solid    Tabs                       0x0ad983313ad63edc 252 247   0 100
+Solid    "Tab Red"                  0x0ada531494e3806d 223   0   0 100
+Solid    Tab_Stroke                 0x0ada531494e434ee 223   0   0 255
+Solid    Tab_Green                  0x0adcdd6905f1ec07   6 255   0 100
+Solid    LaserBody                  0x0a5f50dd5bb84494  69  69  69 255
+Solid    Laser_Handle               0x0a5f50dd5bb89d75 255 208   3 255
+Solid    LaserHandle_Yellow         0x0a5f50dd5bb8d9c6 255 208   3 255
+Solid    LaserLight                 0x0a5f50dd5bbc31bb 225  14  18 255

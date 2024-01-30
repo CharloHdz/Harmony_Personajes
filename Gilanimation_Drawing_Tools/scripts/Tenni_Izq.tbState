@@ -1,0 +1,4786 @@
+[TB_StateManager]
+State Count:23
+  [TB_State]
+  Name:"animatedState_12"
+  Frame:12
+  Node Count:32
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.234
+      AttrName:"orientation0"=-50.6832
+      AttrName:"offset"=-8.4807,-7.4055
+      AttrName:"Length1"=0.1797
+      AttrName:"orientation1"=-105.561
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.0729
+      AttrName:"orientation0"=-105.561
+      AttrName:"Length1"=0.0918
+      AttrName:"orientation1"=202.477
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.0644
+      AttrName:"orientation0"=130.902
+      AttrName:"offset"=-8.6246,-6.7526
+      AttrName:"Length1"=0.1047
+      AttrName:"orientation1"=-50.6832
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.6607,-7.6222
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.2367
+      AttrName:"orientation0"=57.1302
+      AttrName:"offset"=-8.8593,-6.6836
+      AttrName:"Length1"=0.4656
+      AttrName:"orientation1"=130.902
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-9.1103,-7.8911
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_2"
+    Attr Count:3
+      AttrName:"Length0"=0.04
+      AttrName:"orientation0"=295.262
+      AttrName:"offset"=-8.31,-7.8871
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.2366
+      AttrName:"orientation0"=197.256
+      AttrName:"Length1"=0.1968
+      AttrName:"orientation1"=165.202
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.1874
+      AttrName:"orientation0"=1.1147
+      AttrName:"offset"=-8.3129,-7.7555
+      AttrName:"Length1"=0.2205
+      AttrName:"orientation1"=-1.1324
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE"
+    Attr Count:3
+      AttrName:"offset"=-9.1114,-7.7477
+      AttrName:"Length1"=0.0794
+      AttrName:"orientation1"=79.7347
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.2455
+      AttrName:"orientation0"=178.873
+      AttrName:"offset"=-9.5978,-7.6914
+      AttrName:"Length1"=0.1828
+      AttrName:"orientation1"=92.9553
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.1499
+      AttrName:"orientation0"=1.3685
+      AttrName:"offset"=-8.7942,-7.6889
+      AttrName:"Length1"=0.3181
+      AttrName:"orientation1"=-92.5243
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-9.1969,-8.1211
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.3156
+      AttrName:"orientation0"=92.9553
+      AttrName:"offset"=-9.1969,-7.2301
+      AttrName:"Length1"=0.1369
+      AttrName:"orientation1"=1.3685
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.2953
+      AttrName:"orientation0"=-92.5243
+      AttrName:"Length1"=0.1661
+      AttrName:"orientation1"=-181.079
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.0232
+      AttrName:"orientation0"=-3.5174
+      AttrName:"offset"=-8.5722,-7.5667
+      AttrName:"Length1"=0.1345
+      AttrName:"orientation1"=-91.2351
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.0315
+      AttrName:"orientation0"=181.698
+      AttrName:"offset"=-8.6809,-7.5599
+      AttrName:"Length1"=0.1017
+      AttrName:"orientation1"=92.06
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.1328
+      AttrName:"orientation0"=-91.2351
+      AttrName:"Length1"=0.0277
+      AttrName:"orientation1"=-187.276
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.0668
+      AttrName:"orientation0"=92.06
+      AttrName:"offset"=-8.6228,-7.3541
+      AttrName:"Length1"=0.0442
+      AttrName:"orientation1"=-3.5174
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.6266,-7.7528
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_3"
+    Attr Count:5
+      AttrName:"Length0"=0
+      AttrName:"orientation0"=21.1926
+      AttrName:"offset"=-8.5308,-7.2062
+      AttrName:"Length1"=0.1193
+      AttrName:"orientation1"=-42.3586
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.2253
+      AttrName:"orientation0"=100.396
+      AttrName:"offset"=-8.8034,-7.1684
+      AttrName:"Length1"=0.0598
+      AttrName:"orientation1"=21.1926
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.3291,-7.742
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_4"
+    Attr Count:4
+      AttrName:"Length0"=0.1224
+      AttrName:"orientation0"=-42.3586
+      AttrName:"Length1"=0.2278
+      AttrName:"orientation1"=-98.7348
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.2436
+      AttrName:"orientation0"=187.386
+      AttrName:"offset"=-9.1046,-7.7417
+      AttrName:"Length1"=0.2325
+      AttrName:"orientation1"=-191.641
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Master_buckle-P"
+    Attr Count:2
+      AttrName:"POSITION"=1.0259,0.034,0
+      AttrName:"ROTATION"=0,0,70.3996
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Tip-P"
+    Attr Count:2
+      AttrName:"POSITION"=1.2801,-0.0222,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Buckle-P"
+    Attr Count:2
+      AttrName:"POSITION"=0.0262,-0.0253,0
+      AttrName:"ROTATION"=0,0,-47.9996
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Master_Shoe-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0.001
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Strip-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"ROTATION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Shoe_Base-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.7967,0.0178,0
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Sole-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.7967,0.0178,0
+
+  [TB_State]
+  Name:"animatedState_13"
+  Frame:13
+  Node Count:32
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.234
+      AttrName:"orientation0"=-50.6832
+      AttrName:"offset"=-8.4807,-7.4055
+      AttrName:"Length1"=0.1797
+      AttrName:"orientation1"=-105.561
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.0729
+      AttrName:"orientation0"=-105.561
+      AttrName:"Length1"=0.0918
+      AttrName:"orientation1"=202.477
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.0644
+      AttrName:"orientation0"=130.902
+      AttrName:"offset"=-8.6246,-6.7526
+      AttrName:"Length1"=0.1047
+      AttrName:"orientation1"=-50.6832
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.6607,-7.6222
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.2367
+      AttrName:"orientation0"=57.1302
+      AttrName:"offset"=-8.8593,-6.6836
+      AttrName:"Length1"=0.4656
+      AttrName:"orientation1"=130.902
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-9.1103,-7.8911
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_2"
+    Attr Count:3
+      AttrName:"Length0"=0.04
+      AttrName:"orientation0"=295.262
+      AttrName:"offset"=-8.31,-7.8871
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.2366
+      AttrName:"orientation0"=197.256
+      AttrName:"Length1"=0.1968
+      AttrName:"orientation1"=165.202
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.1874
+      AttrName:"orientation0"=1.1147
+      AttrName:"offset"=-8.3129,-7.7555
+      AttrName:"Length1"=0.2205
+      AttrName:"orientation1"=-1.1324
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE"
+    Attr Count:3
+      AttrName:"offset"=-9.1114,-7.7477
+      AttrName:"Length1"=0.0794
+      AttrName:"orientation1"=79.7347
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.2455
+      AttrName:"orientation0"=178.873
+      AttrName:"offset"=-9.5978,-7.6914
+      AttrName:"Length1"=0.1828
+      AttrName:"orientation1"=92.9553
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.1499
+      AttrName:"orientation0"=1.3685
+      AttrName:"offset"=-8.7942,-7.6889
+      AttrName:"Length1"=0.3181
+      AttrName:"orientation1"=-92.5243
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-9.1969,-8.1211
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.3156
+      AttrName:"orientation0"=92.9553
+      AttrName:"offset"=-9.1969,-7.2301
+      AttrName:"Length1"=0.1369
+      AttrName:"orientation1"=1.3685
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.2953
+      AttrName:"orientation0"=-92.5243
+      AttrName:"Length1"=0.1661
+      AttrName:"orientation1"=-181.079
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.0232
+      AttrName:"orientation0"=-3.5174
+      AttrName:"offset"=-8.5722,-7.5667
+      AttrName:"Length1"=0.1345
+      AttrName:"orientation1"=-91.2351
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.0315
+      AttrName:"orientation0"=181.698
+      AttrName:"offset"=-8.6809,-7.5599
+      AttrName:"Length1"=0.1017
+      AttrName:"orientation1"=92.06
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.1328
+      AttrName:"orientation0"=-91.2351
+      AttrName:"Length1"=0.0277
+      AttrName:"orientation1"=-187.276
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.0668
+      AttrName:"orientation0"=92.06
+      AttrName:"offset"=-8.6228,-7.3541
+      AttrName:"Length1"=0.0442
+      AttrName:"orientation1"=-3.5174
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.6266,-7.7528
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_3"
+    Attr Count:5
+      AttrName:"Length0"=0
+      AttrName:"orientation0"=21.1926
+      AttrName:"offset"=-8.5308,-7.2062
+      AttrName:"Length1"=0.1193
+      AttrName:"orientation1"=-42.3586
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.2253
+      AttrName:"orientation0"=100.396
+      AttrName:"offset"=-8.8034,-7.1684
+      AttrName:"Length1"=0.0598
+      AttrName:"orientation1"=21.1926
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.3291,-7.742
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_4"
+    Attr Count:4
+      AttrName:"Length0"=0.1224
+      AttrName:"orientation0"=-42.3586
+      AttrName:"Length1"=0.2278
+      AttrName:"orientation1"=-98.7348
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.2436
+      AttrName:"orientation0"=187.386
+      AttrName:"offset"=-9.1046,-7.7417
+      AttrName:"Length1"=0.2325
+      AttrName:"orientation1"=-191.641
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Master_buckle-P"
+    Attr Count:2
+      AttrName:"POSITION"=1.0259,0.034,0
+      AttrName:"ROTATION"=0,0,70.3996
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Tip-P"
+    Attr Count:2
+      AttrName:"POSITION"=1.2801,-0.0222,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Buckle-P"
+    Attr Count:2
+      AttrName:"POSITION"=0.0262,-0.0253,0
+      AttrName:"ROTATION"=0,0,-47.9996
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Master_Shoe-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0.001
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Strip-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"ROTATION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Shoe_Base-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.7967,0.0178,0
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Sole-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.7967,0.0178,0
+
+  [TB_State]
+  Name:"animatedState_14"
+  Frame:14
+  Node Count:32
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.1217
+      AttrName:"orientation0"=-29.9476
+      AttrName:"offset"=-8.3345,-7.5923
+      AttrName:"Length1"=0.1385
+      AttrName:"orientation1"=-87.195
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.0532
+      AttrName:"orientation0"=-87.195
+      AttrName:"Length1"=0.0396
+      AttrName:"orientation1"=228.385
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.0644
+      AttrName:"orientation0"=165.729
+      AttrName:"offset"=-8.5035,-7.2154
+      AttrName:"Length1"=0.0993
+      AttrName:"orientation1"=-29.9476
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.4004,-7.7371
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.1781
+      AttrName:"orientation0"=97.8981
+      AttrName:"offset"=-8.6775,-7.2888
+      AttrName:"Length1"=0.2494
+      AttrName:"orientation1"=165.729
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-9.1211,-7.8804
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_2"
+    Attr Count:3
+      AttrName:"Length0"=0.04
+      AttrName:"orientation0"=295.262
+      AttrName:"offset"=-8.22079,-7.94065
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.201269
+      AttrName:"orientation0"=213.252
+      AttrName:"Length1"=0.192641
+      AttrName:"orientation1"=158.175
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.1874
+      AttrName:"orientation0"=1.1147
+      AttrName:"offset"=-8.2205,-7.7733
+      AttrName:"Length1"=0.2205
+      AttrName:"orientation1"=-1.1324
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE"
+    Attr Count:3
+      AttrName:"offset"=-9.1114,-7.7477
+      AttrName:"Length1"=0.0651
+      AttrName:"orientation1"=64.7846
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.2455
+      AttrName:"orientation0"=178.873
+      AttrName:"offset"=-9.5133,-7.6885
+      AttrName:"Length1"=0.1828
+      AttrName:"orientation1"=92.9553
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.1499
+      AttrName:"orientation0"=1.3685
+      AttrName:"offset"=-8.802,-7.6918
+      AttrName:"Length1"=0.3181
+      AttrName:"orientation1"=-92.5243
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-9.1969,-8.1211
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.3156
+      AttrName:"orientation0"=92.9553
+      AttrName:"offset"=-9.1525,-7.239
+      AttrName:"Length1"=0.1369
+      AttrName:"orientation1"=1.3685
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.2953
+      AttrName:"orientation0"=-92.5243
+      AttrName:"Length1"=0.1661
+      AttrName:"orientation1"=-181.079
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.0232
+      AttrName:"orientation0"=-3.5174
+      AttrName:"offset"=-8.5722,-7.5667
+      AttrName:"Length1"=0.1345
+      AttrName:"orientation1"=-91.2351
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.0315
+      AttrName:"orientation0"=181.698
+      AttrName:"offset"=-8.6809,-7.5599
+      AttrName:"Length1"=0.1017
+      AttrName:"orientation1"=92.06
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.1328
+      AttrName:"orientation0"=-91.2351
+      AttrName:"Length1"=0.0277
+      AttrName:"orientation1"=-187.276
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.0668
+      AttrName:"orientation0"=92.06
+      AttrName:"offset"=-8.6228,-7.3541
+      AttrName:"Length1"=0.0442
+      AttrName:"orientation1"=-3.5174
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.6266,-7.7528
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_3"
+    Attr Count:5
+      AttrName:"Length0"=0
+      AttrName:"orientation0"=32.5172
+      AttrName:"offset"=-8.5294,-7.1933
+      AttrName:"Length1"=0.0844
+      AttrName:"orientation1"=-32.5865
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.169
+      AttrName:"orientation0"=97.0378
+      AttrName:"offset"=-8.7799,-7.1681
+      AttrName:"Length1"=0.0901
+      AttrName:"orientation1"=32.5172
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.1016,-7.7385
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_4"
+    Attr Count:4
+      AttrName:"Length0"=0.1098
+      AttrName:"orientation0"=-32.5865
+      AttrName:"Length1"=0.2278
+      AttrName:"orientation1"=-98.7348
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.2459
+      AttrName:"orientation0"=191.932
+      AttrName:"offset"=-8.9801,-7.7023
+      AttrName:"Length1"=0.2265
+      AttrName:"orientation1"=-193
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Master_buckle-P"
+    Attr Count:2
+      AttrName:"POSITION"=1.0259,0.034,0
+      AttrName:"ROTATION"=0,0,70.3996
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Tip-P"
+    Attr Count:2
+      AttrName:"POSITION"=1.5145,0.0163,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Buckle-P"
+    Attr Count:2
+      AttrName:"POSITION"=-0.0139,0.1179,-0.0007
+      AttrName:"ROTATION"=0,0,-47.9996
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Master_Shoe-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0.001
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Strip-P"
+    Attr Count:2
+      AttrName:"POSITION"=-0.1053,0.2884,0
+      AttrName:"ROTATION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Shoe_Base-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.7967,0.0178,0
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Sole-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.9229,0.0676,0
+
+  [TB_State]
+  Name:"animatedState_15"
+  Frame:15
+  Node Count:32
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.1217
+      AttrName:"orientation0"=-29.9476
+      AttrName:"offset"=-8.3345,-7.5923
+      AttrName:"Length1"=0.1385
+      AttrName:"orientation1"=-87.195
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.0532
+      AttrName:"orientation0"=-87.195
+      AttrName:"Length1"=0.0396
+      AttrName:"orientation1"=228.385
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.0644
+      AttrName:"orientation0"=165.729
+      AttrName:"offset"=-8.5035,-7.2154
+      AttrName:"Length1"=0.0993
+      AttrName:"orientation1"=-29.9476
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.4004,-7.7371
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.1781
+      AttrName:"orientation0"=97.8981
+      AttrName:"offset"=-8.6775,-7.2888
+      AttrName:"Length1"=0.2494
+      AttrName:"orientation1"=165.729
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-9.1211,-7.8804
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_2"
+    Attr Count:3
+      AttrName:"Length0"=0.04
+      AttrName:"orientation0"=295.262
+      AttrName:"offset"=-8.22079,-7.94065
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.201269
+      AttrName:"orientation0"=213.252
+      AttrName:"Length1"=0.192641
+      AttrName:"orientation1"=158.175
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.1874
+      AttrName:"orientation0"=1.1147
+      AttrName:"offset"=-8.2205,-7.7733
+      AttrName:"Length1"=0.2205
+      AttrName:"orientation1"=-1.1324
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE"
+    Attr Count:3
+      AttrName:"offset"=-9.1114,-7.7477
+      AttrName:"Length1"=0.0651
+      AttrName:"orientation1"=64.7846
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.2455
+      AttrName:"orientation0"=178.873
+      AttrName:"offset"=-9.5133,-7.6885
+      AttrName:"Length1"=0.1828
+      AttrName:"orientation1"=92.9553
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.1499
+      AttrName:"orientation0"=1.3685
+      AttrName:"offset"=-8.802,-7.6918
+      AttrName:"Length1"=0.3181
+      AttrName:"orientation1"=-92.5243
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-9.1969,-8.1211
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.3156
+      AttrName:"orientation0"=92.9553
+      AttrName:"offset"=-9.1525,-7.239
+      AttrName:"Length1"=0.1369
+      AttrName:"orientation1"=1.3685
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.2953
+      AttrName:"orientation0"=-92.5243
+      AttrName:"Length1"=0.1661
+      AttrName:"orientation1"=-181.079
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.0232
+      AttrName:"orientation0"=-3.5174
+      AttrName:"offset"=-8.5722,-7.5667
+      AttrName:"Length1"=0.1345
+      AttrName:"orientation1"=-91.2351
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.0315
+      AttrName:"orientation0"=181.698
+      AttrName:"offset"=-8.6809,-7.5599
+      AttrName:"Length1"=0.1017
+      AttrName:"orientation1"=92.06
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.1328
+      AttrName:"orientation0"=-91.2351
+      AttrName:"Length1"=0.0277
+      AttrName:"orientation1"=-187.276
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.0668
+      AttrName:"orientation0"=92.06
+      AttrName:"offset"=-8.6228,-7.3541
+      AttrName:"Length1"=0.0442
+      AttrName:"orientation1"=-3.5174
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.6266,-7.7528
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_3"
+    Attr Count:5
+      AttrName:"Length0"=0
+      AttrName:"orientation0"=32.5172
+      AttrName:"offset"=-8.5294,-7.1933
+      AttrName:"Length1"=0.0844
+      AttrName:"orientation1"=-32.5865
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.169
+      AttrName:"orientation0"=97.0378
+      AttrName:"offset"=-8.7799,-7.1681
+      AttrName:"Length1"=0.0901
+      AttrName:"orientation1"=32.5172
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.1016,-7.7385
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_4"
+    Attr Count:4
+      AttrName:"Length0"=0.1098
+      AttrName:"orientation0"=-32.5865
+      AttrName:"Length1"=0.2278
+      AttrName:"orientation1"=-98.7348
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.2459
+      AttrName:"orientation0"=191.932
+      AttrName:"offset"=-8.9801,-7.7023
+      AttrName:"Length1"=0.2265
+      AttrName:"orientation1"=-193
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Master_buckle-P"
+    Attr Count:2
+      AttrName:"POSITION"=1.0259,0.034,0
+      AttrName:"ROTATION"=0,0,70.3996
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Tip-P"
+    Attr Count:2
+      AttrName:"POSITION"=1.5145,0.0163,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Buckle-P"
+    Attr Count:2
+      AttrName:"POSITION"=-0.0139,0.1179,-0.0007
+      AttrName:"ROTATION"=0,0,-47.9996
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Master_Shoe-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0.001
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Strip-P"
+    Attr Count:2
+      AttrName:"POSITION"=-0.1053,0.2884,0
+      AttrName:"ROTATION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Shoe_Base-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.7967,0.0178,0
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Sole-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.9229,0.0676,0
+
+  [TB_State]
+  Name:"animatedState_16"
+  Frame:16
+  Node Count:32
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.0656
+      AttrName:"orientation0"=-19.5797
+      AttrName:"offset"=-8.266,-7.6498
+      AttrName:"Length1"=0.1161
+      AttrName:"orientation1"=-76.8501
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.0433
+      AttrName:"orientation0"=-76.8501
+      AttrName:"Length1"=0.0128
+      AttrName:"orientation1"=226.909
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.0644
+      AttrName:"orientation0"=181.933
+      AttrName:"offset"=-8.4671,-7.4195
+      AttrName:"Length1"=0.0966
+      AttrName:"orientation1"=-19.5797
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.2724,-7.7788
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.1398
+      AttrName:"orientation0"=125.875
+      AttrName:"offset"=-8.5867,-7.5913
+      AttrName:"Length1"=0.1352
+      AttrName:"orientation1"=181.933
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-9.11841,-7.92992
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_2"
+    Attr Count:3
+      AttrName:"Length0"=0.0401
+      AttrName:"orientation0"=290.436
+      AttrName:"offset"=-8.10956,-7.9635
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.172377
+      AttrName:"orientation0"=217.149
+      AttrName:"Length1"=0.1992
+      AttrName:"orientation1"=166.398
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.238
+      AttrName:"orientation0"=-1.928
+      AttrName:"offset"=-8.1069,-7.7937
+      AttrName:"Length1"=0.2303
+      AttrName:"orientation1"=2.1651
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE"
+    Attr Count:3
+      AttrName:"offset"=-9.1111,-7.7658
+      AttrName:"Length1"=0.058
+      AttrName:"orientation1"=57.3096
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.1973
+      AttrName:"orientation0"=175.336
+      AttrName:"offset"=-9.3634,-7.7
+      AttrName:"Length1"=0.1828
+      AttrName:"orientation1"=92.9553
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.148
+      AttrName:"orientation0"=3.0625
+      AttrName:"offset"=-8.7507,-7.7183
+      AttrName:"Length1"=0.3181
+      AttrName:"orientation1"=-92.5243
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-9.1262,-8.1157
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.3156
+      AttrName:"orientation0"=92.9553
+      AttrName:"offset"=-9.075,-7.2684
+      AttrName:"Length1"=0.127
+      AttrName:"orientation1"=3.0625
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.2953
+      AttrName:"orientation0"=-92.5243
+      AttrName:"Length1"=0.1661
+      AttrName:"orientation1"=-181.079
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.0232
+      AttrName:"orientation0"=-3.5174
+      AttrName:"offset"=-8.5722,-7.5667
+      AttrName:"Length1"=0.1345
+      AttrName:"orientation1"=-91.2351
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.0315
+      AttrName:"orientation0"=181.698
+      AttrName:"offset"=-8.6809,-7.5599
+      AttrName:"Length1"=0.1017
+      AttrName:"orientation1"=92.06
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.1328
+      AttrName:"orientation0"=-91.2351
+      AttrName:"Length1"=0.0277
+      AttrName:"orientation1"=-187.276
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.0668
+      AttrName:"orientation0"=92.06
+      AttrName:"offset"=-8.6228,-7.3541
+      AttrName:"Length1"=0.0442
+      AttrName:"orientation1"=-3.5174
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.6266,-7.7528
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_3"
+    Attr Count:5
+      AttrName:"Length0"=0
+      AttrName:"orientation0"=32.2537
+      AttrName:"offset"=-8.5287,-7.1868
+      AttrName:"Length1"=0.0669
+      AttrName:"orientation1"=-29.2294
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.1408
+      AttrName:"orientation0"=95.3587
+      AttrName:"offset"=-8.7681,-7.168
+      AttrName:"Length1"=0.1135
+      AttrName:"orientation1"=32.2537
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-7.9307,-7.7398
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_4"
+    Attr Count:4
+      AttrName:"Length0"=0.1326
+      AttrName:"orientation0"=-29.2294
+      AttrName:"Length1"=0.2683
+      AttrName:"orientation1"=-98.2458
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.2471
+      AttrName:"orientation0"=192.13
+      AttrName:"offset"=-8.9144,-7.6979
+      AttrName:"Length1"=0.2274
+      AttrName:"orientation1"=-191.986
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Master_buckle-P"
+    Attr Count:2
+      AttrName:"POSITION"=1.0259,0.034,0
+      AttrName:"ROTATION"=0,0,70.3996
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Tip-P"
+    Attr Count:2
+      AttrName:"POSITION"=1.6317,0.0356,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Buckle-P"
+    Attr Count:2
+      AttrName:"POSITION"=-0.034,0.1895,-0.001
+      AttrName:"ROTATION"=0,0,-47.9996
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Master_Shoe-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0.001
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Strip-P"
+    Attr Count:2
+      AttrName:"POSITION"=-0.1478,0.3722,0
+      AttrName:"ROTATION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Shoe_Base-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.7967,0.0178,0
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Sole-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.986,0.0924,0
+
+  [TB_State]
+  Name:"animatedState_17"
+  Frame:17
+  Node Count:32
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.0656
+      AttrName:"orientation0"=-19.5797
+      AttrName:"offset"=-8.266,-7.6498
+      AttrName:"Length1"=0.1161
+      AttrName:"orientation1"=-76.8501
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.0433
+      AttrName:"orientation0"=-76.8501
+      AttrName:"Length1"=0.0128
+      AttrName:"orientation1"=226.909
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.0644
+      AttrName:"orientation0"=181.933
+      AttrName:"offset"=-8.4671,-7.4195
+      AttrName:"Length1"=0.0966
+      AttrName:"orientation1"=-19.5797
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.2724,-7.7788
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.1398
+      AttrName:"orientation0"=125.875
+      AttrName:"offset"=-8.5867,-7.5913
+      AttrName:"Length1"=0.1352
+      AttrName:"orientation1"=181.933
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-9.11841,-7.92992
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_2"
+    Attr Count:3
+      AttrName:"Length0"=0.0401
+      AttrName:"orientation0"=290.436
+      AttrName:"offset"=-8.10956,-7.9635
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.172377
+      AttrName:"orientation0"=217.149
+      AttrName:"Length1"=0.1992
+      AttrName:"orientation1"=166.398
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.238
+      AttrName:"orientation0"=-1.928
+      AttrName:"offset"=-8.1069,-7.7937
+      AttrName:"Length1"=0.2303
+      AttrName:"orientation1"=2.1651
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE"
+    Attr Count:3
+      AttrName:"offset"=-9.1111,-7.7658
+      AttrName:"Length1"=0.058
+      AttrName:"orientation1"=57.3096
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.1973
+      AttrName:"orientation0"=175.336
+      AttrName:"offset"=-9.3634,-7.7
+      AttrName:"Length1"=0.1828
+      AttrName:"orientation1"=92.9553
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.148
+      AttrName:"orientation0"=3.0625
+      AttrName:"offset"=-8.7507,-7.7183
+      AttrName:"Length1"=0.3181
+      AttrName:"orientation1"=-92.5243
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-9.1262,-8.1157
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.3156
+      AttrName:"orientation0"=92.9553
+      AttrName:"offset"=-9.075,-7.2684
+      AttrName:"Length1"=0.127
+      AttrName:"orientation1"=3.0625
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.2953
+      AttrName:"orientation0"=-92.5243
+      AttrName:"Length1"=0.1661
+      AttrName:"orientation1"=-181.079
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.0232
+      AttrName:"orientation0"=-3.5174
+      AttrName:"offset"=-8.5722,-7.5667
+      AttrName:"Length1"=0.1345
+      AttrName:"orientation1"=-91.2351
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.0315
+      AttrName:"orientation0"=181.698
+      AttrName:"offset"=-8.6809,-7.5599
+      AttrName:"Length1"=0.1017
+      AttrName:"orientation1"=92.06
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.1328
+      AttrName:"orientation0"=-91.2351
+      AttrName:"Length1"=0.0277
+      AttrName:"orientation1"=-187.276
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.0668
+      AttrName:"orientation0"=92.06
+      AttrName:"offset"=-8.6228,-7.3541
+      AttrName:"Length1"=0.0442
+      AttrName:"orientation1"=-3.5174
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.6266,-7.7528
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_3"
+    Attr Count:5
+      AttrName:"Length0"=0
+      AttrName:"orientation0"=32.2537
+      AttrName:"offset"=-8.5287,-7.1868
+      AttrName:"Length1"=0.0669
+      AttrName:"orientation1"=-29.2294
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.1408
+      AttrName:"orientation0"=95.3587
+      AttrName:"offset"=-8.7681,-7.168
+      AttrName:"Length1"=0.1135
+      AttrName:"orientation1"=32.2537
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-7.9307,-7.7398
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_4"
+    Attr Count:4
+      AttrName:"Length0"=0.1326
+      AttrName:"orientation0"=-29.2294
+      AttrName:"Length1"=0.2683
+      AttrName:"orientation1"=-98.2458
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.2471
+      AttrName:"orientation0"=192.13
+      AttrName:"offset"=-8.9144,-7.6979
+      AttrName:"Length1"=0.2274
+      AttrName:"orientation1"=-191.986
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Master_buckle-P"
+    Attr Count:2
+      AttrName:"POSITION"=1.0259,0.034,0
+      AttrName:"ROTATION"=0,0,70.3996
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Tip-P"
+    Attr Count:2
+      AttrName:"POSITION"=1.6317,0.0356,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Buckle-P"
+    Attr Count:2
+      AttrName:"POSITION"=-0.034,0.1895,-0.001
+      AttrName:"ROTATION"=0,0,-47.9996
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Master_Shoe-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0.001
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Strip-P"
+    Attr Count:2
+      AttrName:"POSITION"=-0.1478,0.3722,0
+      AttrName:"ROTATION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Shoe_Base-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.7967,0.0178,0
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Sole-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.986,0.0924,0
+
+  [TB_State]
+  Name:"animatedState_18"
+  Frame:18
+  Node Count:32
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.0656
+      AttrName:"orientation0"=-19.5797
+      AttrName:"offset"=-8.2752,-7.578
+      AttrName:"Length1"=0.1122
+      AttrName:"orientation1"=-74.5263
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.0433
+      AttrName:"orientation0"=-74.5263
+      AttrName:"Length1"=0.0114
+      AttrName:"orientation1"=198.048
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.0644
+      AttrName:"orientation0"=179.516
+      AttrName:"offset"=-8.5152,-7.3647
+      AttrName:"Length1"=0.0966
+      AttrName:"orientation1"=-19.5797
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.2767,-7.7474
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.1218
+      AttrName:"orientation0"=141.062
+      AttrName:"offset"=-8.5867,-7.5913
+      AttrName:"Length1"=0.123
+      AttrName:"orientation1"=179.516
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-9.12043,-7.99077
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_2"
+    Attr Count:3
+      AttrName:"Length0"=0.0402
+      AttrName:"orientation0"=280.784
+      AttrName:"offset"=-8.08203,-7.97467
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.1648
+      AttrName:"orientation0"=202.373
+      AttrName:"Length1"=0.2042
+      AttrName:"orientation1"=168.788
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.3393
+      AttrName:"orientation0"=-8.0135
+      AttrName:"offset"=-8.0802,-7.8169
+      AttrName:"Length1"=0.2501
+      AttrName:"orientation1"=8.7601
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE"
+    Attr Count:3
+      AttrName:"offset"=-9.1105,-7.8021
+      AttrName:"Length1"=0.058
+      AttrName:"orientation1"=57.3096
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.1009
+      AttrName:"orientation0"=168.261
+      AttrName:"offset"=-9.1482,-7.7259
+      AttrName:"Length1"=0.1828
+      AttrName:"orientation1"=92.9553
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.1442
+      AttrName:"orientation0"=6.4506
+      AttrName:"offset"=-8.6403,-7.7683
+      AttrName:"Length1"=0.3181
+      AttrName:"orientation1"=-92.5243
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.9846,-8.105
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.3156
+      AttrName:"orientation0"=92.9553
+      AttrName:"offset"=-8.9646,-7.3184
+      AttrName:"Length1"=0.1071
+      AttrName:"orientation1"=6.4506
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.2953
+      AttrName:"orientation0"=-92.5243
+      AttrName:"Length1"=0.1661
+      AttrName:"orientation1"=-181.079
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.0232
+      AttrName:"orientation0"=-3.5174
+      AttrName:"offset"=-8.5722,-7.5667
+      AttrName:"Length1"=0.1345
+      AttrName:"orientation1"=-91.2351
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.0315
+      AttrName:"orientation0"=181.698
+      AttrName:"offset"=-8.6809,-7.5599
+      AttrName:"Length1"=0.1017
+      AttrName:"orientation1"=92.06
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.1328
+      AttrName:"orientation0"=-91.2351
+      AttrName:"Length1"=0.0277
+      AttrName:"orientation1"=-187.276
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.0668
+      AttrName:"orientation0"=92.06
+      AttrName:"offset"=-8.6228,-7.3541
+      AttrName:"Length1"=0.0442
+      AttrName:"orientation1"=-3.5174
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.6266,-7.7528
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_3"
+    Attr Count:5
+      AttrName:"Length0"=0
+      AttrName:"orientation0"=20.4023
+      AttrName:"offset"=-8.5287,-7.1868
+      AttrName:"Length1"=0.0669
+      AttrName:"orientation1"=-32.2873
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.1408
+      AttrName:"orientation0"=95.3587
+      AttrName:"offset"=-8.7681,-7.168
+      AttrName:"Length1"=0.1301
+      AttrName:"orientation1"=20.4023
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-7.89119,-7.77041
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_4"
+    Attr Count:4
+      AttrName:"Length0"=0.1907
+      AttrName:"orientation0"=-32.2873
+      AttrName:"Length1"=0.344891
+      AttrName:"orientation1"=-94.8805
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.2471
+      AttrName:"orientation0"=187.982
+      AttrName:"offset"=-8.9075,-7.7284
+      AttrName:"Length1"=0.2353
+      AttrName:"orientation1"=-188.599
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Master_buckle-P"
+    Attr Count:2
+      AttrName:"POSITION"=1.0259,0.034,0
+      AttrName:"ROTATION"=0,0,70.3996
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Tip-P"
+    Attr Count:2
+      AttrName:"POSITION"=1.55116,0.0404814,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Buckle-P"
+    Attr Count:2
+      AttrName:"POSITION"=-0.034,0.1895,-0.001
+      AttrName:"ROTATION"=0,0,-47.9996
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Master_Shoe-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0.001
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Strip-P"
+    Attr Count:2
+      AttrName:"POSITION"=-0.1273,0.2514,0
+      AttrName:"ROTATION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Shoe_Base-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.7967,0.0178,0
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Sole-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.986,0.0924,0
+
+  [TB_State]
+  Name:"animatedState_19"
+  Frame:19
+  Node Count:32
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.0656
+      AttrName:"orientation0"=-19.5797
+      AttrName:"offset"=-8.2752,-7.578
+      AttrName:"Length1"=0.1122
+      AttrName:"orientation1"=-74.5263
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.0433
+      AttrName:"orientation0"=-74.5263
+      AttrName:"Length1"=0.0114
+      AttrName:"orientation1"=198.048
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.0644
+      AttrName:"orientation0"=179.516
+      AttrName:"offset"=-8.5152,-7.3647
+      AttrName:"Length1"=0.0966
+      AttrName:"orientation1"=-19.5797
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.2767,-7.7474
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.1218
+      AttrName:"orientation0"=141.062
+      AttrName:"offset"=-8.5867,-7.5913
+      AttrName:"Length1"=0.123
+      AttrName:"orientation1"=179.516
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-9.12043,-7.99077
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_2"
+    Attr Count:3
+      AttrName:"Length0"=0.0402
+      AttrName:"orientation0"=280.784
+      AttrName:"offset"=-8.08203,-7.97467
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.1648
+      AttrName:"orientation0"=202.373
+      AttrName:"Length1"=0.2042
+      AttrName:"orientation1"=168.788
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.3393
+      AttrName:"orientation0"=-8.0135
+      AttrName:"offset"=-8.0802,-7.8169
+      AttrName:"Length1"=0.2501
+      AttrName:"orientation1"=8.7601
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE"
+    Attr Count:3
+      AttrName:"offset"=-9.1105,-7.8021
+      AttrName:"Length1"=0.058
+      AttrName:"orientation1"=57.3096
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.1009
+      AttrName:"orientation0"=168.261
+      AttrName:"offset"=-9.1482,-7.7259
+      AttrName:"Length1"=0.1828
+      AttrName:"orientation1"=92.9553
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.1442
+      AttrName:"orientation0"=6.4506
+      AttrName:"offset"=-8.6403,-7.7683
+      AttrName:"Length1"=0.3181
+      AttrName:"orientation1"=-92.5243
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.9846,-8.105
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.3156
+      AttrName:"orientation0"=92.9553
+      AttrName:"offset"=-8.9646,-7.3184
+      AttrName:"Length1"=0.1071
+      AttrName:"orientation1"=6.4506
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.2953
+      AttrName:"orientation0"=-92.5243
+      AttrName:"Length1"=0.1661
+      AttrName:"orientation1"=-181.079
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.0232
+      AttrName:"orientation0"=-3.5174
+      AttrName:"offset"=-8.5722,-7.5667
+      AttrName:"Length1"=0.1345
+      AttrName:"orientation1"=-91.2351
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.0315
+      AttrName:"orientation0"=181.698
+      AttrName:"offset"=-8.6809,-7.5599
+      AttrName:"Length1"=0.1017
+      AttrName:"orientation1"=92.06
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.1328
+      AttrName:"orientation0"=-91.2351
+      AttrName:"Length1"=0.0277
+      AttrName:"orientation1"=-187.276
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.0668
+      AttrName:"orientation0"=92.06
+      AttrName:"offset"=-8.6228,-7.3541
+      AttrName:"Length1"=0.0442
+      AttrName:"orientation1"=-3.5174
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.6266,-7.7528
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_3"
+    Attr Count:5
+      AttrName:"Length0"=0
+      AttrName:"orientation0"=20.4023
+      AttrName:"offset"=-8.5287,-7.1868
+      AttrName:"Length1"=0.0669
+      AttrName:"orientation1"=-32.2873
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.1408
+      AttrName:"orientation0"=95.3587
+      AttrName:"offset"=-8.7681,-7.168
+      AttrName:"Length1"=0.1301
+      AttrName:"orientation1"=20.4023
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-7.89119,-7.77041
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_4"
+    Attr Count:4
+      AttrName:"Length0"=0.1907
+      AttrName:"orientation0"=-32.2873
+      AttrName:"Length1"=0.344891
+      AttrName:"orientation1"=-94.8805
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.2471
+      AttrName:"orientation0"=187.982
+      AttrName:"offset"=-8.9075,-7.7284
+      AttrName:"Length1"=0.2353
+      AttrName:"orientation1"=-188.599
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Master_buckle-P"
+    Attr Count:2
+      AttrName:"POSITION"=1.0259,0.034,0
+      AttrName:"ROTATION"=0,0,70.3996
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Tip-P"
+    Attr Count:2
+      AttrName:"POSITION"=1.55116,0.0404814,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Buckle-P"
+    Attr Count:2
+      AttrName:"POSITION"=-0.034,0.1895,-0.001
+      AttrName:"ROTATION"=0,0,-47.9996
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Master_Shoe-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0.001
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Strip-P"
+    Attr Count:2
+      AttrName:"POSITION"=-0.1273,0.2514,0
+      AttrName:"ROTATION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Shoe_Base-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.7967,0.0178,0
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Sole-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.986,0.0924,0
+
+  [TB_State]
+  Name:"animatedState_20"
+  Frame:20
+  Node Count:32
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.1006
+      AttrName:"orientation0"=4.6796
+      AttrName:"offset"=-8.3201,-7.335
+      AttrName:"Length1"=0.0807
+      AttrName:"orientation1"=9.9454
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.0433
+      AttrName:"orientation0"=9.9454
+      AttrName:"Length1"=0.0537
+      AttrName:"orientation1"=230.376
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.0515
+      AttrName:"orientation0"=185.99
+      AttrName:"offset"=-8.5457,-7.376
+      AttrName:"Length1"=0.0682
+      AttrName:"orientation1"=4.6796
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.3225,-7.54
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.0966
+      AttrName:"orientation0"=214.231
+      AttrName:"offset"=-8.5407,-7.5903
+      AttrName:"Length1"=0.0811
+      AttrName:"orientation1"=185.99
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-9.08459,-7.99915
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_2"
+    Attr Count:3
+      AttrName:"Length0"=0.0402
+      AttrName:"orientation0"=280.784
+      AttrName:"offset"=-8.08415,-7.90088
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.244
+      AttrName:"orientation0"=211.774
+      AttrName:"Length1"=0.2478
+      AttrName:"orientation1"=166.413
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.3393
+      AttrName:"orientation0"=-8.0135
+      AttrName:"offset"=-8.0805,-7.7502
+      AttrName:"Length1"=0.302
+      AttrName:"orientation1"=21.3596
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE"
+    Attr Count:3
+      AttrName:"offset"=-9.07374,-7.81337
+      AttrName:"Length1"=0.058
+      AttrName:"orientation1"=57.3096
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.0914
+      AttrName:"orientation0"=163.267
+      AttrName:"offset"=-9.1197,-7.6702
+      AttrName:"Length1"=0.1828
+      AttrName:"orientation1"=92.2387
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.1442
+      AttrName:"orientation0"=6.4506
+      AttrName:"offset"=-8.7416,-7.7245
+      AttrName:"Length1"=0.3065
+      AttrName:"orientation1"=-92.8403
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-9.0344,-8.0576
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.3267
+      AttrName:"orientation0"=92.2387
+      AttrName:"offset"=-9.042,-7.2728
+      AttrName:"Length1"=0.1071
+      AttrName:"orientation1"=6.4506
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.2953
+      AttrName:"orientation0"=-92.8403
+      AttrName:"Length1"=0.1661
+      AttrName:"orientation1"=-181.079
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.0232
+      AttrName:"orientation0"=-3.5174
+      AttrName:"offset"=-8.5722,-7.5667
+      AttrName:"Length1"=0.1345
+      AttrName:"orientation1"=-91.2351
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.0315
+      AttrName:"orientation0"=181.698
+      AttrName:"offset"=-8.6809,-7.5599
+      AttrName:"Length1"=0.1017
+      AttrName:"orientation1"=92.06
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.1328
+      AttrName:"orientation0"=-91.2351
+      AttrName:"Length1"=0.0277
+      AttrName:"orientation1"=-187.276
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.0668
+      AttrName:"orientation0"=92.06
+      AttrName:"offset"=-8.6228,-7.3541
+      AttrName:"Length1"=0.0442
+      AttrName:"orientation1"=-3.5174
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.6266,-7.7528
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_3"
+    Attr Count:5
+      AttrName:"Length0"=0
+      AttrName:"orientation0"=29.3249
+      AttrName:"offset"=-8.5301,-7.1831
+      AttrName:"Length1"=0.0669
+      AttrName:"orientation1"=-32.2873
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.1652
+      AttrName:"orientation0"=101.45
+      AttrName:"offset"=-8.7924,-7.1717
+      AttrName:"Length1"=0.103
+      AttrName:"orientation1"=29.3249
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-7.9243,-7.6778
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_4"
+    Attr Count:4
+      AttrName:"Length0"=0.1907
+      AttrName:"orientation0"=-32.2873
+      AttrName:"Length1"=0.3495
+      AttrName:"orientation1"=-97.268
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.2903
+      AttrName:"orientation0"=204.618
+      AttrName:"offset"=-8.886,-7.7451
+      AttrName:"Length1"=0.2353
+      AttrName:"orientation1"=-188.599
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Master_buckle-P"
+    Attr Count:2
+      AttrName:"POSITION"=1.0259,0.034,0
+      AttrName:"ROTATION"=0,0,70.3996
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Tip-P"
+    Attr Count:2
+      AttrName:"POSITION"=1.6317,0.0356,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Buckle-P"
+    Attr Count:2
+      AttrName:"POSITION"=-0.034,0.1895,-0.001
+      AttrName:"ROTATION"=0,0,-47.9996
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Master_Shoe-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0.001
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Strip-P"
+    Attr Count:2
+      AttrName:"POSITION"=-0.0862,0.092,0
+      AttrName:"ROTATION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Shoe_Base-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.7967,0.0178,0
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Sole-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.986,0.0924,0
+
+  [TB_State]
+  Name:"animatedState_21"
+  Frame:21
+  Node Count:32
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.1006
+      AttrName:"orientation0"=4.6796
+      AttrName:"offset"=-8.3201,-7.335
+      AttrName:"Length1"=0.0807
+      AttrName:"orientation1"=9.9454
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.0433
+      AttrName:"orientation0"=9.9454
+      AttrName:"Length1"=0.0537
+      AttrName:"orientation1"=230.376
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.0515
+      AttrName:"orientation0"=185.99
+      AttrName:"offset"=-8.5457,-7.376
+      AttrName:"Length1"=0.0682
+      AttrName:"orientation1"=4.6796
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.3225,-7.54
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.0966
+      AttrName:"orientation0"=214.231
+      AttrName:"offset"=-8.5407,-7.5903
+      AttrName:"Length1"=0.0811
+      AttrName:"orientation1"=185.99
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-9.08459,-7.99915
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_2"
+    Attr Count:3
+      AttrName:"Length0"=0.0402
+      AttrName:"orientation0"=280.784
+      AttrName:"offset"=-8.08415,-7.90088
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.244
+      AttrName:"orientation0"=211.774
+      AttrName:"Length1"=0.2478
+      AttrName:"orientation1"=166.413
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.3393
+      AttrName:"orientation0"=-8.0135
+      AttrName:"offset"=-8.0805,-7.7502
+      AttrName:"Length1"=0.302
+      AttrName:"orientation1"=21.3596
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE"
+    Attr Count:3
+      AttrName:"offset"=-9.07374,-7.81337
+      AttrName:"Length1"=0.058
+      AttrName:"orientation1"=57.3096
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.0914
+      AttrName:"orientation0"=163.267
+      AttrName:"offset"=-9.1197,-7.6702
+      AttrName:"Length1"=0.1828
+      AttrName:"orientation1"=92.2387
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.1442
+      AttrName:"orientation0"=6.4506
+      AttrName:"offset"=-8.7416,-7.7245
+      AttrName:"Length1"=0.3065
+      AttrName:"orientation1"=-92.8403
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-9.0344,-8.0576
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.3267
+      AttrName:"orientation0"=92.2387
+      AttrName:"offset"=-9.042,-7.2728
+      AttrName:"Length1"=0.1071
+      AttrName:"orientation1"=6.4506
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.2953
+      AttrName:"orientation0"=-92.8403
+      AttrName:"Length1"=0.1661
+      AttrName:"orientation1"=-181.079
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.0232
+      AttrName:"orientation0"=-3.5174
+      AttrName:"offset"=-8.5722,-7.5667
+      AttrName:"Length1"=0.1345
+      AttrName:"orientation1"=-91.2351
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.0315
+      AttrName:"orientation0"=181.698
+      AttrName:"offset"=-8.6809,-7.5599
+      AttrName:"Length1"=0.1017
+      AttrName:"orientation1"=92.06
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.1328
+      AttrName:"orientation0"=-91.2351
+      AttrName:"Length1"=0.0277
+      AttrName:"orientation1"=-187.276
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.0668
+      AttrName:"orientation0"=92.06
+      AttrName:"offset"=-8.6228,-7.3541
+      AttrName:"Length1"=0.0442
+      AttrName:"orientation1"=-3.5174
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.6266,-7.7528
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_3"
+    Attr Count:5
+      AttrName:"Length0"=0
+      AttrName:"orientation0"=29.3249
+      AttrName:"offset"=-8.5301,-7.1831
+      AttrName:"Length1"=0.0669
+      AttrName:"orientation1"=-32.2873
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.1652
+      AttrName:"orientation0"=101.45
+      AttrName:"offset"=-8.7924,-7.1717
+      AttrName:"Length1"=0.103
+      AttrName:"orientation1"=29.3249
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-7.9243,-7.6778
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_4"
+    Attr Count:4
+      AttrName:"Length0"=0.1907
+      AttrName:"orientation0"=-32.2873
+      AttrName:"Length1"=0.3495
+      AttrName:"orientation1"=-97.268
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.2903
+      AttrName:"orientation0"=204.618
+      AttrName:"offset"=-8.886,-7.7451
+      AttrName:"Length1"=0.2353
+      AttrName:"orientation1"=-188.599
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Master_buckle-P"
+    Attr Count:2
+      AttrName:"POSITION"=1.0259,0.034,0
+      AttrName:"ROTATION"=0,0,70.3996
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Tip-P"
+    Attr Count:2
+      AttrName:"POSITION"=1.6317,0.0356,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Buckle-P"
+    Attr Count:2
+      AttrName:"POSITION"=-0.034,0.1895,-0.001
+      AttrName:"ROTATION"=0,0,-47.9996
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Master_Shoe-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0.001
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Strip-P"
+    Attr Count:2
+      AttrName:"POSITION"=-0.0862,0.092,0
+      AttrName:"ROTATION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Shoe_Base-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.7967,0.0178,0
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Sole-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.986,0.0924,0
+
+  [TB_State]
+  Name:"animatedState_22"
+  Frame:22
+  Node Count:32
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.1275
+      AttrName:"orientation0"=-30.4459
+      AttrName:"offset"=-8.4269,-7.3636
+      AttrName:"Length1"=0.0668
+      AttrName:"orientation1"=6.0881
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.0425
+      AttrName:"orientation0"=6.0881
+      AttrName:"Length1"=0.0746
+      AttrName:"orientation1"=196.177
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.0515
+      AttrName:"orientation0"=142.587
+      AttrName:"offset"=-8.51,-7.2691
+      AttrName:"Length1"=0.0478
+      AttrName:"orientation1"=-30.4459
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.4541,-7.4682
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.0716
+      AttrName:"orientation0"=197.295
+      AttrName:"offset"=-8.5181,-7.3976
+      AttrName:"Length1"=0.0955
+      AttrName:"orientation1"=142.587
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-9.1056,-7.97341
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_2"
+    Attr Count:3
+      AttrName:"Length0"=0.0401
+      AttrName:"orientation0"=285.61
+      AttrName:"offset"=-8.252,-7.8414
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.191173
+      AttrName:"orientation0"=235.191
+      AttrName:"Length1"=0.249604
+      AttrName:"orientation1"=164.129
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.2904
+      AttrName:"orientation0"=-7.3532
+      AttrName:"offset"=-8.2528,-7.7279
+      AttrName:"Length1"=0.2921
+      AttrName:"orientation1"=18.0621
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE"
+    Attr Count:3
+      AttrName:"offset"=-9.10291,-7.7622
+      AttrName:"Length1"=0.0647
+      AttrName:"orientation1"=60.3256
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.125
+      AttrName:"orientation0"=166.797
+      AttrName:"offset"=-9.2388,-7.6445
+      AttrName:"Length1"=0.1718
+      AttrName:"orientation1"=92.0987
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.1372
+      AttrName:"orientation0"=4.7653
+      AttrName:"offset"=-8.8412,-7.684
+      AttrName:"Length1"=0.2873
+      AttrName:"orientation1"=-92.7207
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-9.1139,-8.0257
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.3077
+      AttrName:"orientation0"=92.0987
+      AttrName:"offset"=-9.1282,-7.2542
+      AttrName:"Length1"=0.1089
+      AttrName:"orientation1"=4.7653
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.2775
+      AttrName:"orientation0"=-92.7207
+      AttrName:"Length1"=0.1563
+      AttrName:"orientation1"=-181.086
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.0302
+      AttrName:"orientation0"=-1.7167
+      AttrName:"offset"=-8.5556,-7.5587
+      AttrName:"Length1"=0.1226
+      AttrName:"orientation1"=-91.2286
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.0395
+      AttrName:"orientation0"=180.209
+      AttrName:"offset"=-8.683,-7.556
+      AttrName:"Length1"=0.0881
+      AttrName:"orientation1"=91.1557
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.1183
+      AttrName:"orientation0"=-91.2286
+      AttrName:"Length1"=0.034
+      AttrName:"orientation1"=-183.923
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.0854
+      AttrName:"orientation0"=91.1557
+      AttrName:"offset"=-8.617,-7.3545
+      AttrName:"Length1"=0.0429
+      AttrName:"orientation1"=-1.7167
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.6196,-7.7456
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_3"
+    Attr Count:5
+      AttrName:"Length0"=0.0083
+      AttrName:"orientation0"=28.1987
+      AttrName:"offset"=-8.4795,-7.1995
+      AttrName:"Length1"=0.0532
+      AttrName:"orientation1"=-37.5551
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.1687
+      AttrName:"orientation0"=103.548
+      AttrName:"offset"=-8.7698,-7.1885
+      AttrName:"Length1"=0.0816
+      AttrName:"orientation1"=38.9117
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.26584,-7.72217
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_4"
+    Attr Count:4
+      AttrName:"Length0"=0.194109
+      AttrName:"orientation0"=-37.5551
+      AttrName:"Length1"=0.3089
+      AttrName:"orientation1"=-97.7569
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.246872
+      AttrName:"orientation0"=195.552
+      AttrName:"offset"=-8.8802,-7.72955
+      AttrName:"Length1"=0.234461
+      AttrName:"orientation1"=-192.733
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Master_buckle-P"
+    Attr Count:2
+      AttrName:"POSITION"=0.8363,0.0621,-0.0003
+      AttrName:"ROTATION"=0,0,56.0359
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Tip-P"
+    Attr Count:2
+      AttrName:"POSITION"=1.42092,0.0949197,-0.0003
+      AttrName:"SCALE"=1,1.0068,1
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Buckle-P"
+    Attr Count:2
+      AttrName:"POSITION"=-0.0226,0.1263,-0.0007
+      AttrName:"ROTATION"=0,0,-46.2736
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Master_Shoe-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0.001
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Strip-P"
+    Attr Count:2
+      AttrName:"POSITION"=-0.0335,0.0246,-0.0003
+      AttrName:"ROTATION"=0,0,-30.1801
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Shoe_Base-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.7489,0.0437,0
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Sole-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.9654,0.0833,0
+
+  [TB_State]
+  Name:"animatedState_23"
+  Frame:23
+  Node Count:32
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.1275
+      AttrName:"orientation0"=-30.4459
+      AttrName:"offset"=-8.4269,-7.3636
+      AttrName:"Length1"=0.0668
+      AttrName:"orientation1"=6.0881
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.0425
+      AttrName:"orientation0"=6.0881
+      AttrName:"Length1"=0.0746
+      AttrName:"orientation1"=196.177
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.0515
+      AttrName:"orientation0"=142.587
+      AttrName:"offset"=-8.51,-7.2691
+      AttrName:"Length1"=0.0478
+      AttrName:"orientation1"=-30.4459
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.4541,-7.4682
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.0716
+      AttrName:"orientation0"=197.295
+      AttrName:"offset"=-8.5181,-7.3976
+      AttrName:"Length1"=0.0955
+      AttrName:"orientation1"=142.587
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-9.1056,-7.97341
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_2"
+    Attr Count:3
+      AttrName:"Length0"=0.0401
+      AttrName:"orientation0"=285.61
+      AttrName:"offset"=-8.252,-7.8414
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.191173
+      AttrName:"orientation0"=235.191
+      AttrName:"Length1"=0.249604
+      AttrName:"orientation1"=164.129
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.2904
+      AttrName:"orientation0"=-7.3532
+      AttrName:"offset"=-8.2528,-7.7279
+      AttrName:"Length1"=0.2921
+      AttrName:"orientation1"=18.0621
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE"
+    Attr Count:3
+      AttrName:"offset"=-9.10291,-7.7622
+      AttrName:"Length1"=0.0647
+      AttrName:"orientation1"=60.3256
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.125
+      AttrName:"orientation0"=166.797
+      AttrName:"offset"=-9.2388,-7.6445
+      AttrName:"Length1"=0.1718
+      AttrName:"orientation1"=92.0987
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.1372
+      AttrName:"orientation0"=4.7653
+      AttrName:"offset"=-8.8412,-7.684
+      AttrName:"Length1"=0.2873
+      AttrName:"orientation1"=-92.7207
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-9.1139,-8.0257
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.3077
+      AttrName:"orientation0"=92.0987
+      AttrName:"offset"=-9.1282,-7.2542
+      AttrName:"Length1"=0.1089
+      AttrName:"orientation1"=4.7653
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.2775
+      AttrName:"orientation0"=-92.7207
+      AttrName:"Length1"=0.1563
+      AttrName:"orientation1"=-181.086
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.0302
+      AttrName:"orientation0"=-1.7167
+      AttrName:"offset"=-8.5556,-7.5587
+      AttrName:"Length1"=0.1226
+      AttrName:"orientation1"=-91.2286
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.0395
+      AttrName:"orientation0"=180.209
+      AttrName:"offset"=-8.683,-7.556
+      AttrName:"Length1"=0.0881
+      AttrName:"orientation1"=91.1557
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.1183
+      AttrName:"orientation0"=-91.2286
+      AttrName:"Length1"=0.034
+      AttrName:"orientation1"=-183.923
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.0854
+      AttrName:"orientation0"=91.1557
+      AttrName:"offset"=-8.617,-7.3545
+      AttrName:"Length1"=0.0429
+      AttrName:"orientation1"=-1.7167
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.6196,-7.7456
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_3"
+    Attr Count:5
+      AttrName:"Length0"=0.0083
+      AttrName:"orientation0"=28.1987
+      AttrName:"offset"=-8.4795,-7.1995
+      AttrName:"Length1"=0.0532
+      AttrName:"orientation1"=-37.5551
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.1687
+      AttrName:"orientation0"=103.548
+      AttrName:"offset"=-8.7698,-7.1885
+      AttrName:"Length1"=0.0816
+      AttrName:"orientation1"=38.9117
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.26584,-7.72217
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_4"
+    Attr Count:4
+      AttrName:"Length0"=0.194109
+      AttrName:"orientation0"=-37.5551
+      AttrName:"Length1"=0.3089
+      AttrName:"orientation1"=-97.7569
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.246872
+      AttrName:"orientation0"=195.552
+      AttrName:"offset"=-8.8802,-7.72955
+      AttrName:"Length1"=0.234461
+      AttrName:"orientation1"=-192.733
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Master_buckle-P"
+    Attr Count:2
+      AttrName:"POSITION"=0.8363,0.0621,-0.0003
+      AttrName:"ROTATION"=0,0,56.0359
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Tip-P"
+    Attr Count:2
+      AttrName:"POSITION"=1.42092,0.0949197,-0.0003
+      AttrName:"SCALE"=1,1.0068,1
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Buckle-P"
+    Attr Count:2
+      AttrName:"POSITION"=-0.0226,0.1263,-0.0007
+      AttrName:"ROTATION"=0,0,-46.2736
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Master_Shoe-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0.001
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Strip-P"
+    Attr Count:2
+      AttrName:"POSITION"=-0.0335,0.0246,-0.0003
+      AttrName:"ROTATION"=0,0,-30.1801
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Shoe_Base-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.7489,0.0437,0
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Sole-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.9654,0.0833,0
+
+  [TB_State]
+  Name:"animatedState_24"
+  Frame:24
+  Node Count:32
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.1464
+      AttrName:"orientation0"=-124.956
+      AttrName:"offset"=-8.5956,-7.664
+      AttrName:"Length1"=0.0704
+      AttrName:"orientation1"=-86.098
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.0409
+      AttrName:"orientation0"=-86.098
+      AttrName:"Length1"=0.074
+      AttrName:"orientation1"=95.4511
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.0644
+      AttrName:"orientation0"=49.3067
+      AttrName:"offset"=-8.4082,-7.0439
+      AttrName:"Length1"=0.0353
+      AttrName:"orientation1"=-124.956
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.6714,-7.5319
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.0467
+      AttrName:"orientation0"=90.254
+      AttrName:"offset"=-8.5189,-7.0132
+      AttrName:"Length1"=0.1662
+      AttrName:"orientation1"=49.3067
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-9.173,-7.93392
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_2"
+    Attr Count:3
+      AttrName:"Length0"=0.04
+      AttrName:"orientation0"=295.262
+      AttrName:"offset"=-8.48104,-7.95122
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.10271
+      AttrName:"orientation0"=211.165
+      AttrName:"Length1"=0.0998463
+      AttrName:"orientation1"=124.699
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.1926
+      AttrName:"orientation0"=-6.0325
+      AttrName:"offset"=-8.489,-7.7499
+      AttrName:"Length1"=0.2205
+      AttrName:"orientation1"=-1.1324
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE"
+    Attr Count:3
+      AttrName:"offset"=-9.1676,-7.73793
+      AttrName:"Length1"=0.0782
+      AttrName:"orientation1"=66.3576
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.2018
+      AttrName:"orientation0"=178.851
+      AttrName:"offset"=-9.5053,-7.649
+      AttrName:"Length1"=0.1497
+      AttrName:"orientation1"=92.5354
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.1232
+      AttrName:"orientation0"=1.3948
+      AttrName:"offset"=-8.939,-7.6469
+      AttrName:"Length1"=0.2606
+      AttrName:"orientation1"=-92.1655
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-9.2232,-8.0093
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.2585
+      AttrName:"orientation0"=92.5354
+      AttrName:"offset"=-9.2232,-7.2627
+      AttrName:"Length1"=0.1126
+      AttrName:"orientation1"=1.3948
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.2419
+      AttrName:"orientation0"=-92.1655
+      AttrName:"Length1"=0.1366
+      AttrName:"orientation1"=-181.1
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.0444
+      AttrName:"orientation0"=1.8846
+      AttrName:"offset"=-8.5225,-7.5426
+      AttrName:"Length1"=0.0987
+      AttrName:"orientation1"=-91.2155
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.0556
+      AttrName:"orientation0"=177.231
+      AttrName:"offset"=-8.6871,-7.5483
+      AttrName:"Length1"=0.0609
+      AttrName:"orientation1"=89.3472
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.0892
+      AttrName:"orientation0"=-91.2155
+      AttrName:"Length1"=0.0465
+      AttrName:"orientation1"=-177.218
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.1226
+      AttrName:"orientation0"=89.3472
+      AttrName:"offset"=-8.6055,-7.3554
+      AttrName:"Length1"=0.0404
+      AttrName:"orientation1"=1.8846
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.6055,-7.7313
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_3"
+    Attr Count:5
+      AttrName:"Length0"=0.0248
+      AttrName:"orientation0"=17.0237
+      AttrName:"offset"=-8.377,-7.236
+      AttrName:"Length1"=0.0258
+      AttrName:"orientation1"=-58.7399
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.1512
+      AttrName:"orientation0"=101.651
+      AttrName:"offset"=-8.7001,-7.2184
+      AttrName:"Length1"=0.0659
+      AttrName:"orientation1"=49.1629
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.22849,-7.79993
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_4"
+    Attr Count:4
+      AttrName:"Length0"=0.1851
+      AttrName:"orientation0"=-58.7399
+      AttrName:"Length1"=0.2278
+      AttrName:"orientation1"=-98.7348
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.218922
+      AttrName:"orientation0"=189.447
+      AttrName:"offset"=-8.88875,-7.79021
+      AttrName:"Length1"=0.193709
+      AttrName:"orientation1"=-190.589
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Master_buckle-P"
+    Attr Count:2
+      AttrName:"POSITION"=0.4571,0.1183,-0.001
+      AttrName:"ROTATION"=0,0,27.3085
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Tip-P"
+    Attr Count:2
+      AttrName:"POSITION"=1.3262,0.1438,-0.001
+      AttrName:"SCALE"=1,1.0204,1
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Buckle-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"ROTATION"=0,0,-42.8217
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Master_Shoe-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0.001
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Strip-P"
+    Attr Count:2
+      AttrName:"POSITION"=0.0308,0.0492,-0.001
+      AttrName:"ROTATION"=0,0,-90.5403
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Shoe_Base-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.6533,0.0956,0
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Sole-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.9242,0.065,0
+
+  [TB_State]
+  Name:"animatedState_25"
+  Frame:25
+  Node Count:32
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.1464
+      AttrName:"orientation0"=-124.956
+      AttrName:"offset"=-8.5956,-7.664
+      AttrName:"Length1"=0.0704
+      AttrName:"orientation1"=-86.098
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.0409
+      AttrName:"orientation0"=-86.098
+      AttrName:"Length1"=0.074
+      AttrName:"orientation1"=95.4511
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.0644
+      AttrName:"orientation0"=49.3067
+      AttrName:"offset"=-8.4082,-7.0439
+      AttrName:"Length1"=0.0353
+      AttrName:"orientation1"=-124.956
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.6714,-7.5319
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.0467
+      AttrName:"orientation0"=90.254
+      AttrName:"offset"=-8.5189,-7.0132
+      AttrName:"Length1"=0.1662
+      AttrName:"orientation1"=49.3067
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-9.173,-7.93392
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_2"
+    Attr Count:3
+      AttrName:"Length0"=0.04
+      AttrName:"orientation0"=295.262
+      AttrName:"offset"=-8.48104,-7.95122
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.10271
+      AttrName:"orientation0"=211.165
+      AttrName:"Length1"=0.0998463
+      AttrName:"orientation1"=124.699
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.1926
+      AttrName:"orientation0"=-6.0325
+      AttrName:"offset"=-8.489,-7.7499
+      AttrName:"Length1"=0.2205
+      AttrName:"orientation1"=-1.1324
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE"
+    Attr Count:3
+      AttrName:"offset"=-9.1676,-7.73793
+      AttrName:"Length1"=0.0782
+      AttrName:"orientation1"=66.3576
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.2018
+      AttrName:"orientation0"=178.851
+      AttrName:"offset"=-9.5053,-7.649
+      AttrName:"Length1"=0.1497
+      AttrName:"orientation1"=92.5354
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.1232
+      AttrName:"orientation0"=1.3948
+      AttrName:"offset"=-8.939,-7.6469
+      AttrName:"Length1"=0.2606
+      AttrName:"orientation1"=-92.1655
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-9.2232,-8.0093
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.2585
+      AttrName:"orientation0"=92.5354
+      AttrName:"offset"=-9.2232,-7.2627
+      AttrName:"Length1"=0.1126
+      AttrName:"orientation1"=1.3948
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.2419
+      AttrName:"orientation0"=-92.1655
+      AttrName:"Length1"=0.1366
+      AttrName:"orientation1"=-181.1
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.0444
+      AttrName:"orientation0"=1.8846
+      AttrName:"offset"=-8.5225,-7.5426
+      AttrName:"Length1"=0.0987
+      AttrName:"orientation1"=-91.2155
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.0556
+      AttrName:"orientation0"=177.231
+      AttrName:"offset"=-8.6871,-7.5483
+      AttrName:"Length1"=0.0609
+      AttrName:"orientation1"=89.3472
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.0892
+      AttrName:"orientation0"=-91.2155
+      AttrName:"Length1"=0.0465
+      AttrName:"orientation1"=-177.218
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.1226
+      AttrName:"orientation0"=89.3472
+      AttrName:"offset"=-8.6055,-7.3554
+      AttrName:"Length1"=0.0404
+      AttrName:"orientation1"=1.8846
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.6055,-7.7313
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_3"
+    Attr Count:5
+      AttrName:"Length0"=0.0248
+      AttrName:"orientation0"=17.0237
+      AttrName:"offset"=-8.377,-7.236
+      AttrName:"Length1"=0.0258
+      AttrName:"orientation1"=-58.7399
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.1512
+      AttrName:"orientation0"=101.651
+      AttrName:"offset"=-8.7001,-7.2184
+      AttrName:"Length1"=0.0659
+      AttrName:"orientation1"=49.1629
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.22849,-7.79993
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_4"
+    Attr Count:4
+      AttrName:"Length0"=0.1851
+      AttrName:"orientation0"=-58.7399
+      AttrName:"Length1"=0.2278
+      AttrName:"orientation1"=-98.7348
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.218922
+      AttrName:"orientation0"=189.447
+      AttrName:"offset"=-8.88875,-7.79021
+      AttrName:"Length1"=0.193709
+      AttrName:"orientation1"=-190.589
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Master_buckle-P"
+    Attr Count:2
+      AttrName:"POSITION"=0.4571,0.1183,-0.001
+      AttrName:"ROTATION"=0,0,27.3085
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Tip-P"
+    Attr Count:2
+      AttrName:"POSITION"=1.3262,0.1438,-0.001
+      AttrName:"SCALE"=1,1.0204,1
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Buckle-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"ROTATION"=0,0,-42.8217
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Master_Shoe-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0.001
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Strip-P"
+    Attr Count:2
+      AttrName:"POSITION"=0.0308,0.0492,-0.001
+      AttrName:"ROTATION"=0,0,-90.5403
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Shoe_Base-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.6533,0.0956,0
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Sole-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.9242,0.065,0
+
+  [TB_State]
+  Name:"animatedState_26"
+  Frame:26
+  Node Count:32
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.1464
+      AttrName:"orientation0"=-126.16
+      AttrName:"offset"=-8.5461,-7.5856
+      AttrName:"Length1"=0.0704
+      AttrName:"orientation1"=-86.098
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.0409
+      AttrName:"orientation0"=-86.098
+      AttrName:"Length1"=0.0702
+      AttrName:"orientation1"=112.967
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.0644
+      AttrName:"orientation0"=49.3067
+      AttrName:"offset"=-8.53443,-7.19507
+      AttrName:"Length1"=0.0566
+      AttrName:"orientation1"=-126.16
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.69012,-7.55595
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.0467
+      AttrName:"orientation0"=90.254
+      AttrName:"offset"=-8.64201,-7.25929
+      AttrName:"Length1"=0.1662
+      AttrName:"orientation1"=49.3067
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-9.2706,-7.8349
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_2"
+    Attr Count:3
+      AttrName:"Length0"=0.04
+      AttrName:"orientation0"=295.262
+      AttrName:"offset"=-8.3719,-7.9261
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.3223
+      AttrName:"orientation0"=203.334
+      AttrName:"Length1"=0.1919
+      AttrName:"orientation1"=145.981
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.2199
+      AttrName:"orientation0"=-19.8314
+      AttrName:"offset"=-8.377,-7.7857
+      AttrName:"Length1"=0.243
+      AttrName:"orientation1"=4.237
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE"
+    Attr Count:3
+      AttrName:"offset"=-9.27,-7.6973
+      AttrName:"Length1"=0.079
+      AttrName:"orientation1"=75.2757
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.2018
+      AttrName:"orientation0"=178.851
+      AttrName:"offset"=-9.4886,-7.6751
+      AttrName:"Length1"=0.1497
+      AttrName:"orientation1"=92.5354
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.1232
+      AttrName:"orientation0"=1.3948
+      AttrName:"offset"=-9.0918,-7.6795
+      AttrName:"Length1"=0.2606
+      AttrName:"orientation1"=-92.1655
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-9.2066,-8.0354
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.2585
+      AttrName:"orientation0"=92.5354
+      AttrName:"offset"=-9.2003,-7.2888
+      AttrName:"Length1"=0.1126
+      AttrName:"orientation1"=1.3948
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.2419
+      AttrName:"orientation0"=-92.1655
+      AttrName:"Length1"=0.1366
+      AttrName:"orientation1"=-181.1
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.0639
+      AttrName:"orientation0"=0.7859
+      AttrName:"offset"=-8.4974,-7.5418
+      AttrName:"Length1"=0.097
+      AttrName:"orientation1"=-89.8483
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.0806
+      AttrName:"orientation0"=177.635
+      AttrName:"offset"=-8.7121,-7.5481
+      AttrName:"Length1"=0.0598
+      AttrName:"orientation1"=89.1962
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.0998
+      AttrName:"orientation0"=-89.8483
+      AttrName:"Length1"=0.0615
+      AttrName:"orientation1"=-178.282
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.1406
+      AttrName:"orientation0"=89.1962
+      AttrName:"offset"=-8.6055,-7.3554
+      AttrName:"Length1"=0.0404
+      AttrName:"orientation1"=0.7859
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.6055,-7.7313
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_3"
+    Attr Count:5
+      AttrName:"Length0"=0.0248
+      AttrName:"orientation0"=3.86165
+      AttrName:"offset"=-8.3972,-7.236
+      AttrName:"Length1"=0.0258
+      AttrName:"orientation1"=-65.6781
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.2286
+      AttrName:"orientation0"=99.2571
+      AttrName:"offset"=-8.73963,-7.23499
+      AttrName:"Length1"=0.187765
+      AttrName:"orientation1"=3.86165
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.3216,-7.8332
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_4"
+    Attr Count:4
+      AttrName:"Length0"=0.1936
+      AttrName:"orientation0"=-65.6781
+      AttrName:"Length1"=0.2278
+      AttrName:"orientation1"=-98.7348
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.35188
+      AttrName:"orientation0"=184.242
+      AttrName:"offset"=-9.02356,-7.73717
+      AttrName:"Length1"=0.100793
+      AttrName:"orientation1"=-206.057
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Master_buckle-P"
+    Attr Count:2
+      AttrName:"POSITION"=0.4377,0.0943,0.0007
+      AttrName:"ROTATION"=0,0,37.2715
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Tip-P"
+    Attr Count:2
+      AttrName:"POSITION"=0.968075,0.1253,-0.0003
+      AttrName:"SCALE"=1,1.0204,1
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Buckle-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"ROTATION"=0,0,-42.8217
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Master_Shoe-P"
+    Attr Count:1
+      AttrName:"POSITION"=-0.0039,-0.0006,0.001
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Strip-P"
+    Attr Count:2
+      AttrName:"POSITION"=0.0103,0.0164,0.0007
+      AttrName:"ROTATION"=0,0,-58.3902
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Shoe_Base-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.6533,0.0956,0
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Sole-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.7436,0.0854,0
+
+  [TB_State]
+  Name:"animatedState_27"
+  Frame:27
+  Node Count:32
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.1464
+      AttrName:"orientation0"=-126.16
+      AttrName:"offset"=-8.5461,-7.5856
+      AttrName:"Length1"=0.0704
+      AttrName:"orientation1"=-86.098
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.0409
+      AttrName:"orientation0"=-86.098
+      AttrName:"Length1"=0.0702
+      AttrName:"orientation1"=112.967
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.0644
+      AttrName:"orientation0"=49.3067
+      AttrName:"offset"=-8.53443,-7.19507
+      AttrName:"Length1"=0.0566
+      AttrName:"orientation1"=-126.16
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.69012,-7.55595
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.0467
+      AttrName:"orientation0"=90.254
+      AttrName:"offset"=-8.64201,-7.25929
+      AttrName:"Length1"=0.1662
+      AttrName:"orientation1"=49.3067
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-9.2706,-7.8349
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_2"
+    Attr Count:3
+      AttrName:"Length0"=0.04
+      AttrName:"orientation0"=295.262
+      AttrName:"offset"=-8.3719,-7.9261
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.3223
+      AttrName:"orientation0"=203.334
+      AttrName:"Length1"=0.1919
+      AttrName:"orientation1"=145.981
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.2199
+      AttrName:"orientation0"=-19.8314
+      AttrName:"offset"=-8.377,-7.7857
+      AttrName:"Length1"=0.243
+      AttrName:"orientation1"=4.237
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE"
+    Attr Count:3
+      AttrName:"offset"=-9.27,-7.6973
+      AttrName:"Length1"=0.079
+      AttrName:"orientation1"=75.2757
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.2018
+      AttrName:"orientation0"=178.851
+      AttrName:"offset"=-9.4886,-7.6751
+      AttrName:"Length1"=0.1497
+      AttrName:"orientation1"=92.5354
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.1232
+      AttrName:"orientation0"=1.3948
+      AttrName:"offset"=-9.0918,-7.6795
+      AttrName:"Length1"=0.2606
+      AttrName:"orientation1"=-92.1655
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-9.2066,-8.0354
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.2585
+      AttrName:"orientation0"=92.5354
+      AttrName:"offset"=-9.2003,-7.2888
+      AttrName:"Length1"=0.1126
+      AttrName:"orientation1"=1.3948
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.2419
+      AttrName:"orientation0"=-92.1655
+      AttrName:"Length1"=0.1366
+      AttrName:"orientation1"=-181.1
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.0639
+      AttrName:"orientation0"=0.7859
+      AttrName:"offset"=-8.4974,-7.5418
+      AttrName:"Length1"=0.097
+      AttrName:"orientation1"=-89.8483
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.0806
+      AttrName:"orientation0"=177.635
+      AttrName:"offset"=-8.7121,-7.5481
+      AttrName:"Length1"=0.0598
+      AttrName:"orientation1"=89.1962
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.0998
+      AttrName:"orientation0"=-89.8483
+      AttrName:"Length1"=0.0615
+      AttrName:"orientation1"=-178.282
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.1406
+      AttrName:"orientation0"=89.1962
+      AttrName:"offset"=-8.6055,-7.3554
+      AttrName:"Length1"=0.0404
+      AttrName:"orientation1"=0.7859
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.6055,-7.7313
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_3"
+    Attr Count:5
+      AttrName:"Length0"=0.0248
+      AttrName:"orientation0"=3.86165
+      AttrName:"offset"=-8.3972,-7.236
+      AttrName:"Length1"=0.0258
+      AttrName:"orientation1"=-65.6781
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.2286
+      AttrName:"orientation0"=99.2571
+      AttrName:"offset"=-8.73963,-7.23499
+      AttrName:"Length1"=0.187765
+      AttrName:"orientation1"=3.86165
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.3216,-7.8332
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_4"
+    Attr Count:4
+      AttrName:"Length0"=0.1936
+      AttrName:"orientation0"=-65.6781
+      AttrName:"Length1"=0.2278
+      AttrName:"orientation1"=-98.7348
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.35188
+      AttrName:"orientation0"=184.242
+      AttrName:"offset"=-9.02356,-7.73717
+      AttrName:"Length1"=0.100793
+      AttrName:"orientation1"=-206.057
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Master_buckle-P"
+    Attr Count:2
+      AttrName:"POSITION"=0.4377,0.0943,0.0007
+      AttrName:"ROTATION"=0,0,37.2715
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Tip-P"
+    Attr Count:2
+      AttrName:"POSITION"=0.968075,0.1253,-0.0003
+      AttrName:"SCALE"=1,1.0204,1
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Buckle-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"ROTATION"=0,0,-42.8217
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Master_Shoe-P"
+    Attr Count:1
+      AttrName:"POSITION"=-0.0039,-0.0006,0.001
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Strip-P"
+    Attr Count:2
+      AttrName:"POSITION"=0.0103,0.0164,0.0007
+      AttrName:"ROTATION"=0,0,-58.3902
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Shoe_Base-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.6533,0.0956,0
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Sole-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.7436,0.0854,0
+
+  [TB_State]
+  Name:"animatedState_28"
+  Frame:28
+  Node Count:32
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.1333
+      AttrName:"orientation0"=-108.279
+      AttrName:"offset"=-8.5214,-7.5463
+      AttrName:"Length1"=0.0917
+      AttrName:"orientation1"=-89.1093
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.0409
+      AttrName:"orientation0"=-89.1093
+      AttrName:"Length1"=0.0683
+      AttrName:"orientation1"=121.725
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.0644
+      AttrName:"orientation0"=67.5152
+      AttrName:"offset"=-8.5094,-7.189
+      AttrName:"Length1"=0.0672
+      AttrName:"orientation1"=-108.279
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.7018,-7.5441
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.0767
+      AttrName:"orientation0"=90.1693
+      AttrName:"offset"=-8.6592,-7.1951
+      AttrName:"Length1"=0.1972
+      AttrName:"orientation1"=67.5152
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-9.3767,-7.8407
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_2"
+    Attr Count:3
+      AttrName:"Length0"=0.04
+      AttrName:"orientation0"=295.262
+      AttrName:"offset"=-8.3153,-7.9311
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.4193
+      AttrName:"orientation0"=191.201
+      AttrName:"Length1"=0.1864
+      AttrName:"orientation1"=154.061
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.2188
+      AttrName:"orientation0"=-17.3625
+      AttrName:"offset"=-8.3183,-7.7876
+      AttrName:"Length1"=0.243
+      AttrName:"orientation1"=4.237
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE"
+    Attr Count:3
+      AttrName:"offset"=-9.3782,-7.7048
+      AttrName:"Length1"=0.0794
+      AttrName:"orientation1"=79.7347
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.2018
+      AttrName:"orientation0"=178.851
+      AttrName:"offset"=-9.4802,-7.6882
+      AttrName:"Length1"=0.1497
+      AttrName:"orientation1"=91.4083
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.1232
+      AttrName:"orientation0"=1.3948
+      AttrName:"offset"=-9.0946,-7.6852
+      AttrName:"Length1"=0.2761
+      AttrName:"orientation1"=-91.1473
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-9.1982,-8.0485
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.2528
+      AttrName:"orientation0"=91.4083
+      AttrName:"offset"=-9.176,-7.3019
+      AttrName:"Length1"=0.1126
+      AttrName:"orientation1"=1.3948
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.2419
+      AttrName:"orientation0"=-91.1473
+      AttrName:"Length1"=0.1366
+      AttrName:"orientation1"=-181.1
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.0737
+      AttrName:"orientation0"=0.2366
+      AttrName:"offset"=-8.4781,-7.5421
+      AttrName:"Length1"=0.0993
+      AttrName:"orientation1"=-89.1564
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.093
+      AttrName:"orientation0"=177.836
+      AttrName:"offset"=-8.7313,-7.549
+      AttrName:"Length1"=0.0612
+      AttrName:"orientation1"=89.0939
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.1086
+      AttrName:"orientation0"=-89.1564
+      AttrName:"Length1"=0.069
+      AttrName:"orientation1"=-178.814
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.1547
+      AttrName:"orientation0"=89.0939
+      AttrName:"offset"=-8.6055,-7.3554
+      AttrName:"Length1"=0.0404
+      AttrName:"orientation1"=0.2366
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.6055,-7.7313
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_3"
+    Attr Count:5
+      AttrName:"Length0"=0.0248
+      AttrName:"orientation0"=12.7735
+      AttrName:"offset"=-8.4145,-7.2138
+      AttrName:"Length1"=0.0258
+      AttrName:"orientation1"=-69.1473
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.2772
+      AttrName:"orientation0"=93.287
+      AttrName:"offset"=-8.6942,-7.1995
+      AttrName:"Length1"=0.1842
+      AttrName:"orientation1"=12.7735
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.3597,-7.8092
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_4"
+    Attr Count:4
+      AttrName:"Length0"=0.1979
+      AttrName:"orientation0"=-69.1473
+      AttrName:"Length1"=0.2278
+      AttrName:"orientation1"=-98.7348
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.354
+      AttrName:"orientation0"=187.763
+      AttrName:"offset"=-9.3547,-7.7078
+      AttrName:"Length1"=0.0856
+      AttrName:"orientation1"=-231.865
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Master_buckle-P"
+    Attr Count:2
+      AttrName:"POSITION"=0.5031,0.0607,0
+      AttrName:"ROTATION"=0,0,42.253
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Tip-P"
+    Attr Count:2
+      AttrName:"POSITION"=0.7694,0.0833,0
+      AttrName:"SCALE"=1,1.0136,1
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Buckle-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"ROTATION"=0,0,-42.8217
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Master_Shoe-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0.001
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Strip-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"ROTATION"=0,0,-31.8254
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Shoe_Base-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.6533,0.0696,0
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Sole-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.6533,0.0696,0
+
+  [TB_State]
+  Name:"animatedState_29"
+  Frame:29
+  Node Count:32
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.1333
+      AttrName:"orientation0"=-108.279
+      AttrName:"offset"=-8.5214,-7.5463
+      AttrName:"Length1"=0.0917
+      AttrName:"orientation1"=-89.1093
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.0409
+      AttrName:"orientation0"=-89.1093
+      AttrName:"Length1"=0.0683
+      AttrName:"orientation1"=121.725
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.0644
+      AttrName:"orientation0"=67.5152
+      AttrName:"offset"=-8.5094,-7.189
+      AttrName:"Length1"=0.0672
+      AttrName:"orientation1"=-108.279
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.7018,-7.5441
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.0767
+      AttrName:"orientation0"=90.1693
+      AttrName:"offset"=-8.6592,-7.1951
+      AttrName:"Length1"=0.1972
+      AttrName:"orientation1"=67.5152
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-9.3767,-7.8407
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_2"
+    Attr Count:3
+      AttrName:"Length0"=0.04
+      AttrName:"orientation0"=295.262
+      AttrName:"offset"=-8.3153,-7.9311
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.4193
+      AttrName:"orientation0"=191.201
+      AttrName:"Length1"=0.1864
+      AttrName:"orientation1"=154.061
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.2188
+      AttrName:"orientation0"=-17.3625
+      AttrName:"offset"=-8.3183,-7.7876
+      AttrName:"Length1"=0.243
+      AttrName:"orientation1"=4.237
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE"
+    Attr Count:3
+      AttrName:"offset"=-9.3782,-7.7048
+      AttrName:"Length1"=0.0794
+      AttrName:"orientation1"=79.7347
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.2018
+      AttrName:"orientation0"=178.851
+      AttrName:"offset"=-9.4802,-7.6882
+      AttrName:"Length1"=0.1497
+      AttrName:"orientation1"=91.4083
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.1232
+      AttrName:"orientation0"=1.3948
+      AttrName:"offset"=-9.0946,-7.6852
+      AttrName:"Length1"=0.2761
+      AttrName:"orientation1"=-91.1473
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-9.1982,-8.0485
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.2528
+      AttrName:"orientation0"=91.4083
+      AttrName:"offset"=-9.176,-7.3019
+      AttrName:"Length1"=0.1126
+      AttrName:"orientation1"=1.3948
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.2419
+      AttrName:"orientation0"=-91.1473
+      AttrName:"Length1"=0.1366
+      AttrName:"orientation1"=-181.1
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.0737
+      AttrName:"orientation0"=0.2366
+      AttrName:"offset"=-8.4781,-7.5421
+      AttrName:"Length1"=0.0993
+      AttrName:"orientation1"=-89.1564
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.093
+      AttrName:"orientation0"=177.836
+      AttrName:"offset"=-8.7313,-7.549
+      AttrName:"Length1"=0.0612
+      AttrName:"orientation1"=89.0939
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.1086
+      AttrName:"orientation0"=-89.1564
+      AttrName:"Length1"=0.069
+      AttrName:"orientation1"=-178.814
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.1547
+      AttrName:"orientation0"=89.0939
+      AttrName:"offset"=-8.6055,-7.3554
+      AttrName:"Length1"=0.0404
+      AttrName:"orientation1"=0.2366
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.6055,-7.7313
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_3"
+    Attr Count:5
+      AttrName:"Length0"=0.0248
+      AttrName:"orientation0"=12.7735
+      AttrName:"offset"=-8.4145,-7.2138
+      AttrName:"Length1"=0.0258
+      AttrName:"orientation1"=-69.1473
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.2772
+      AttrName:"orientation0"=93.287
+      AttrName:"offset"=-8.6942,-7.1995
+      AttrName:"Length1"=0.1842
+      AttrName:"orientation1"=12.7735
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.3597,-7.8092
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_4"
+    Attr Count:4
+      AttrName:"Length0"=0.1979
+      AttrName:"orientation0"=-69.1473
+      AttrName:"Length1"=0.2278
+      AttrName:"orientation1"=-98.7348
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.354
+      AttrName:"orientation0"=187.763
+      AttrName:"offset"=-9.3547,-7.7078
+      AttrName:"Length1"=0.0856
+      AttrName:"orientation1"=-231.865
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Master_buckle-P"
+    Attr Count:2
+      AttrName:"POSITION"=0.5031,0.0607,0
+      AttrName:"ROTATION"=0,0,42.253
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Tip-P"
+    Attr Count:2
+      AttrName:"POSITION"=0.7694,0.0833,0
+      AttrName:"SCALE"=1,1.0136,1
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Buckle-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"ROTATION"=0,0,-42.8217
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Master_Shoe-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0.001
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Strip-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"ROTATION"=0,0,-31.8254
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Shoe_Base-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.6533,0.0696,0
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Sole-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.6533,0.0696,0
+
+  [TB_State]
+  Name:"animatedState_30"
+  Frame:30
+  Node Count:32
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.1072
+      AttrName:"orientation0"=-71.3133
+      AttrName:"offset"=-8.5214,-7.5463
+      AttrName:"Length1"=0.1343
+      AttrName:"orientation1"=-95.1319
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.0409
+      AttrName:"orientation0"=-95.1319
+      AttrName:"Length1"=0.0683
+      AttrName:"orientation1"=121.725
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.0644
+      AttrName:"orientation0"=103.932
+      AttrName:"offset"=-8.5794,-7.159
+      AttrName:"Length1"=0.0672
+      AttrName:"orientation1"=-71.3133
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.7018,-7.5441
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.1367
+      AttrName:"orientation0"=89.9999
+      AttrName:"offset"=-8.749,-7.1064
+      AttrName:"Length1"=0.2592
+      AttrName:"orientation1"=103.932
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-9.4913,-7.8902
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_2"
+    Attr Count:3
+      AttrName:"Length0"=0.04
+      AttrName:"orientation0"=295.262
+      AttrName:"offset"=-8.31,-7.8871
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.401
+      AttrName:"orientation0"=185.211
+      AttrName:"Length1"=0.1907
+      AttrName:"orientation1"=174.775
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.1891
+      AttrName:"orientation0"=1.3742
+      AttrName:"offset"=-8.3129,-7.7555
+      AttrName:"Length1"=0.2205
+      AttrName:"orientation1"=-1.1324
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE"
+    Attr Count:3
+      AttrName:"offset"=-9.4924,-7.7468
+      AttrName:"Length1"=0.0794
+      AttrName:"orientation1"=79.7347
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.2018
+      AttrName:"orientation0"=178.851
+      AttrName:"offset"=-9.4802,-7.6882
+      AttrName:"Length1"=0.1497
+      AttrName:"orientation1"=89.154
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.1232
+      AttrName:"orientation0"=1.3948
+      AttrName:"offset"=-8.9473,-7.6639
+      AttrName:"Length1"=0.307
+      AttrName:"orientation1"=-89.1107
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-9.1982,-8.0485
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.2416
+      AttrName:"orientation0"=89.154
+      AttrName:"offset"=-9.1503,-7.3019
+      AttrName:"Length1"=0.1126
+      AttrName:"orientation1"=1.3948
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.2419
+      AttrName:"orientation0"=-89.1107
+      AttrName:"Length1"=0.1366
+      AttrName:"orientation1"=-181.1
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.0737
+      AttrName:"orientation0"=0.2366
+      AttrName:"offset"=-8.4646,-7.5433
+      AttrName:"Length1"=0.1058
+      AttrName:"orientation1"=-89.1396
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.093
+      AttrName:"orientation0"=177.836
+      AttrName:"offset"=-8.7448,-7.5508
+      AttrName:"Length1"=0.0652
+      AttrName:"orientation1"=89.0402
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.1157
+      AttrName:"orientation0"=-89.1396
+      AttrName:"Length1"=0.069
+      AttrName:"orientation1"=-178.814
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.1648
+      AttrName:"orientation0"=89.0402
+      AttrName:"offset"=-8.6055,-7.3554
+      AttrName:"Length1"=0.0404
+      AttrName:"orientation1"=0.2366
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.6055,-7.7313
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_3"
+    Attr Count:5
+      AttrName:"Length0"=0.0248
+      AttrName:"orientation0"=24.392
+      AttrName:"offset"=-8.4291,-7.1693
+      AttrName:"Length1"=0.0258
+      AttrName:"orientation1"=-69.1473
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.297
+      AttrName:"orientation0"=83.741
+      AttrName:"offset"=-8.6824,-7.1615
+      AttrName:"Length1"=0.1968
+      AttrName:"orientation1"=24.392
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.3454,-7.7474
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_4"
+    Attr Count:4
+      AttrName:"Length0"=0.1979
+      AttrName:"orientation0"=-69.1473
+      AttrName:"Length1"=0.2278
+      AttrName:"orientation1"=-98.7348
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.2355
+      AttrName:"orientation0"=192.915
+      AttrName:"offset"=-9.4699,-7.7608
+      AttrName:"Length1"=0.0265
+      AttrName:"orientation1"=-238.036
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Master_buckle-P"
+    Attr Count:2
+      AttrName:"POSITION"=0.6534,0.0178,0
+      AttrName:"ROTATION"=0,0,42.253
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Tip-P"
+    Attr Count:2
+      AttrName:"POSITION"=0.6534,0.0178,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Buckle-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"ROTATION"=0,0,-42.8217
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Master_Shoe-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0.001
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Strip-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"ROTATION"=0,0,-10.8457
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Shoe_Base-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.6533,0.0178,0
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Sole-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.6533,0.0178,0
+
+  [TB_State]
+  Name:"animatedState_31"
+  Frame:31
+  Node Count:32
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.1072
+      AttrName:"orientation0"=-71.3133
+      AttrName:"offset"=-8.5214,-7.5463
+      AttrName:"Length1"=0.1343
+      AttrName:"orientation1"=-95.1319
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.0409
+      AttrName:"orientation0"=-95.1319
+      AttrName:"Length1"=0.0683
+      AttrName:"orientation1"=121.725
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.0644
+      AttrName:"orientation0"=103.932
+      AttrName:"offset"=-8.5794,-7.159
+      AttrName:"Length1"=0.0672
+      AttrName:"orientation1"=-71.3133
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.7018,-7.5441
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.1367
+      AttrName:"orientation0"=89.9999
+      AttrName:"offset"=-8.749,-7.1064
+      AttrName:"Length1"=0.2592
+      AttrName:"orientation1"=103.932
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-9.4913,-7.8902
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_2"
+    Attr Count:3
+      AttrName:"Length0"=0.04
+      AttrName:"orientation0"=295.262
+      AttrName:"offset"=-8.31,-7.8871
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.401
+      AttrName:"orientation0"=185.211
+      AttrName:"Length1"=0.1907
+      AttrName:"orientation1"=174.775
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.1891
+      AttrName:"orientation0"=1.3742
+      AttrName:"offset"=-8.3129,-7.7555
+      AttrName:"Length1"=0.2205
+      AttrName:"orientation1"=-1.1324
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE"
+    Attr Count:3
+      AttrName:"offset"=-9.4924,-7.7468
+      AttrName:"Length1"=0.0794
+      AttrName:"orientation1"=79.7347
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.2018
+      AttrName:"orientation0"=178.851
+      AttrName:"offset"=-9.4802,-7.6882
+      AttrName:"Length1"=0.1497
+      AttrName:"orientation1"=89.154
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.1232
+      AttrName:"orientation0"=1.3948
+      AttrName:"offset"=-8.9473,-7.6639
+      AttrName:"Length1"=0.307
+      AttrName:"orientation1"=-89.1107
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-9.1982,-8.0485
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.2416
+      AttrName:"orientation0"=89.154
+      AttrName:"offset"=-9.1503,-7.3019
+      AttrName:"Length1"=0.1126
+      AttrName:"orientation1"=1.3948
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.2419
+      AttrName:"orientation0"=-89.1107
+      AttrName:"Length1"=0.1366
+      AttrName:"orientation1"=-181.1
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.0737
+      AttrName:"orientation0"=0.2366
+      AttrName:"offset"=-8.4646,-7.5433
+      AttrName:"Length1"=0.1058
+      AttrName:"orientation1"=-89.1396
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.093
+      AttrName:"orientation0"=177.836
+      AttrName:"offset"=-8.7448,-7.5508
+      AttrName:"Length1"=0.0652
+      AttrName:"orientation1"=89.0402
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.1157
+      AttrName:"orientation0"=-89.1396
+      AttrName:"Length1"=0.069
+      AttrName:"orientation1"=-178.814
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.1648
+      AttrName:"orientation0"=89.0402
+      AttrName:"offset"=-8.6055,-7.3554
+      AttrName:"Length1"=0.0404
+      AttrName:"orientation1"=0.2366
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.6055,-7.7313
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_3"
+    Attr Count:5
+      AttrName:"Length0"=0.0248
+      AttrName:"orientation0"=24.392
+      AttrName:"offset"=-8.4291,-7.1693
+      AttrName:"Length1"=0.0258
+      AttrName:"orientation1"=-69.1473
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.297
+      AttrName:"orientation0"=83.741
+      AttrName:"offset"=-8.6824,-7.1615
+      AttrName:"Length1"=0.1968
+      AttrName:"orientation1"=24.392
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.3454,-7.7474
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_4"
+    Attr Count:4
+      AttrName:"Length0"=0.1979
+      AttrName:"orientation0"=-69.1473
+      AttrName:"Length1"=0.2278
+      AttrName:"orientation1"=-98.7348
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.2355
+      AttrName:"orientation0"=192.915
+      AttrName:"offset"=-9.4699,-7.7608
+      AttrName:"Length1"=0.0265
+      AttrName:"orientation1"=-238.036
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Master_buckle-P"
+    Attr Count:2
+      AttrName:"POSITION"=0.6534,0.0178,0
+      AttrName:"ROTATION"=0,0,42.253
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Tip-P"
+    Attr Count:2
+      AttrName:"POSITION"=0.6534,0.0178,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Buckle-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"ROTATION"=0,0,-42.8217
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Master_Shoe-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0.001
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Strip-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"ROTATION"=0,0,-10.8457
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Shoe_Base-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.6533,0.0178,0
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Sole-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.6533,0.0178,0
+
+  [TB_State]
+  Name:"animatedState_32"
+  Frame:32
+  Node Count:32
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.1671
+      AttrName:"orientation0"=-56.644
+      AttrName:"offset"=-8.5011,-7.4724
+      AttrName:"Length1"=0.1475
+      AttrName:"orientation1"=-101.045
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.0551
+      AttrName:"orientation0"=-101.045
+      AttrName:"Length1"=0.0813
+      AttrName:"orientation1"=148.283
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.0594
+      AttrName:"orientation0"=123.066
+      AttrName:"offset"=-8.6014,-6.9709
+      AttrName:"Length1"=0.0839
+      AttrName:"orientation1"=-56.644
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.6744,-7.5843
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.1678
+      AttrName:"orientation0"=69.0806
+      AttrName:"offset"=-8.7873,-6.9118
+      AttrName:"Length1"=0.3379
+      AttrName:"orientation1"=123.066
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-9.2757,-7.8906
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_2"
+    Attr Count:3
+      AttrName:"Length0"=0.04
+      AttrName:"orientation0"=295.262
+      AttrName:"offset"=-8.31,-7.8753
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.3379
+      AttrName:"orientation0"=191.988
+      AttrName:"Length1"=0.1937
+      AttrName:"orientation1"=169.699
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.1883
+      AttrName:"orientation0"=1.2589
+      AttrName:"offset"=-8.3129,-7.7401
+      AttrName:"Length1"=0.2216
+      AttrName:"orientation1"=2.2132
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE"
+    Attr Count:3
+      AttrName:"offset"=-9.2798,-7.7491
+      AttrName:"Length1"=0.078
+      AttrName:"orientation1"=77.9354
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.2309
+      AttrName:"orientation0"=178.866
+      AttrName:"offset"=-9.5457,-7.6903
+      AttrName:"Length1"=0.1709
+      AttrName:"orientation1"=91.6057
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.141
+      AttrName:"orientation0"=1.3773
+      AttrName:"offset"=-8.8582,-7.6805
+      AttrName:"Length1"=0.3128
+      AttrName:"orientation1"=-91.3159
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-9.1974,-8.0969
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.2893
+      AttrName:"orientation0"=91.6057
+      AttrName:"offset"=-9.1814,-7.254
+      AttrName:"Length1"=0.1288
+      AttrName:"orientation1"=1.3773
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.276
+      AttrName:"orientation0"=-91.3159
+      AttrName:"Length1"=0.1563
+      AttrName:"orientation1"=-181.086
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.0447
+      AttrName:"orientation0"=-0.8257
+      AttrName:"offset"=-8.5224,-7.5539
+      AttrName:"Length1"=0.1192
+      AttrName:"orientation1"=-90.1171
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.0577
+      AttrName:"orientation0"=180.7
+      AttrName:"offset"=-8.7064,-7.5549
+      AttrName:"Length1"=0.0818
+      AttrName:"orientation1"=90.4725
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.124
+      AttrName:"orientation0"=-90.1171
+      AttrName:"Length1"=0.0445
+      AttrName:"orientation1"=-183.19
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.1222
+      AttrName:"orientation0"=90.4725
+      AttrName:"offset"=-8.6132,-7.3548
+      AttrName:"Length1"=0.0421
+      AttrName:"orientation1"=-0.8257
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.6149,-7.7408
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_3"
+    Attr Count:5
+      AttrName:"Length0"=0.0138
+      AttrName:"orientation0"=21.3326
+      AttrName:"offset"=-8.4743,-7.1857
+      AttrName:"Length1"=0.0674
+      AttrName:"orientation1"=-57.2412
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.2522
+      AttrName:"orientation0"=93.9299
+      AttrName:"offset"=-8.7362,-7.1646
+      AttrName:"Length1"=0.1335
+      AttrName:"orientation1"=29.1707
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.3323,-7.7407
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_4"
+    Attr Count:4
+      AttrName:"Length0"=0.1643
+      AttrName:"orientation0"=-57.2412
+      AttrName:"Length1"=0.2318
+      AttrName:"orientation1"=-97.8349
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.2391
+      AttrName:"orientation0"=190.458
+      AttrName:"offset"=-9.2646,-7.7532
+      AttrName:"Length1"=0.1646
+      AttrName:"orientation1"=-205.069
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Master_buckle-P"
+    Attr Count:2
+      AttrName:"POSITION"=0.8391,0.0301,0
+      AttrName:"ROTATION"=0,0,54.7626
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Tip-P"
+    Attr Count:2
+      AttrName:"POSITION"=0.9852,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Buckle-P"
+    Attr Count:2
+      AttrName:"POSITION"=0.0117,-0.0112,0
+      AttrName:"ROTATION"=0,0,-45.069
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Master_Shoe-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0.001
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Strip-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"ROTATION"=0,0,-3.6152
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Shoe_Base-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.717,0.0178,0
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Sole-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.717,0.0178,0
+
+  [TB_State]
+  Name:"animatedState_33"
+  Frame:33
+  Node Count:32
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.1671
+      AttrName:"orientation0"=-56.644
+      AttrName:"offset"=-8.5011,-7.4724
+      AttrName:"Length1"=0.1475
+      AttrName:"orientation1"=-101.045
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.0551
+      AttrName:"orientation0"=-101.045
+      AttrName:"Length1"=0.0813
+      AttrName:"orientation1"=148.283
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.0594
+      AttrName:"orientation0"=123.066
+      AttrName:"offset"=-8.6014,-6.9709
+      AttrName:"Length1"=0.0839
+      AttrName:"orientation1"=-56.644
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.6744,-7.5843
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.1678
+      AttrName:"orientation0"=69.0806
+      AttrName:"offset"=-8.7873,-6.9118
+      AttrName:"Length1"=0.3379
+      AttrName:"orientation1"=123.066
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-9.2757,-7.8906
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_2"
+    Attr Count:3
+      AttrName:"Length0"=0.04
+      AttrName:"orientation0"=295.262
+      AttrName:"offset"=-8.31,-7.8753
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.3379
+      AttrName:"orientation0"=191.988
+      AttrName:"Length1"=0.1937
+      AttrName:"orientation1"=169.699
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.1883
+      AttrName:"orientation0"=1.2589
+      AttrName:"offset"=-8.3129,-7.7401
+      AttrName:"Length1"=0.2216
+      AttrName:"orientation1"=2.2132
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE"
+    Attr Count:3
+      AttrName:"offset"=-9.2798,-7.7491
+      AttrName:"Length1"=0.078
+      AttrName:"orientation1"=77.9354
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.2309
+      AttrName:"orientation0"=178.866
+      AttrName:"offset"=-9.5457,-7.6903
+      AttrName:"Length1"=0.1709
+      AttrName:"orientation1"=91.6057
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.141
+      AttrName:"orientation0"=1.3773
+      AttrName:"offset"=-8.8582,-7.6805
+      AttrName:"Length1"=0.3128
+      AttrName:"orientation1"=-91.3159
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-9.1974,-8.0969
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.2893
+      AttrName:"orientation0"=91.6057
+      AttrName:"offset"=-9.1814,-7.254
+      AttrName:"Length1"=0.1288
+      AttrName:"orientation1"=1.3773
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.276
+      AttrName:"orientation0"=-91.3159
+      AttrName:"Length1"=0.1563
+      AttrName:"orientation1"=-181.086
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.0447
+      AttrName:"orientation0"=-0.8257
+      AttrName:"offset"=-8.5224,-7.5539
+      AttrName:"Length1"=0.1192
+      AttrName:"orientation1"=-90.1171
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.0577
+      AttrName:"orientation0"=180.7
+      AttrName:"offset"=-8.7064,-7.5549
+      AttrName:"Length1"=0.0818
+      AttrName:"orientation1"=90.4725
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.124
+      AttrName:"orientation0"=-90.1171
+      AttrName:"Length1"=0.0445
+      AttrName:"orientation1"=-183.19
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.1222
+      AttrName:"orientation0"=90.4725
+      AttrName:"offset"=-8.6132,-7.3548
+      AttrName:"Length1"=0.0421
+      AttrName:"orientation1"=-0.8257
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.6149,-7.7408
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_3"
+    Attr Count:5
+      AttrName:"Length0"=0.0138
+      AttrName:"orientation0"=21.3326
+      AttrName:"offset"=-8.4743,-7.1857
+      AttrName:"Length1"=0.0674
+      AttrName:"orientation1"=-57.2412
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.2522
+      AttrName:"orientation0"=93.9299
+      AttrName:"offset"=-8.7362,-7.1646
+      AttrName:"Length1"=0.1335
+      AttrName:"orientation1"=29.1707
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.3323,-7.7407
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_4"
+    Attr Count:4
+      AttrName:"Length0"=0.1643
+      AttrName:"orientation0"=-57.2412
+      AttrName:"Length1"=0.2318
+      AttrName:"orientation1"=-97.8349
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.2391
+      AttrName:"orientation0"=190.458
+      AttrName:"offset"=-9.2646,-7.7532
+      AttrName:"Length1"=0.1646
+      AttrName:"orientation1"=-205.069
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Master_buckle-P"
+    Attr Count:2
+      AttrName:"POSITION"=0.8391,0.0301,0
+      AttrName:"ROTATION"=0,0,54.7626
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Tip-P"
+    Attr Count:2
+      AttrName:"POSITION"=0.9852,0,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Buckle-P"
+    Attr Count:2
+      AttrName:"POSITION"=0.0117,-0.0112,0
+      AttrName:"ROTATION"=0,0,-45.069
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Master_Shoe-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0.001
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Strip-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"ROTATION"=0,0,-3.6152
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Shoe_Base-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.717,0.0178,0
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Sole-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.717,0.0178,0
+
+  [TB_State]
+  Name:"animatedState_34"
+  Frame:34
+  Node Count:32
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.2094
+      AttrName:"orientation0"=-49.7673
+      AttrName:"offset"=-8.4875,-7.4255
+      AttrName:"Length1"=0.1626
+      AttrName:"orientation1"=-104.522
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.0658
+      AttrName:"orientation0"=-104.522
+      AttrName:"Length1"=0.0891
+      AttrName:"orientation1"=175.201
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.0594
+      AttrName:"orientation0"=132.056
+      AttrName:"offset"=-8.6165,-6.8354
+      AttrName:"Length1"=0.0963
+      AttrName:"orientation1"=-49.7673
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.6607,-7.6103
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Strip/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.2011
+      AttrName:"orientation0"=58.124
+      AttrName:"offset"=-8.824,-6.7709
+      AttrName:"Length1"=0.4067
+      AttrName:"orientation1"=132.056
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-9.1487,-7.8909
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_2"
+    Attr Count:3
+      AttrName:"Length0"=0.04
+      AttrName:"orientation0"=295.262
+      AttrName:"offset"=-8.31,-7.8753
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.2831
+      AttrName:"orientation0"=196.003
+      AttrName:"Length1"=0.1958
+      AttrName:"orientation1"=166.508
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.1878
+      AttrName:"orientation0"=1.1724
+      AttrName:"offset"=-8.3129,-7.7401
+      AttrName:"Length1"=0.2216
+      AttrName:"orientation1"=2.2132
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Sole/CURVE"
+    Attr Count:3
+      AttrName:"offset"=-9.1528,-7.7494
+      AttrName:"Length1"=0.078
+      AttrName:"orientation1"=77.9354
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.2455
+      AttrName:"orientation0"=178.873
+      AttrName:"offset"=-9.5849,-7.6914
+      AttrName:"Length1"=0.1819
+      AttrName:"orientation1"=92.8728
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.1499
+      AttrName:"orientation0"=1.3685
+      AttrName:"offset"=-8.8071,-7.6888
+      AttrName:"Length1"=0.3166
+      AttrName:"orientation1"=-92.4538
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-9.1969,-8.1211
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.314
+      AttrName:"orientation0"=92.8728
+      AttrName:"offset"=-9.1969,-7.2301
+      AttrName:"Length1"=0.1369
+      AttrName:"orientation1"=1.3685
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Tip/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.2938
+      AttrName:"orientation0"=-92.4538
+      AttrName:"Length1"=0.1661
+      AttrName:"orientation1"=-181.079
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.0279
+      AttrName:"orientation0"=-2.0771
+      AttrName:"offset"=-8.5582,-7.5617
+      AttrName:"Length1"=0.1287
+      AttrName:"orientation1"=-90.8156
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.0372
+      AttrName:"orientation0"=181.987
+      AttrName:"offset"=-8.6851,-7.558
+      AttrName:"Length1"=0.094
+      AttrName:"orientation1"=91.4791
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_3"
+    Attr Count:4
+      AttrName:"Length0"=0.1297
+      AttrName:"orientation0"=-90.8156
+      AttrName:"Length1"=0.0307
+      AttrName:"orientation1"=-186.01
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.0895
+      AttrName:"orientation0"=91.4791
+      AttrName:"offset"=-8.6189,-7.3544
+      AttrName:"Length1"=0.0434
+      AttrName:"orientation1"=-2.0771
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-buckle/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.6219,-7.748
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_3"
+    Attr Count:5
+      AttrName:"Length0"=0.0055
+      AttrName:"orientation0"=20.2662
+      AttrName:"offset"=-8.5082,-7.198
+      AttrName:"Length1"=0.0986
+      AttrName:"orientation1"=-48.3116
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.2283
+      AttrName:"orientation0"=99.4816
+      AttrName:"offset"=-8.7765,-7.1669
+      AttrName:"Length1"=0.0878
+      AttrName:"orientation1"=28.1043
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-8.3268,-7.7389
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE_4"
+    Attr Count:4
+      AttrName:"Length0"=0.1392
+      AttrName:"orientation0"=-48.3116
+      AttrName:"Length1"=0.2318
+      AttrName:"orientation1"=-97.8349
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Deformation-Shoe_Base/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.2418
+      AttrName:"orientation0"=188.615
+      AttrName:"offset"=-9.1428,-7.7469
+      AttrName:"Length1"=0.2332
+      AttrName:"orientation1"=-189.604
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Master_buckle-P"
+    Attr Count:2
+      AttrName:"POSITION"=0.9633,0.0355,0
+      AttrName:"ROTATION"=0,0,64.1448
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Tip-P"
+    Attr Count:2
+      AttrName:"POSITION"=1.1941,-0.0133,0
+      AttrName:"SCALE"=1,1,1
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Buckle-P"
+    Attr Count:2
+      AttrName:"POSITION"=0.0204,-0.0197,0
+      AttrName:"ROTATION"=0,0,-46.7949
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Master_Shoe-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0.001
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Strip-P"
+    Attr Count:2
+      AttrName:"POSITION"=0,0,0
+      AttrName:"ROTATION"=0,0,0
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Shoe_Base-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.7648,0.0178,0
+    [TB_NodeState]
+    Node:"~/Tenni_Gp/Sole-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.7648,0.0178,0
+

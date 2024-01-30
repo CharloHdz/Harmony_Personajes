@@ -1,0 +1,251 @@
+[TB_StateManager]
+State Count:3
+  [TB_State]
+  Name:"animatedState_1"
+  Frame:1
+  Node Count:12
+    [TB_NodeState]
+    Node:"~/Head_Gp/Eye_Clone_Gp/Deformation-Lid_Down/CURVE_3"
+    Attr Count:5
+      AttrName:"Length0"=0.5289
+      AttrName:"orientation0"=180
+      AttrName:"offset"=-9.8231,-2.3173
+      AttrName:"Length1"=0.5289
+      AttrName:"orientation1"=180
+    [TB_NodeState]
+    Node:"~/Head_Gp/Eye_Clone_Gp/Deformation-Lid_Down/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.3231
+      AttrName:"orientation0"=-89.9999
+      AttrName:"offset"=-8.2364,-2.3173
+      AttrName:"Length1"=0.3231
+      AttrName:"orientation1"=-89.9999
+    [TB_NodeState]
+    Node:"~/Head_Gp/Eye_Clone_Gp/Deformation-Lid_Down/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.3402
+      AttrName:"orientation0"=1.7193
+      AttrName:"offset"=-8.2364,-1.348
+      AttrName:"Length1"=0.3404
+      AttrName:"orientation1"=2.7268
+    [TB_NodeState]
+    Node:"~/Head_Gp/Eye_Clone_Gp/Deformation-Lid_Down/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-9.8231,-2.3173
+    [TB_NodeState]
+    Node:"~/Head_Gp/Eye_Clone_Gp/Deformation-Lid_Down/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.6812
+      AttrName:"orientation0"=89.8085
+      AttrName:"offset"=-9.8214,-1.3489
+      AttrName:"Length1"=0.1442
+      AttrName:"orientation1"=90.6393
+    [TB_NodeState]
+    Node:"~/Head_Gp/Eye_Clone_Gp/Deformation-Lid_Up/CURVE_1"
+    Attr Count:3
+      AttrName:"Length0"=0.5289
+      AttrName:"offset"=-8.2364,-0.3778
+      AttrName:"Length1"=0.5289
+    [TB_NodeState]
+    Node:"~/Head_Gp/Eye_Clone_Gp/Deformation-Lid_Up/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-9.8231,-1.3471
+    [TB_NodeState]
+    Node:"~/Head_Gp/Eye_Clone_Gp/Deformation-Lid_Up/CURVE_3"
+    Attr Count:5
+      AttrName:"Length0"=0.5289
+      AttrName:"orientation0"=-179.411
+      AttrName:"offset"=-9.8231,-1.3471
+      AttrName:"Length1"=0.5289
+      AttrName:"orientation1"=179.398
+    [TB_NodeState]
+    Node:"~/Head_Gp/Eye_Clone_Gp/Deformation-Lid_Up/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.3231
+      AttrName:"orientation0"=89.9999
+      AttrName:"offset"=-9.8231,-0.3778
+      AttrName:"Length1"=0.3231
+      AttrName:"orientation1"=89.9999
+    [TB_NodeState]
+    Node:"~/Head_Gp/Eye_Clone_Gp/Deformation-Lid_Up/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.3231
+      AttrName:"orientation0"=-89.9999
+      AttrName:"offset"=-8.2364,-1.3471
+      AttrName:"Length1"=0.3231
+      AttrName:"orientation1"=-89.9999
+    [TB_NodeState]
+    Node:"~/Head_Gp/Eye_Clone_Gp/Lid_Down-P"
+    Attr Count:1
+      AttrName:"POSITION"=-0.00313366,-0.876668,0
+    [TB_NodeState]
+    Node:"~/Head_Gp/Eye_Clone_Gp/Lid_Up-P"
+    Attr Count:1
+      AttrName:"POSITION"=-0.00934147,0.873765,0.001
+
+  [TB_State]
+  Name:"animatedState_2"
+  Frame:2
+  Node Count:12
+    [TB_NodeState]
+    Node:"~/Head_Gp/Eye_Clone_Gp/Deformation-Lid_Down/CURVE_3"
+    Attr Count:5
+      AttrName:"Length0"=0.528915
+      AttrName:"orientation0"=180
+      AttrName:"offset"=-9.82312,-2.3173
+      AttrName:"Length1"=0.528915
+      AttrName:"orientation1"=180
+    [TB_NodeState]
+    Node:"~/Head_Gp/Eye_Clone_Gp/Deformation-Lid_Down/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.3231
+      AttrName:"orientation0"=-89.9999
+      AttrName:"offset"=-8.23637,-2.3173
+      AttrName:"Length1"=0.3231
+      AttrName:"orientation1"=-89.9999
+    [TB_NodeState]
+    Node:"~/Head_Gp/Eye_Clone_Gp/Deformation-Lid_Down/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.347336
+      AttrName:"orientation0"=17.3795
+      AttrName:"offset"=-8.23639,-1.348
+      AttrName:"Length1"=0.386877
+      AttrName:"orientation1"=-14.4989
+    [TB_NodeState]
+    Node:"~/Head_Gp/Eye_Clone_Gp/Deformation-Lid_Down/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-9.82312,-2.3173
+    [TB_NodeState]
+    Node:"~/Head_Gp/Eye_Clone_Gp/Deformation-Lid_Down/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.681195
+      AttrName:"orientation0"=89.8085
+      AttrName:"offset"=-9.8214,-1.36225
+      AttrName:"Length1"=0.144199
+      AttrName:"orientation1"=90.6393
+    [TB_NodeState]
+    Node:"~/Head_Gp/Eye_Clone_Gp/Deformation-Lid_Up/CURVE_1"
+    Attr Count:3
+      AttrName:"Length0"=0.528915
+      AttrName:"offset"=-8.23637,-0.3778
+      AttrName:"Length1"=0.528915
+    [TB_NodeState]
+    Node:"~/Head_Gp/Eye_Clone_Gp/Deformation-Lid_Up/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-9.8231,-1.38714
+    [TB_NodeState]
+    Node:"~/Head_Gp/Eye_Clone_Gp/Deformation-Lid_Up/CURVE_3"
+    Attr Count:5
+      AttrName:"Length0"=0.555346
+      AttrName:"orientation0"=-190.588
+      AttrName:"offset"=-9.8231,-1.3471
+      AttrName:"Length1"=0.497866
+      AttrName:"orientation1"=188.874
+    [TB_NodeState]
+    Node:"~/Head_Gp/Eye_Clone_Gp/Deformation-Lid_Up/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.3231
+      AttrName:"orientation0"=89.9999
+      AttrName:"offset"=-9.82312,-0.3778
+      AttrName:"Length1"=0.3231
+      AttrName:"orientation1"=89.9999
+    [TB_NodeState]
+    Node:"~/Head_Gp/Eye_Clone_Gp/Deformation-Lid_Up/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.3231
+      AttrName:"orientation0"=-89.9999
+      AttrName:"offset"=-8.23639,-1.36045
+      AttrName:"Length1"=0.3231
+      AttrName:"orientation1"=-89.9999
+    [TB_NodeState]
+    Node:"~/Head_Gp/Eye_Clone_Gp/Lid_Down-P"
+    Attr Count:1
+      AttrName:"POSITION"=-0.0145697,-0.445723,0
+    [TB_NodeState]
+    Node:"~/Head_Gp/Eye_Clone_Gp/Lid_Up-P"
+    Attr Count:1
+      AttrName:"POSITION"=-0.0093464,0.43718,0.001
+
+  [TB_State]
+  Name:"animatedState_3"
+  Frame:3
+  Node Count:12
+    [TB_NodeState]
+    Node:"~/Head_Gp/Eye_Clone_Gp/Deformation-Lid_Down/CURVE_3"
+    Attr Count:5
+      AttrName:"Length0"=0.528921
+      AttrName:"orientation0"=180
+      AttrName:"offset"=-9.82312,-2.3173
+      AttrName:"Length1"=0.528921
+      AttrName:"orientation1"=180
+    [TB_NodeState]
+    Node:"~/Head_Gp/Eye_Clone_Gp/Deformation-Lid_Down/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.3231
+      AttrName:"orientation0"=-89.9999
+      AttrName:"offset"=-8.23636,-2.3173
+      AttrName:"Length1"=0.3231
+      AttrName:"orientation1"=-89.9999
+    [TB_NodeState]
+    Node:"~/Head_Gp/Eye_Clone_Gp/Deformation-Lid_Down/CURVE_1"
+    Attr Count:5
+      AttrName:"Length0"=0.354467
+      AttrName:"orientation0"=33.0396
+      AttrName:"offset"=-8.2364,-1.348
+      AttrName:"Length1"=0.433362
+      AttrName:"orientation1"=-31.7247
+    [TB_NodeState]
+    Node:"~/Head_Gp/Eye_Clone_Gp/Deformation-Lid_Down/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-9.82312,-2.3173
+    [TB_NodeState]
+    Node:"~/Head_Gp/Eye_Clone_Gp/Deformation-Lid_Down/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.6812
+      AttrName:"orientation0"=89.8085
+      AttrName:"offset"=-9.8214,-1.3756
+      AttrName:"Length1"=0.1442
+      AttrName:"orientation1"=90.6393
+    [TB_NodeState]
+    Node:"~/Head_Gp/Eye_Clone_Gp/Deformation-Lid_Up/CURVE_1"
+    Attr Count:3
+      AttrName:"Length0"=0.528921
+      AttrName:"offset"=-8.23636,-0.3778
+      AttrName:"Length1"=0.528921
+    [TB_NodeState]
+    Node:"~/Head_Gp/Eye_Clone_Gp/Deformation-Lid_Up/OFFSET"
+    Attr Count:1
+      AttrName:"offset"=-9.8231,-1.42717
+    [TB_NodeState]
+    Node:"~/Head_Gp/Eye_Clone_Gp/Deformation-Lid_Up/CURVE_3"
+    Attr Count:5
+      AttrName:"Length0"=0.581778
+      AttrName:"orientation0"=-201.764
+      AttrName:"offset"=-9.8231,-1.3471
+      AttrName:"Length1"=0.466819
+      AttrName:"orientation1"=198.35
+    [TB_NodeState]
+    Node:"~/Head_Gp/Eye_Clone_Gp/Deformation-Lid_Up/CURVE"
+    Attr Count:5
+      AttrName:"Length0"=0.3231
+      AttrName:"orientation0"=89.9999
+      AttrName:"offset"=-9.82312,-0.3778
+      AttrName:"Length1"=0.3231
+      AttrName:"orientation1"=89.9999
+    [TB_NodeState]
+    Node:"~/Head_Gp/Eye_Clone_Gp/Deformation-Lid_Up/CURVE_2"
+    Attr Count:5
+      AttrName:"Length0"=0.3231
+      AttrName:"orientation0"=-89.9999
+      AttrName:"offset"=-8.2364,-1.37379
+      AttrName:"Length1"=0.3231
+      AttrName:"orientation1"=-89.9999
+    [TB_NodeState]
+    Node:"~/Head_Gp/Eye_Clone_Gp/Lid_Down-P"
+    Attr Count:1
+      AttrName:"POSITION"=-0.0259963,-0.0147905,0
+    [TB_NodeState]
+    Node:"~/Head_Gp/Eye_Clone_Gp/Lid_Up-P"
+    Attr Count:1
+      AttrName:"POSITION"=-0.00936073,0.000583586,0.001
+

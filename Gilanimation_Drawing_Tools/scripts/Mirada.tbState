@@ -1,0 +1,119 @@
+[TB_StateManager]
+State Count:9
+  [TB_State]
+  Name:"A-002.0;-002.0"
+  Frame:7
+  Node Count:2
+    [TB_NodeState]
+    Node:"~/Master_Iris-P"
+    Attr Count:1
+      AttrName:"POSITION"=-0.708332,-0.666665,0
+    [TB_NodeState]
+    Node:"Top/Anima_gp/Ojo_Izq_gp/Master_Iris-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.624998,-0.72222,0
+
+  [TB_State]
+  Name:"B+000.0;-002.0"
+  Frame:4
+  Node Count:2
+    [TB_NodeState]
+    Node:"~/Master_Iris-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.166666,-1.05555,0
+    [TB_NodeState]
+    Node:"Top/Anima_gp/Ojo_Izq_gp/Master_Iris-P"
+    Attr Count:1
+      AttrName:"POSITION"=-0.0833331,-1.05555,0
+
+  [TB_State]
+  Name:"C+002.0;-002.0"
+  Frame:9
+  Node Count:2
+    [TB_NodeState]
+    Node:"~/Master_Iris-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.666665,-0.777776,0
+    [TB_NodeState]
+    Node:"Top/Anima_gp/Ojo_Izq_gp/Master_Iris-P"
+    Attr Count:1
+      AttrName:"POSITION"=-0.791665,-0.583332,0
+
+  [TB_State]
+  Name:"D-002.0;+000.0"
+  Frame:2
+  Node Count:2
+    [TB_NodeState]
+    Node:"~/Master_Iris-P"
+    Attr Count:1
+      AttrName:"POSITION"=-0.770831,0.0277777,0
+    [TB_NodeState]
+    Node:"Top/Anima_gp/Ojo_Izq_gp/Master_Iris-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.624998,-0.111111,0
+
+  [TB_State]
+  Name:"E+000.0;+000.0"
+  Frame:1
+  Node Count:2
+    [TB_NodeState]
+    Node:"~/Master_Iris-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+    [TB_NodeState]
+    Node:"Top/Anima_gp/Ojo_Izq_gp/Master_Iris-P"
+    Attr Count:1
+      AttrName:"POSITION"=0,0,0
+
+  [TB_State]
+  Name:"F+002.0;+000.0"
+  Frame:3
+  Node Count:2
+    [TB_NodeState]
+    Node:"~/Master_Iris-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.624998,-0.166666,0
+    [TB_NodeState]
+    Node:"Top/Anima_gp/Ojo_Izq_gp/Master_Iris-P"
+    Attr Count:1
+      AttrName:"POSITION"=-0.791665,-0.0833331,0
+
+  [TB_State]
+  Name:"G-002.0;+002.0"
+  Frame:6
+  Node Count:2
+    [TB_NodeState]
+    Node:"~/Master_Iris-P"
+    Attr Count:1
+      AttrName:"POSITION"=-0.562499,1.19444,0
+    [TB_NodeState]
+    Node:"Top/Anima_gp/Ojo_Izq_gp/Master_Iris-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.374999,1.08333,0
+
+  [TB_State]
+  Name:"H+000.0;+002.0"
+  Frame:5
+  Node Count:2
+    [TB_NodeState]
+    Node:"~/Master_Iris-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.291666,1.11111,0
+    [TB_NodeState]
+    Node:"Top/Anima_gp/Ojo_Izq_gp/Master_Iris-P"
+    Attr Count:1
+      AttrName:"POSITION"=-0.104166,1.11111,0
+
+  [TB_State]
+  Name:"I+002.0;+002.0"
+  Frame:8
+  Node Count:2
+    [TB_NodeState]
+    Node:"~/Master_Iris-P"
+    Attr Count:1
+      AttrName:"POSITION"=0.541665,0.694443,0
+    [TB_NodeState]
+    Node:"Top/Anima_gp/Ojo_Izq_gp/Master_Iris-P"
+    Attr Count:1
+      AttrName:"POSITION"=-0.583332,1.11111,0
+
