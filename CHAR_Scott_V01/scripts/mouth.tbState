@@ -1,0 +1,464 @@
+[TB_StateManager]
+State Count:22
+  [TB_State]
+  Name:"animatedState_10"
+  Frame:10
+  Node Count:4
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Teeth_Upper"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Mouth_EXT+INT"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Tongue"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Teeth_Lower"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+
+  [TB_State]
+  Name:"animatedState_11"
+  Frame:11
+  Node Count:4
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Teeth_Upper"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="2"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Mouth_EXT+INT"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="2"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Tongue"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="2"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Teeth_Lower"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="2"
+
+  [TB_State]
+  Name:"animatedState_12"
+  Frame:12
+  Node Count:4
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Teeth_Upper"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="3"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Mouth_EXT+INT"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="3"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Tongue"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="3"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Teeth_Lower"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="3"
+
+  [TB_State]
+  Name:"animatedState_13"
+  Frame:13
+  Node Count:4
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Teeth_Upper"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="4"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Mouth_EXT+INT"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="4"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Tongue"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="4"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Teeth_Lower"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="4"
+
+  [TB_State]
+  Name:"animatedState_14"
+  Frame:14
+  Node Count:4
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Teeth_Upper"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="5"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Mouth_EXT+INT"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="5"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Tongue"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="5"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Teeth_Lower"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="5"
+
+  [TB_State]
+  Name:"animatedState_15"
+  Frame:15
+  Node Count:4
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Teeth_Upper"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="6"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Mouth_EXT+INT"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="6"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Tongue"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="6"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Teeth_Lower"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="6"
+
+  [TB_State]
+  Name:"animatedState_16"
+  Frame:16
+  Node Count:4
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Teeth_Upper"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="7"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Mouth_EXT+INT"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="7"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Tongue"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="7"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Teeth_Lower"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="7"
+
+  [TB_State]
+  Name:"animatedState_17"
+  Frame:17
+  Node Count:4
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Teeth_Upper"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="8"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Mouth_EXT+INT"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="8"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Tongue"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="8"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Teeth_Lower"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="8"
+
+  [TB_State]
+  Name:"animatedState_18"
+  Frame:18
+  Node Count:4
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Teeth_Upper"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="9"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Mouth_EXT+INT"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="9"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Tongue"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="9"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Teeth_Lower"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="9"
+
+  [TB_State]
+  Name:"animatedState_19"
+  Frame:19
+  Node Count:4
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Teeth_Upper"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="10"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Mouth_EXT+INT"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="10"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Tongue"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="10"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Teeth_Lower"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="10"
+
+  [TB_State]
+  Name:"animatedState_20"
+  Frame:20
+  Node Count:4
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Teeth_Upper"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="11"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Mouth_EXT+INT"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="11"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Tongue"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="11"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Teeth_Lower"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="11"
+
+  [TB_State]
+  Name:"animatedState_21"
+  Frame:21
+  Node Count:4
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Teeth_Upper"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="12"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Mouth_EXT+INT"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="12"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Tongue"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="12"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Teeth_Lower"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="12"
+
+  [TB_State]
+  Name:"animatedState_22"
+  Frame:22
+  Node Count:4
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Teeth_Upper"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="13"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Mouth_EXT+INT"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="13"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Tongue"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="13"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Teeth_Lower"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="13"
+
+  [TB_State]
+  Name:"animatedState_23"
+  Frame:23
+  Node Count:4
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Teeth_Upper"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="14"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Mouth_EXT+INT"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="14"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Tongue"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="14"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Teeth_Lower"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="14"
+
+  [TB_State]
+  Name:"animatedState_24"
+  Frame:24
+  Node Count:4
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Teeth_Upper"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="15"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Mouth_EXT+INT"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="15"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Tongue"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="15"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Teeth_Lower"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="15"
+
+  [TB_State]
+  Name:"animatedState_25"
+  Frame:25
+  Node Count:4
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Teeth_Upper"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="16"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Mouth_EXT+INT"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="16"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Tongue"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="16"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Teeth_Lower"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="16"
+
+  [TB_State]
+  Name:"animatedState_26"
+  Frame:26
+  Node Count:4
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Teeth_Upper"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="17"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Mouth_EXT+INT"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="17"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Tongue"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="17"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Teeth_Lower"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="17"
+
+  [TB_State]
+  Name:"animatedState_27"
+  Frame:27
+  Node Count:4
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Teeth_Upper"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="18"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Mouth_EXT+INT"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="18"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Tongue"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="18"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Teeth_Lower"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="18"
+
+  [TB_State]
+  Name:"animatedState_28"
+  Frame:28
+  Node Count:4
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Teeth_Upper"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="19"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Mouth_EXT+INT"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="19"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Tongue"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="19"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Teeth_Lower"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="19"
+
+  [TB_State]
+  Name:"animatedState_29"
+  Frame:29
+  Node Count:4
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Teeth_Upper"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="20"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Mouth_EXT+INT"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="20"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Tongue"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="20"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Teeth_Lower"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="20"
+
+  [TB_State]
+  Name:"animatedState_30"
+  Frame:30
+  Node Count:4
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Teeth_Upper"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="21"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Mouth_EXT+INT"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="21"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Tongue"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="21"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Teeth_Lower"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="21"
+
+  [TB_State]
+  Name:"animatedState_31"
+  Frame:31
+  Node Count:4
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Teeth_Upper"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="22"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Mouth_EXT+INT"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="22"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Tongue"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="22"
+    [TB_NodeState]
+    Node:"~/Head-G/Mouth-G/Teeth_Lower"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="22"
+
