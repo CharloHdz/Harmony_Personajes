@@ -1,0 +1,83 @@
+[TB_StateManager]
+State Count:9
+  [TB_State]
+  Name:"animatedState_52"
+  Frame:52
+  Node Count:1
+    [TB_NodeState]
+    Node:"~/F_Arm-G/F_Hand"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+
+  [TB_State]
+  Name:"animatedState_53"
+  Frame:53
+  Node Count:1
+    [TB_NodeState]
+    Node:"~/F_Arm-G/F_Hand"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="2"
+
+  [TB_State]
+  Name:"animatedState_54"
+  Frame:54
+  Node Count:1
+    [TB_NodeState]
+    Node:"~/F_Arm-G/F_Hand"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="3"
+
+  [TB_State]
+  Name:"animatedState_55"
+  Frame:55
+  Node Count:1
+    [TB_NodeState]
+    Node:"~/F_Arm-G/F_Hand"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="4"
+
+  [TB_State]
+  Name:"animatedState_56"
+  Frame:56
+  Node Count:1
+    [TB_NodeState]
+    Node:"~/F_Arm-G/F_Hand"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="5"
+
+  [TB_State]
+  Name:"animatedState_57"
+  Frame:57
+  Node Count:1
+    [TB_NodeState]
+    Node:"~/F_Arm-G/F_Hand"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="6"
+
+  [TB_State]
+  Name:"animatedState_58"
+  Frame:58
+  Node Count:1
+    [TB_NodeState]
+    Node:"~/F_Arm-G/F_Hand"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="7"
+
+  [TB_State]
+  Name:"animatedState_59"
+  Frame:59
+  Node Count:1
+    [TB_NodeState]
+    Node:"~/F_Arm-G/F_Hand"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="8"
+
+  [TB_State]
+  Name:"animatedState_60"
+  Frame:60
+  Node Count:1
+    [TB_NodeState]
+    Node:"~/F_Arm-G/F_Hand"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="9"
+

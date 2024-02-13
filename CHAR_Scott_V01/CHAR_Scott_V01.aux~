@@ -1,315 +1,315 @@
 <!DOCTYPE SceneVersion>
-<SceneVersion VersionName="CHAR_Scott_V01" Modified="2022-03-09 17:52:55" ID="1">
+<SceneVersion VersionName="CHAR_Scott_V01" Modified="2024-02-07 17:53:09" ID="1">
  <Element Name="Head_Lower" ID="3" Folder="Head_Lower">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="Head_Upper" ID="4" Folder="Head_Upper.4">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="Nose" ID="5" Folder="Nose">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="Ear" ID="7" Folder="Ear">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="L_L_R_Ear_Inner" ID="8" Folder="L_L_R_Ear_Inner">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="EyeWhite" ID="9" Folder="EyeWhite">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="Pupil" ID="10" Folder="Pupil">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="Lid_Bot" ID="11" Folder="Lid_Bot">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="B_Eyebrow" ID="13" Folder="B_Eyebrow">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="HairBack" ID="14" Folder="HairBack">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="HairCutterTop" ID="25" Folder="HairCutterTop">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="HairCutterSide" ID="26" Folder="HairCutterSide">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="ArmUpper" ID="40" Folder="ArmUpper">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="ArmLower" ID="41" Folder="ArmLower">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="SleeveBelt" ID="42" Folder="SleeveBelt">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="SleeveBack" ID="43" Folder="SleeveBack">
-  <Drawing Key="" Name="1" Version="1"/>
-  <Drawing Key="" Name="2" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
+  <Drawing Key="" Version="1" Name="2"/>
  </Element>
  <Element Name="SleeveBuckle" ID="44" Folder="SleeveBuckle">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="Hand" ID="45" Folder="Hand">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="ArmCrinkle" ID="53" Folder="ArmCrinkle">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="Pelvis" ID="60" Folder="Pelvis">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="UpperLeg" ID="62" Folder="UpperLeg">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="LowerLeg" ID="63" Folder="LowerLeg">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="Shoe" ID="64" Folder="Shoe">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="Sole" ID="66" Folder="Sole">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="ShoeTip" ID="67" Folder="ShoeTip">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="ShoesStripe" ID="68" Folder="ShoesStripe">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="TipStripes" ID="69" Folder="TipStripes">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="KneeTexture" ID="70" Folder="KneeTexture">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="AnkleLine" ID="71" Folder="AnkleLine">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="Patch" ID="73" Folder="Patch">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="Neck" ID="74" Folder="Neck.74">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="Collar" ID="75" Folder="Collar.75">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="Shirt_Trim" ID="77" Folder="Shirt_Trim">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="Wrinkle" ID="79" Folder="Wrinkle">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="Shoulder_Cutter" ID="84" Folder="Shoulder_Cutter">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="L_L_R_Ear_Flap" ID="85" Folder="L_L_R_Ear_Flap">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="L_L_R_Ear_Shape" ID="86" Folder="L_L_R_Ear_Shape">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="Lid_Top-CONT" ID="89" Folder="Lid_Top-CONT">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="Lid_Bot-CONT" ID="90" Folder="Lid_Bot-CONT">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="Head_CONT" ID="92" Folder="Head_CONT">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="Hair_Back" ID="93" Folder="Hair_Back">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="Upper_Spike_Bot" ID="94" Folder="Upper_Spike_Bot">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="Upper_Spike_Up" ID="95" Folder="Upper_Spike_Up">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="Back_Spike" ID="97" Folder="Back_Spike.97">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="R_L_Under_Ear_Up" ID="98" Folder="R_L_Under_Ear_Up">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="Fringe_1" ID="99" Folder="Fringe_1">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="L_Ear_Hair" ID="103" Folder="L_Ear_Hair">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="R_Ear_Hair" ID="104" Folder="R_Ear_Hair">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="Torso" ID="105" Folder="Torso.105">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="Chest" ID="106" Folder="Chest.106">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="B_F_R_Arm_Up" ID="108" Folder="B_F_R_Arm_Up">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="B_F_R_Arm_Bot" ID="109" Folder="B_F_R_Arm_Bot">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="B_F_R_Sleeve" ID="110" Folder="B_F_R_Sleeve">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="B_F_R_Hand" ID="111" Folder="B_F_R_Hand">
-  <Drawing Key="" Name="1" Version="1"/>
-  <Drawing Key="" Name="2" Version="1"/>
-  <Drawing Key="" Name="3" Version="1"/>
-  <Drawing Key="" Name="4" Version="1"/>
-  <Drawing Key="" Name="5" Version="1"/>
-  <Drawing Key="" Name="6" Version="1"/>
-  <Drawing Key="" Name="7" Version="1"/>
-  <Drawing Key="" Name="8" Version="1"/>
-  <Drawing Key="" Name="9" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
+  <Drawing Key="" Version="1" Name="2"/>
+  <Drawing Key="" Version="1" Name="3"/>
+  <Drawing Key="" Version="1" Name="4"/>
+  <Drawing Key="" Version="1" Name="5"/>
+  <Drawing Key="" Version="1" Name="6"/>
+  <Drawing Key="" Version="1" Name="7"/>
+  <Drawing Key="" Version="1" Name="8"/>
+  <Drawing Key="" Version="1" Name="9"/>
  </Element>
  <Element Name="B_F_R_Shoulder" ID="116" Folder="B_F_R_Shoulder">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="B_F_R_L_Leg_Up" ID="119" Folder="B_F_R_L_Leg_Up">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="B_F_R_L_Leg_Bot" ID="120" Folder="B_F_R_L_Leg_Bot">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="B_F_R_L_Knee" ID="121" Folder="B_F_R_L_Knee">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="B_F_R_L_Leg_Bot_Cutter" ID="122" Folder="B_F_R_L_Leg_Bot_Cutter">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="B_F_R_L_Leg_Up_Cutter" ID="123" Folder="B_F_R_L_Leg_Up_Cutter">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="B_F_R_L_Wrinkle" ID="124" Folder="B_F_R_L_Wrinkle">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="B_F_R_L_Wrinkle" ID="125" Folder="B_F_R_L_Wrinkle.125">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="pivot_1" ID="126" Folder="pivot_1">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="B_F_R_L_Shoe_Shape" ID="127" Folder="B_F_R_L_Shoe_Shape">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="B_F_R_L_Rim" ID="128" Folder="B_F_R_L_Rim">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="B_F_R_L_Sole" ID="129" Folder="B_F_R_L_Sole">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="B_F_R_L_Toe" ID="130" Folder="B_F_R_L_Toe">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="B_F_R_L_Toe_Lines" ID="131" Folder="B_F_R_L_Toe_Lines">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="B_F_R_L_Front_Stripe" ID="132" Folder="B_F_R_L_Front_Stripe">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="B_F_R_L_Back_Stripe" ID="133" Folder="B_F_R_L_Back_Stripe">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="F_R_L_Sole-CONT" ID="134" Folder="F_R_L_Sole-CONT">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="L_L_Leg-CONT" ID="136" Folder="L_L_Leg-CONT">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="Body-CONT" ID="137" Folder="Body-CONT">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="Pelvis_Shadow" ID="139" Folder="Pelvis_Shadow">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="Teeth_Lower" ID="141" Folder="Teeth_Lower">
-  <Drawing Key="" Name="1" Version="1"/>
-  <Drawing Key="" Name="2" Version="1"/>
-  <Drawing Key="" Name="3" Version="1"/>
-  <Drawing Key="" Name="4" Version="1"/>
-  <Drawing Key="" Name="5" Version="1"/>
-  <Drawing Key="" Name="6" Version="1"/>
-  <Drawing Key="" Name="7" Version="1"/>
-  <Drawing Key="" Name="8" Version="1"/>
-  <Drawing Key="" Name="9" Version="1"/>
-  <Drawing Key="" Name="10" Version="1"/>
-  <Drawing Key="" Name="11" Version="1"/>
-  <Drawing Key="" Name="12" Version="1"/>
-  <Drawing Key="" Name="13" Version="1"/>
-  <Drawing Key="" Name="14" Version="1"/>
-  <Drawing Key="" Name="15" Version="1"/>
-  <Drawing Key="" Name="16" Version="1"/>
-  <Drawing Key="" Name="17" Version="1"/>
-  <Drawing Key="" Name="18" Version="1"/>
-  <Drawing Key="" Name="19" Version="1"/>
-  <Drawing Key="" Name="20" Version="1"/>
-  <Drawing Key="" Name="21" Version="1"/>
-  <Drawing Key="" Name="22" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
+  <Drawing Key="" Version="1" Name="2"/>
+  <Drawing Key="" Version="1" Name="3"/>
+  <Drawing Key="" Version="1" Name="4"/>
+  <Drawing Key="" Version="1" Name="5"/>
+  <Drawing Key="" Version="1" Name="6"/>
+  <Drawing Key="" Version="1" Name="7"/>
+  <Drawing Key="" Version="1" Name="8"/>
+  <Drawing Key="" Version="1" Name="9"/>
+  <Drawing Key="" Version="1" Name="10"/>
+  <Drawing Key="" Version="1" Name="11"/>
+  <Drawing Key="" Version="1" Name="12"/>
+  <Drawing Key="" Version="1" Name="13"/>
+  <Drawing Key="" Version="1" Name="14"/>
+  <Drawing Key="" Version="1" Name="15"/>
+  <Drawing Key="" Version="1" Name="16"/>
+  <Drawing Key="" Version="1" Name="17"/>
+  <Drawing Key="" Version="1" Name="18"/>
+  <Drawing Key="" Version="1" Name="19"/>
+  <Drawing Key="" Version="1" Name="20"/>
+  <Drawing Key="" Version="1" Name="21"/>
+  <Drawing Key="" Version="1" Name="22"/>
  </Element>
  <Element Name="Mouth_Cutter" ID="145" Folder="Mouth_Cutter">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="B_F_R_L_Heel_" ID="146" Folder="B_F_R_L_Heel_">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="B_F_R_L_Leg_Bot_Int" ID="147" Folder="B_F_R_L_Leg_Bot_Int">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="Zipper" ID="148" Folder="Zipper">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="Pocket_L" ID="149" Folder="Pocket_L">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="Hair-CONT" ID="151" Folder="Hair-CONT">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="Face-CONT" ID="152" Folder="Face-CONT">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="Hand-CONT" ID="153" Folder="Hand-CONT">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="Arm-CONT" ID="155" Folder="Arm-CONT">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="F_Knee-CONT" ID="156" Folder="F_Knee-CONT">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="B_Arm-CONT" ID="157" Folder="B_Arm-CONT">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="Lid_Bot-CONT" ID="158" Folder="Lid_Bot-CONT.158">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="Lid_Top-CONT" ID="159" Folder="Lid_Top-CONT.159">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="Hand-CONT" ID="160" Folder="Hand-CONT.160">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="B_Leg-CONT" ID="161" Folder="B_Leg-CONT">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="B_Knee-CONT" ID="162" Folder="B_Knee-CONT">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="B_L_Sole-CONT" ID="163" Folder="B_L_Sole-CONT">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="Rig-CONT" ID="166" Folder="Rig-CONT">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
  <Element Name="MC_Temp" ID="167" Folder="MC_Temp">
-  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
 </SceneVersion>
