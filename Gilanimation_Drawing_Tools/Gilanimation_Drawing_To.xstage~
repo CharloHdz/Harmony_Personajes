@@ -190,10 +190,14 @@
         <filterResY val="540"/>
        </enabling>
        <scriptMovie val="false"/>
-       <scriptEditor val="// Following code will be called at the end of Write Node rendering
+       <scriptEditor>
+        <val>
+         <![CDATA[// Following code will be called at the end of Write Node rendering
 // operations to create a movie file from rendered images.
 
-// ..."/>
+// ...]]>
+        </val>
+       </scriptEditor>
        <colorSpace/>
        <compositePartitioning val="NoCompositePartitioning"/>
        <zPartitionRange val="1" defaultValue="1"/>
@@ -220,7 +224,6 @@
      <module type="READ" name="EXERSISES" pos="33,-50,4" publishUnderTab="EXERSISES">
       <options>
        <color val="#61CBEDFF"/>
-       <locked val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -814,7 +817,14 @@
    </unconnectedComposite>
    <metas>
     <meta type="guideList" name="guideList" creator="Harmony Premium" version="1.0">
-     <guideList selectedGuide="-1"/>
+     <guideList selectedGuide="0">
+      <ProjectionGuide projectionType="ProjectionGuide2Point" numVanishingPoints="2" origin="0,0">
+       <guideBase name="2-Point Perspective (Perspectiva con 2 puntos)"/>
+       <axis axisType="StraightPerspective" axisOffset="3.0916711266247621,0.42638786794880235"/>
+       <axis axisType="Orthogonal" axisOffset="1.3088691584944747e-10,0.99999999999997202"/>
+       <axis axisType="StraightPerspective" axisOffset="-1.3884345642734004,0.42638786853518956"/>
+      </ProjectionGuide>
+     </guideList>
     </meta>
     <meta type="alignmentGuideList" name="alignmentGuideList" creator="Harmony Premium" version="1.0">
      <alignmentGuideList selectedGuide="-1"/>
