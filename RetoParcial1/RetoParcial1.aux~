@@ -1,22 +1,22 @@
 <!DOCTYPE SceneVersion>
-<SceneVersion ID="1" Modified="2024-02-19 19:02:13" VersionName="RetoParcial1">
- <Element ID="1" Name="Tablero" Folder="Tablero">
-  <Drawing Name="1" Version="1" Key=""/>
-  <Drawing Name="2" Version="1" Key=""/>
+<SceneVersion Modified="2024-02-19 19:12:03" ID="1" VersionName="RetoParcial1">
+ <Element Name="Tablero" ID="1" Folder="Tablero">
+  <Drawing Name="1" Key="" Version="1"/>
+  <Drawing Name="2" Key="" Version="1"/>
  </Element>
- <Element ID="3" Name="Aro_Trasero" Folder="Aro_Trasero">
-  <Drawing Name="1" Version="1" Key=""/>
+ <Element Name="Aro_Trasero" ID="3" Folder="Aro_Trasero">
+  <Drawing Name="1" Key="" Version="1"/>
  </Element>
- <Element ID="4" Name="Aro_Delantero" Folder="Aro_Delantero">
-  <Drawing Name="1" Version="1" Key=""/>
+ <Element Name="Aro_Delantero" ID="4" Folder="Aro_Delantero">
+  <Drawing Name="1" Key="" Version="1"/>
  </Element>
- <Element ID="5" Name="dsadsd" Folder="dsadsd">
-  <Drawing Name="1" Version="1" Key=""/>
+ <Element Name="dsadsd" ID="5" Folder="dsadsd">
+  <Drawing Name="1" Key="" Version="1"/>
  </Element>
- <Element ID="6" Name="Red_Trasera" Folder="Red_Trasera">
-  <Drawing Name="1" Version="1" Key=""/>
+ <Element Name="Red_Trasera" ID="6" Folder="Red_Trasera">
+  <Drawing Name="1" Key="" Version="1"/>
  </Element>
- <Element ID="7" Name="Red_Delantera" Folder="Red_Delantera">
-  <Drawing Name="1" Version="1" Key=""/>
+ <Element Name="Red_Delantera" ID="7" Folder="Red_Delantera">
+  <Drawing Name="1" Key="" Version="1"/>
  </Element>
 </SceneVersion>
