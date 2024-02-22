@@ -2,10 +2,9 @@ ToonBoomAnimationInc PaletteFile 2
 Solid    BI_L_main                  0x09a6e2eb51779fc6   0   0   0 255
 Solid    BI_L_body                  0x09373362c2b4e1f3  36  58  11 255
 Gradient BI_F_body                  0x09373362c2b4e244 Radial 
-{        8.8 239 100  45 255,
-        29.8 209 225  35 255,
-        46.5 209 225  35 255,
-        64.9 110 165  33 255,
+{       15.8 239 100  45 255,
+        38.6 209 225  35 255,
+        67.5 209 225  35 255,
         91.2 110 165  33 255,
        100.0  94 153  27 255 }
 Gradient BI_F_eyes                  0x09373362c2b623f0 Radial 
