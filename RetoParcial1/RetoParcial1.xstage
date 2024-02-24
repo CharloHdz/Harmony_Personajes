@@ -18,11 +18,6 @@
     <dwg name="1"/>
    </drawings>
   </element>
-  <element id="5" elementName="dsadsd" elementFolder="dsadsd" pixmapFormat="11" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements">
-   <drawings>
-    <dwg name="1"/>
-   </drawings>
-  </element>
   <element id="6" elementName="Red_Trasera" elementFolder="Red_Trasera" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
     <dwg name="1"/>
@@ -126,58 +121,6 @@
     </column>
     <column type="0" name="ATV-0C14DD93D270E150" displayOrder="0" width="100" anonymous="true" id="4">
      <elementSeq exposures="1-60" val="1" id="4"/>
-    </column>
-    <column type="0" name="ATV-0C14DD93D2713F0B" displayOrder="0" width="100" anonymous="true" id="5">
-     <elementSeq exposures="1-60" val="1" id="5"/>
-    </column>
-    <column type="3" name="ATV-0C14DD93D27140D5" displayOrder="0" width="100" anonymous="true">
-     <step val="1" start="1" stop="1"/>
-     <noFrames/>
-     <points version="2">
-      <pt constSeg="false" x="1" yLocal="-6.1375514038736956" y="-6.1375514038736956"/>
-     </points>
-    </column>
-    <column type="3" name="ATV-0C14DD93D27140D6" displayOrder="0" width="100" anonymous="true">
-     <step val="1" start="1" stop="1"/>
-     <noFrames/>
-     <points version="2">
-      <pt constSeg="false" x="1" yLocal="2.7865894304943932" y="2.7865894304943932"/>
-     </points>
-    </column>
-    <column type="3" name="ATV-0C14DD93D27140D7" displayOrder="0" width="100" anonymous="true">
-     <step val="1" start="1" stop="1"/>
-     <noFrames/>
-     <points version="2">
-      <pt constSeg="false" x="1" yLocal="0" y="0"/>
-     </points>
-    </column>
-    <column type="3" name="ATV-0C14DD93D27140D8" displayOrder="0" width="100" anonymous="true">
-     <step val="1" start="1" stop="1"/>
-     <noFrames/>
-     <points version="2">
-      <pt constSeg="false" x="1" yLocal="-0.80195986658020935" y="-0.80195986658020935"/>
-     </points>
-    </column>
-    <column type="3" name="ATV-0C14DD93D27140D9" displayOrder="0" width="100" anonymous="true">
-     <step val="1" start="1" stop="1"/>
-     <noFrames/>
-     <points version="2">
-      <pt constSeg="false" x="1" yLocal="0.80329110704939333" y="0.80329110704939333"/>
-     </points>
-    </column>
-    <column type="3" name="ATV-0C14DD93D27140DA" displayOrder="0" width="100" anonymous="true">
-     <step val="1" start="1" stop="1"/>
-     <noFrames/>
-     <points version="2">
-      <pt constSeg="false" x="1" yLocal="0" y="0"/>
-     </points>
-    </column>
-    <column type="3" name="ATV-0C14DD93D27140DB" displayOrder="0" width="100" anonymous="true">
-     <step val="1" start="1" stop="1"/>
-     <noFrames/>
-     <points version="2">
-      <pt constSeg="false" x="1" yLocal="0" y="0"/>
-     </points>
     </column>
     <column type="3" name="ATV-0C14DD93D27155E1" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
@@ -510,7 +453,7 @@
        <pt val="1.6458293578609715,1.0277752952043198,0" lockedInTime="42"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0C15D8059FE01175" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0C160AB5F830130F" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -569,7 +512,7 @@
        <pt val="1.8958287539917018,4.749988526484751,0" lockedInTime="42"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0C15D8059FE01177" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0C160AB5F8301311" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -655,7 +598,7 @@
        <pt val="-16.205516609430237,-18.534540848457961,0" lockedInTime="42"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0C15D8059FE01179" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0C160AB5F8301313" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -715,7 +658,7 @@
        <pt val="9.9920072216264089e-16,0,0" lockedInTime="42"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0C15D8059FE0117B" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0C160AB5F8301315" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -779,7 +722,7 @@
        <pt val="9.9920072216264089e-16,0,0" lockedInTime="42"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0C15D8059FE0117D" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0C160AB5F8301317" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -842,7 +785,7 @@
        <pt val="-1.9984014443252818e-15,0,0" lockedInTime="42"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0C15D8059FE0117F" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0C160AB5F8301319" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -904,7 +847,7 @@
        <pt val="-1.9984014443252818e-15,0,0" lockedInTime="42"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0C15D8059FE01181" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0C160AB5F830131B" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -962,7 +905,7 @@
      <collapsed val="false"/>
     </options>
     <nodeslist>
-     <module type="COMPOSITE" name="Composite" pos="1331,-66,1" publishUnderTab="Composite">
+     <module type="COMPOSITE" name="Composite" pos="2455,-97,2" publishUnderTab="Composite">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -981,13 +924,13 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="DISPLAY" name="Display" pos="1352,-5,22" publishUnderTab="Display">
+     <module type="DISPLAY" name="Display" pos="2469,-36,21" publishUnderTab="Display">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
      </module>
-     <module type="WRITE" name="Write" pos="1270,-5,5" publishUnderTab="Write">
+     <module type="WRITE" name="Write" pos="2394,-22,1" publishUnderTab="Write">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1010,17 +953,21 @@
         <filterResY val="540"/>
        </enabling>
        <scriptMovie val="false"/>
-       <scriptEditor val="// Following code will be called at the end of Write Node rendering
+       <scriptEditor>
+        <val>
+         <![CDATA[// Following code will be called at the end of Write Node rendering
 // operations to create a movie file from rendered images.
 
-// ..."/>
+// ...]]>
+        </val>
+       </scriptEditor>
        <colorSpace/>
        <compositePartitioning val="NoCompositePartitioning"/>
        <zPartitionRange val="1" defaultValue="1"/>
        <cleanUpPartitionFolders val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="Aro_Trasero" pos="1401,-220,18" publishUnderTab="Aro_Trasero">
+     <module type="READ" name="Aro_Trasero" pos="2735,-251,18" publishUnderTab="Aro_Trasero">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1132,7 +1079,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Red_Trasera" pos="1501,-189,19" publishUnderTab="Red_Trasera">
+     <module type="READ" name="Red_Trasera" pos="2835,-220,19" publishUnderTab="Red_Trasera">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1244,9 +1191,9 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="Tablero-P" pos="1358,-479,4" publishUnderTab="Tablero-P">
+     <module type="PEG" name="Tablero-P" pos="2789,-373,5" publishUnderTab="Tablero-P">
       <options>
-       <collapsed val="false"/>
+       <collapsed val="true"/>
        <version val="1"/>
       </options>
       <attrs>
@@ -1307,7 +1254,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="Tablero" pos="1609,-158,20" publishUnderTab="Drawing">
+     <module type="READ" name="Tablero" pos="2943,-189,20" publishUnderTab="Drawing">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1419,7 +1366,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="Sombra-P" pos="1276,-280,12" publishUnderTab="Sombra-P">
+     <module type="PEG" name="Sombra-P" pos="2170,-342,12" publishUnderTab="Sombra-P">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -1481,9 +1428,9 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Basketball-P-P" pos="1265,-387,3" publishUnderTab="Basketball-P-P">
+     <module type="PEG" name="Basketball-P-P" pos="2670,-404,4" publishUnderTab="Basketball-P-P">
       <options>
-       <collapsed val="false"/>
+       <collapsed val="true"/>
        <version val="1"/>
       </options>
       <attrs>
@@ -1544,7 +1491,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Basketball-P" pos="1343,-250,14" publishUnderTab="Basketball-P">
+     <module type="PEG" name="Basketball-P" pos="2675,-343,14" publishUnderTab="Basketball-P">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -1607,7 +1554,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="Basketball" pos="1313,-189,15" publishUnderTab="Basketball">
+     <module type="READ" name="Basketball" pos="2645,-282,15" publishUnderTab="Basketball">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1719,121 +1666,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="dsadsd_1" pos="1689,-127,21" publishUnderTab="dsadsd_1">
-      <options>
-       <disabled val="true"/>
-       <locked val="true"/>
-       <collapsed val="false"/>
-       <version val="1"/>
-      </options>
-      <attrs>
-       <enable3d val="false"/>
-       <faceCamera val="false"/>
-       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
-       <offset>
-        <separate val="true"/>
-        <x val="0" defaultValue="0" col="ATV-0C14DD93D27140D5"/>
-        <y val="0" defaultValue="0" col="ATV-0C14DD93D27140D6"/>
-        <z val="0" defaultValue="0" col="ATV-0C14DD93D27140D7"/>
-       </offset>
-       <scale>
-        <separate val="true"/>
-        <inFields val="false"/>
-        <xy val="1" defaultValue="1"/>
-        <x val="1" defaultValue="1" col="ATV-0C14DD93D27140D8"/>
-        <y val="1" defaultValue="1" col="ATV-0C14DD93D27140D9"/>
-        <z val="1" defaultValue="1"/>
-       </scale>
-       <rotation>
-        <separate val="false"/>
-        <anglex val="0" defaultValue="0"/>
-        <angley val="0" defaultValue="0"/>
-        <anglez val="0" defaultValue="0" col="ATV-0C14DD93D27140DA"/>
-       </rotation>
-       <angle val="0" defaultValue="0" col="ATV-0C14DD93D27140DA"/>
-       <skew val="0" defaultValue="0" col="ATV-0C14DD93D27140DB"/>
-       <pivot>
-        <x val="0" defaultValue="0"/>
-        <y val="0" defaultValue="0"/>
-        <z val="0" defaultValue="0"/>
-       </pivot>
-       <splineOffset>
-        <x val="0" defaultValue="0"/>
-        <y val="0" defaultValue="0"/>
-        <z val="0" defaultValue="0"/>
-       </splineOffset>
-       <ignoreParentPegScaling val="false"/>
-       <disableFieldRendering val="false"/>
-       <depth val="0"/>
-       <enableMinMaxAngle val="false"/>
-       <minAngle val="-360" defaultValue="-360"/>
-       <maxAngle val="360" defaultValue="360"/>
-       <nailForChildren val="false"/>
-       <ikHoldOrientation val="false"/>
-       <ikHoldX val="false"/>
-       <ikHoldY val="false"/>
-       <ikExcluded val="false"/>
-       <ikCanRotate val="true"/>
-       <ikCanTranslateX val="false"/>
-       <ikCanTranslateY val="false"/>
-       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
-       <ikBoneY val="0" defaultValue="0"/>
-       <ikStiffness val="1" defaultValue="1"/>
-       <drawing>
-        <elementMode val="true"/>
-        <element col="ATV-0C14DD93D2713F0B">
-         <layer/>
-        </element>
-        <customName>
-         <name/>
-         <extension val="tga"/>
-         <fieldChart val="12" defaultValue="12"/>
-        </customName>
-       </drawing>
-       <readOverlay val="true"/>
-       <readLineArt val="true"/>
-       <readColorArt val="true"/>
-       <readUnderlay val="true"/>
-       <overlayArtDrawingMode val="VectorDrawingMode"/>
-       <lineArtDrawingMode val="VectorDrawingMode"/>
-       <colorArtDrawingMode val="VectorDrawingMode"/>
-       <underlayArtDrawingMode val="VectorDrawingMode"/>
-       <pencilLineDeformationPreserveThickness val="false"/>
-       <pencilLineDeformationQuality val="Low"/>
-       <pencilLineDeformationSmooth val="1"/>
-       <pencilLineDeformationFitError val="3" defaultValue="3"/>
-       <readColor val="true"/>
-       <readTransparency val="true"/>
-       <colorTransformation val="Linear"/>
-       <colorSpace val="sRGB"/>
-       <applyMatteToColor val="W"/>
-       <enableLineTexture val="true"/>
-       <antialiasingQuality val="HIGH"/>
-       <antialiasingExponent val="1" defaultValue="1"/>
-       <opacity val="100" defaultValue="100"/>
-       <textureFilter val="NEAREST_FILTERED"/>
-       <adjustPencilThickness val="false"/>
-       <normalLineArtThickness val="true"/>
-       <zoomIndependentLineArtThickness val="zoomIndependent"/>
-       <multLineArtThickness val="1" defaultValue="1"/>
-       <addLineArtThickness val="0" defaultValue="0"/>
-       <minLineArtThickness val="0" defaultValue="0"/>
-       <maxLineArtThickness val="0" defaultValue="0"/>
-       <useDrawingPivot val="APPLY_ON_READ_TRANSFORM"/>
-       <flipHor val="false"/>
-       <flipVert val="false"/>
-       <turnBeforeAlignment val="false"/>
-       <noClipping val="false"/>
-       <xClipFactor val="0"/>
-       <yClipFactor val="0"/>
-       <alignmentRule val="CENTER_FIT"/>
-       <morphingVelo val="0" defaultValue="0"/>
-       <canAnimate val="true"/>
-       <tileHorizontal val="false"/>
-       <tileVertical val="false"/>
-      </attrs>
-     </module>
-     <module type="READ" name="Aro_Delantero" pos="1009,-96,16" publishUnderTab="Aro_Delantero">
+     <module type="READ" name="Aro_Delantero" pos="1903,-158,16" publishUnderTab="Aro_Delantero">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1945,7 +1778,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Red_Delantera" pos="1117,-127,17" publishUnderTab="Red_Delantera">
+     <module type="READ" name="Red_Delantera" pos="2011,-189,17" publishUnderTab="Red_Delantera">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2057,7 +1890,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Sombra" pos="1246,-219,13" publishUnderTab="Shadow_1">
+     <module type="READ" name="Sombra" pos="2140,-281,13" publishUnderTab="Shadow_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2169,7 +2002,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="SHADOW" name="Shadow_1" pos="1253,-158,11" publishUnderTab="Shadow_1">
+     <module type="SHADOW" name="Shadow_1" pos="2147,-220,11" publishUnderTab="Shadow_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2193,7 +2026,7 @@
        <colourGain val="1" defaultValue="1"/>
       </attrs>
      </module>
-     <module type="PEG" name="Aro_Delantero-P" pos="1039,-157,6" publishUnderTab="Aro_Delantero-P">
+     <module type="PEG" name="Aro_Delantero-P" pos="1933,-219,6" publishUnderTab="Aro_Delantero-P">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -2256,9 +2089,9 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Red_Delantera-P" pos="1147,-188,7" publishUnderTab="Red_Delantera-P">
+     <module type="PEG" name="Red_Delantera-P" pos="2041,-250,7" publishUnderTab="Red_Delantera-P">
       <options>
-       <collapsed val="false"/>
+       <collapsed val="true"/>
        <version val="1"/>
       </options>
       <attrs>
@@ -2319,7 +2152,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Aro_Trasero-P" pos="1431,-281,8" publishUnderTab="Aro_Trasero-P">
+     <module type="PEG" name="Aro_Trasero-P" pos="2765,-312,8" publishUnderTab="Aro_Trasero-P">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -2382,9 +2215,9 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Red_Trasera-P" pos="1531,-250,9" publishUnderTab="Red_Trasera-P">
+     <module type="PEG" name="Red_Trasera-P" pos="2865,-281,9" publishUnderTab="Red_Trasera-P">
       <options>
-       <collapsed val="false"/>
+       <collapsed val="true"/>
        <version val="1"/>
       </options>
       <attrs>
@@ -2445,7 +2278,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Tablero-P_1" pos="1627,-219,10" publishUnderTab="Tablero-P_1">
+     <module type="PEG" name="Tablero-P_1" pos="2961,-250,10" publishUnderTab="Tablero-P_1">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -2507,7 +2340,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="Background" pos="737,-145,2" publishUnderTab="Background">
+     <module type="READ" name="Background" pos="3020,-158,3" publishUnderTab="Background">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2623,24 +2456,23 @@
     <linkedlist>
      <link out="Composite" in="Display"/>
      <link out="Composite" in="Write"/>
-     <link out="Aro_Trasero" in="Composite" inport="4"/>
-     <link out="Red_Trasera" in="Composite" inport="3"/>
+     <link out="Aro_Trasero" in="Composite" inport="3"/>
+     <link out="Red_Trasera" in="Composite" inport="2"/>
      <link out="Tablero-P" in="Tablero-P_1"/>
      <link out="Tablero-P" in="Red_Trasera-P"/>
      <link out="Tablero-P" in="Aro_Trasero-P"/>
      <link out="Tablero-P" in="Red_Delantera-P"/>
      <link out="Tablero-P" in="Aro_Delantero-P"/>
-     <link out="Tablero" in="Composite" inport="2"/>
+     <link out="Tablero" in="Composite" inport="1"/>
      <link out="Sombra-P" in="Sombra" inport="0"/>
      <link out="Basketball-P-P" in="Sombra-P"/>
      <link out="Basketball-P-P" in="Basketball-P"/>
      <link out="Basketball-P" in="Basketball" inport="0"/>
-     <link out="Basketball" in="Composite" inport="5"/>
-     <link out="dsadsd_1" in="Composite" inport="1"/>
-     <link out="Aro_Delantero" in="Composite" inport="8"/>
-     <link out="Red_Delantera" in="Composite" inport="7"/>
+     <link out="Basketball" in="Composite" inport="4"/>
+     <link out="Aro_Delantero" in="Composite" inport="7"/>
+     <link out="Red_Delantera" in="Composite" inport="6"/>
      <link out="Sombra" in="Shadow_1"/>
-     <link out="Shadow_1" in="Composite" inport="6"/>
+     <link out="Shadow_1" in="Composite" inport="5"/>
      <link out="Aro_Delantero-P" in="Aro_Delantero" inport="0"/>
      <link out="Red_Delantera-P" in="Red_Delantera" inport="0"/>
      <link out="Aro_Trasero-P" in="Aro_Trasero" inport="0"/>
