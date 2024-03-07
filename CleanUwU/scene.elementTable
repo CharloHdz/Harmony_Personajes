@@ -6,7 +6,8 @@
  <element id="6" elementName="Cat" elementFolder="Cat" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="7" elementName="AU" elementFolder="AU" pixmapFormat="11" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements"/>
  <element id="8" elementName="Courtain-Left" elementFolder="Courtain-Left" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
- <element id="9" elementName="Courtain-Right" elementFolder="Courtain-Right" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="10" elementName="Support" elementFolder="Support" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="11" elementName="PIso" elementFolder="PIso.11" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="12" elementName="Courtain-Left" elementFolder="Courtain-Left.12" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="13" elementName="shrek" elementFolder="shrek" pixmapFormat="11" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements"/>
 </elements>
