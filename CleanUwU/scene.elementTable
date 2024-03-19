@@ -11,4 +11,5 @@
  <element id="12" elementName="Courtain-Left" elementFolder="Courtain-Left.12" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="13" elementName="shrek" elementFolder="shrek" pixmapFormat="11" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements"/>
  <element id="14" elementName="Pared" elementFolder="Pared" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="15" elementName="CatColour" elementFolder="CatColour" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
 </elements>
