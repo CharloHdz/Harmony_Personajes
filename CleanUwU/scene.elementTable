@@ -4,7 +4,6 @@
  <element id="4" elementName="ezgif" elementFolder="ezgif" pixmapFormat="11" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements"/>
  <element id="5" elementName="Objects_Static" elementFolder="Objects_Static" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="6" elementName="Cat" elementFolder="Cat" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
- <element id="7" elementName="AU" elementFolder="AU" pixmapFormat="11" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements"/>
  <element id="8" elementName="Courtain-Left" elementFolder="Courtain-Left" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="10" elementName="Support" elementFolder="Support" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="11" elementName="PIso" elementFolder="PIso.11" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
@@ -14,4 +13,7 @@
  <element id="15" elementName="CatColour" elementFolder="CatColour" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="16" elementName="white" elementFolder="white" pixmapFormat="10" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements"/>
  <element id="17" elementName="62002" elementFolder="62002" pixmapFormat="10" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements"/>
+ <element id="20" elementName="Screenshot_20240320_154153" elementFolder="Screenshot_20240320_154153" pixmapFormat="10" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements"/>
+ <element id="22" elementName="Cat2" elementFolder="Cat2" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="23" elementName="tile000" elementFolder="tile000" pixmapFormat="10" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements"/>
 </elements>

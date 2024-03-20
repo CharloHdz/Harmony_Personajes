@@ -9,3 +9,4 @@ Solid    "Cat Principal Colour Shadow" 0x0c1ccd176f710894 102  73  54 255
 Solid    "Cat 3"                    0x0c1ccd176f710b95 224 193 185 255
 Solid    "Cat Principal Colour Light" 0x0c1ccd176f72fbb3 241 188 141 255
 Solid    Cama                       0x0c1cc33a3032389b 212 255 255 255
+Solid    courtainSupport            0x0c1d1c60418293f4 246 195   1 255
