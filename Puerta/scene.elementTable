@@ -3,6 +3,18 @@
  <element id="2" elementName="Puerta" elementFolder="Puerta" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="3" elementName="Puerta-sIDE" elementFolder="Puerta-sIDE" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="4" elementName="47382" elementFolder="47382" pixmapFormat="10" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements"/>
- <element id="5" elementName="Marco" elementFolder="Marco" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
- <element id="6" elementName="desktop" elementFolder="desktop" pixmapFormat="11" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements"/>
+ <element id="5" elementName="Marco_False" elementFolder="Marco_False" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="6" elementName="Piso" elementFolder="Piso" pixmapFormat="11" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements"/>
+ <element id="8" elementName="Pared" elementFolder="Pared" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="9" elementName="pngtree" elementFolder="pngtree" pixmapFormat="10" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements"/>
+ <element id="10" elementName="Marco_Side" elementFolder="Marco_Side" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="11" elementName="Marco" elementFolder="Marco.11" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="12" elementName="Marco" elementFolder="Marco.12" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="13" elementName="Marco_Side" elementFolder="Marco_Side.13" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="14" elementName="Puerta-sIDE" elementFolder="Puerta-sIDE.14" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="15" elementName="Puerta" elementFolder="Puerta.15" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="17" elementName="Marco_False" elementFolder="Marco_False.17" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="18" elementName="pngtree" elementFolder="pngtree.18" pixmapFormat="10" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements"/>
+ <element id="19" elementName="Piso" elementFolder="Piso.19" pixmapFormat="11" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements"/>
+ <element id="20" elementName="Pared" elementFolder="Pared.20" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
 </elements>

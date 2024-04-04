@@ -1,7 +1,4 @@
 ToonBoomAnimationInc PaletteFile 2
-Solid    Black                      0x0c205f292f601270   0   0   0 255
-Solid    White                      0x0c205f292f601273 255 255 255 255
-Solid    Red                        0x0c205f292f601276 255   0   0 255
-Solid    Green                      0x0c205f292f601279   0 255   0 255
-Solid    Blue                       0x0c205f292f60127c   0   0 255 255
-Solid    "Vectorized Line"          0x0000000000000003   0   0   0 255
+Solid    Puerta                     0x0c205f292f60127c 146 104  72 255
+Solid    Perilla                    0x0c205f292f606061 192 192 192 255
+Solid    Side                       0x0c205f292f606909 115  93  76 255
