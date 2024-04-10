@@ -1,21 +1,9 @@
 <!DOCTYPE SceneVersion>
-<SceneVersion VersionName="GatitoUwUCharacter" ID="1" Modified="2024-04-08 18:47:47">
- <Element ID="1" Name="Drawing" Folder="Drawing"/>
- <Element ID="2" Name="Cuerpo" Folder="Cuerpo">
-  <Drawing Key="" Name="1" Version="1"/>
+<SceneVersion ID="1" VersionName="GatitoUwUCharacter" Modified="2024-04-10 15:34:09">
+ <Element Folder="Gatito" ID="9" Name="Gatito">
+  <Drawing Version="1" Name="1" Key=""/>
  </Element>
- <Element ID="4" Name="Left_Arm" Folder="Left_Arm"/>
- <Element ID="5" Name="Right_Arm_up" Folder="Right_Arm_up">
-  <Drawing Key="" Name="1" Version="1"/>
-  <Drawing Key="" Name="1_1" Version="1"/>
- </Element>
- <Element ID="6" Name="Body_Up" Folder="Body_Up">
-  <Drawing Key="" Name="1" Version="1"/>
- </Element>
- <Element ID="7" Name="Body_Down" Folder="Body_Down">
-  <Drawing Key="" Name="1" Version="1"/>
- </Element>
- <Element ID="8" Name="Right_Arm_Down" Folder="Right_Arm_Down">
-  <Drawing Key="" Name="1" Version="1"/>
+ <Element Folder="D_Head" ID="10" Name="D_Head">
+  <Drawing Version="1" Name="1" Key=""/>
  </Element>
 </SceneVersion>
