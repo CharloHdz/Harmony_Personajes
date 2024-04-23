@@ -10,7 +10,9 @@
  <element id="18" elementName="D_LeftArm_Up" elementFolder="D_LeftArm_Up" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="19" elementName="D_RightLeg_Up" elementFolder="D_RightLeg_Up" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="20" elementName="D_RightLeg_Down" elementFolder="D_RightLeg_Down" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
- <element id="21" elementName="D_LeftLeg_Down" elementFolder="D_LeftLeg_Down" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
- <element id="22" elementName="D_LeftLeg_Up" elementFolder="D_LeftLeg_Up" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="23" elementName="Pongan_Piso" elementFolder="Pongan_Piso" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="24" elementName="D_RightFoot" elementFolder="D_RightFoot" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="25" elementName="D_RightLeg_Down" elementFolder="D_RightLeg_Down.25" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="26" elementName="D_RightFoot" elementFolder="D_RightFoot.26" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="27" elementName="D_LeftLeg_Up" elementFolder="D_LeftLeg_Up.27" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
 </elements>
