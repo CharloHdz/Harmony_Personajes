@@ -1,52 +1,52 @@
 <!DOCTYPE SceneVersion>
-<SceneVersion Modified="2024-04-26 12:46:29" VersionName="GatitoUwUCharacter" ID="1">
+<SceneVersion Modified="2024-04-28 18:23:04" ID="1" VersionName="GatitoUwUCharacter">
  <Element Name="Gatito" Folder="Gatito" ID="9">
-  <Drawing Name="1" Version="1" Key=""/>
+  <Drawing Version="1" Name="1" Key=""/>
  </Element>
  <Element Name="D_Head" Folder="D_Head" ID="10">
-  <Drawing Name="1" Version="1" Key=""/>
+  <Drawing Version="1" Name="1" Key=""/>
  </Element>
  <Element Name="D_RightArm_Up" Folder="D_RightArm_Up" ID="13">
-  <Drawing Name="1" Version="1" Key=""/>
+  <Drawing Version="1" Name="1" Key=""/>
  </Element>
  <Element Name="D_RightArm_Down" Folder="D_RightArm_Down" ID="14">
-  <Drawing Name="1" Version="1" Key=""/>
+  <Drawing Version="1" Name="1" Key=""/>
  </Element>
  <Element Name="D_Body_Down" Folder="D_Body_Down" ID="15">
-  <Drawing Name="1" Version="1" Key=""/>
+  <Drawing Version="1" Name="1" Key=""/>
  </Element>
  <Element Name="D_Body_UP" Folder="D_Body_UP" ID="16">
-  <Drawing Name="1" Version="1" Key=""/>
+  <Drawing Version="1" Name="1" Key=""/>
  </Element>
  <Element Name="D_LeftArm_Down" Folder="D_LeftArm_Down" ID="17">
-  <Drawing Name="1" Version="1" Key=""/>
+  <Drawing Version="1" Name="1" Key=""/>
  </Element>
  <Element Name="D_LeftArm_Up" Folder="D_LeftArm_Up" ID="18">
-  <Drawing Name="1" Version="1" Key=""/>
+  <Drawing Version="1" Name="1" Key=""/>
  </Element>
  <Element Name="D_RightLeg_Up" Folder="D_RightLeg_Up" ID="19">
-  <Drawing Name="1" Version="1" Key=""/>
-  <Drawing Name="2" Version="1" Key=""/>
+  <Drawing Version="1" Name="1" Key=""/>
+  <Drawing Version="1" Name="2" Key=""/>
  </Element>
  <Element Name="D_RightLeg_Down" Folder="D_RightLeg_Down" ID="20">
-  <Drawing Name="1" Version="1" Key=""/>
-  <Drawing Name="2" Version="1" Key=""/>
+  <Drawing Version="1" Name="1" Key=""/>
+  <Drawing Version="1" Name="2" Key=""/>
  </Element>
  <Element Name="Pongan_Piso" Folder="Pongan_Piso" ID="23">
-  <Drawing Name="1" Version="1" Key=""/>
+  <Drawing Version="1" Name="1" Key=""/>
  </Element>
  <Element Name="D_RightFoot" Folder="D_RightFoot" ID="24">
-  <Drawing Name="1" Version="1" Key=""/>
+  <Drawing Version="1" Name="1" Key=""/>
  </Element>
  <Element Name="D_RightLeg_Down" Folder="D_RightLeg_Down.25" ID="25">
-  <Drawing Name="2" Version="1" Key=""/>
-  <Drawing Name="1" Version="1" Key=""/>
+  <Drawing Version="1" Name="2" Key=""/>
+  <Drawing Version="1" Name="1" Key=""/>
  </Element>
  <Element Name="D_RightFoot" Folder="D_RightFoot.26" ID="26">
-  <Drawing Name="1" Version="1" Key=""/>
+  <Drawing Version="1" Name="1" Key=""/>
  </Element>
  <Element Name="D_LeftLeg_Up" Folder="D_LeftLeg_Up.27" ID="27">
-  <Drawing Name="2" Version="1" Key=""/>
-  <Drawing Name="1" Version="1" Key=""/>
+  <Drawing Version="1" Name="2" Key=""/>
+  <Drawing Version="1" Name="1" Key=""/>
  </Element>
 </SceneVersion>
