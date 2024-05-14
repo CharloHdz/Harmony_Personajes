@@ -2,4 +2,5 @@
 <elements source="Harmony Premium (HarmonyPremium.exe) version 21.1.0 build 18394 2022-05-04 01:21:50" version="2110" build="18394">
  <element id="1" elementName="Drawing" elementFolder="Drawing" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="2" elementName="ff65def7e836801cf919bbe03e0c3dce" elementFolder="ff65def7e836801cf919bbe03e0c3dce" pixmapFormat="10" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements"/>
+ <element id="3" elementName="a" elementFolder="a" pixmapFormat="11" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements"/>
 </elements>
